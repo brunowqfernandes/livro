@@ -1,0 +1,86 @@
+/* Style*/
+
+.img-banner{
+  width: 100%;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.img-subtitle{
+  text-align: left;
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 0px;
+  color: #000000;
+  margin-bottom: .5rem;
+}
+
+.img-credit{
+  text-align: left;
+  font-size: 0.625rem;
+  color: #71706F;
+  letter-spacing: 0px;
+  font-weight: 300;
+  margin-bottom: 1rem;
+
+}
+
+.bullet-list{
+  margin-left: 1rem;
+}
+
+.boxe-06-02-cie{
+  text-align: center;
+}
+
+
+
+.boxe-06-texto{
+  background-color: var(--color-bio-d2);
+  font-weight: bold;
+  color: #fff;
+  padding: 0.25rem .5rem;
+}
+
+.titulo1{ 
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #45973D;
+  margin-top: 3rem;
+
+}
+
+.gloss-link{
+  color: #45973D;
+  font-weight: bold;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+
+}
+.gloss-tooltip {
+  background-color: white;
+  border: 3px solid #45973D;
+  border-radius: 4px;
+  max-width: 550px;
+  padding: .5rem;
+  transform: translate(10%, -72px);
+  position: absolute;
+  z-index: 10;
+}
+ .gloss-tooltip::after {
+  content:'';
+  width: 0; 
+  height: 0; 
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #45973D;
+  position: absolute;
+  transform: translate(50%, 11px );
+}
+
+.gloss-tooltip:hover .gloss-tooltip  {
+  opacity: 1;
+
+}
