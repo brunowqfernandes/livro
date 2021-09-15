@@ -113,8 +113,8 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 16px;
-
+/*   gap: 16px;
+ */
 }
 
 .text-content-area {
@@ -137,14 +137,14 @@ section {
 }
 
 .double-columned-content-left {
-  width: 70%;
+  width: 30%;
   display: flex;
   flex-flow: column;
   /* width: 50%; */
 }
 
 .double-columned-content-right {
-  min-width: 30%;
+  width: 70%;
   display: flex;
   flex-flow: column;
 }
