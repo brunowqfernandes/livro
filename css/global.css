@@ -137,14 +137,14 @@ section {
 }
 
 .double-columned-content-left {
-  width: 30%;
+  width: 40%;
   display: flex;
   flex-flow: column;
   /* width: 50%; */
 }
 
 .double-columned-content-right {
-  width: 70%;
+  width: 60%;
   display: flex;
   flex-flow: column;
 }
