@@ -14,6 +14,7 @@
   letter-spacing: 0px;
   color: #000000;
   margin-bottom: .5rem;
+  width: 70%;
 }
 
 .img-credit{
@@ -172,6 +173,22 @@
   width: 100%;
 }
 
+.img-md-exercicio {
+  min-width: 391px;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.img-credit-exercicio {
+  min-width: 400px;
+  text-align: center;
+  font-size: 0.625rem;
+  color: #71706F;
+  letter-spacing: 0px;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  
+}
 .img-group-section {
   display: flex;
   gap: 1.5rem;
@@ -199,9 +216,13 @@ th {
   padding: 8px;
 }
 tbody tr td:first-child {
-  color:blue;
   background: #DEEEDE;
-  width:200px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tg-0lax {
+  text-align: center;
 }
 
 
@@ -249,6 +270,10 @@ tbody tr td:first-child {
   content: " ";
   width: 200px;
 
+}
+
+.ml { 
+  margin-left: 1rem;
 }
 
 .questao-resolvida p{
@@ -323,32 +348,8 @@ tbody tr td:first-child {
   padding: 8px;
 }
 
-.double-columned-exercicios {
-  max-width: 100%;
-  width: 100%;
-  gap: 24px;
-  display: flex;
-  justify-content: center;
-  align-items: initial;
-  padding: 16px 0;
-}
-
-.double-columned-exercicios-left {
-  width: 50%;
-  display: flex;
-  flex-flow: column;
-  /* width: 50%; */
-  border-right: 1px dotted #707070;
-}
-
-.double-columned-exercicios-right {
-  width: 50%;
-  display: flex;
-  flex-flow: column;
-}
-
 .exercicios {
-  margin-top: 2rem;
+  margin-top: 3rem;
   color: white;
   font-size: 1.25rem;
   font-family: 'Prelo', sans-serif;
@@ -384,6 +385,113 @@ tbody tr td:first-child {
 
   border: 3px solid #F7A941;
   background-color: #FCE1BC;
-  margin-top: 2rem;
+  margin-top: 3rem;
   
+}
+
+.tg  {
+  margin: 1rem auto;
+  min-width: 400px;
+  border-collapse:collapse;
+  border-spacing:0;
+
+}
+.tg td{
+  border-color:#62ad68;
+  border-style:solid;
+  border-width:1px;
+  font-size:1rem;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+
+.tg th{
+  border-color:#62ad68;
+  border-style:solid;
+  border-width:1px;
+  font-size:1rem;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+
+.tg .tg-dtp4{background-color:#deeede;
+  border-color:inherit;
+  color:#62ad68;
+  text-align:center;
+  vertical-align:middle;
+}
+.tg .tg-k3ji{
+  background-color:#62ad68;
+  padding: 0 0.5rem;
+  border-color:inherit;
+  text-align:center;
+  vertical-align:middle;
+  color: white;
+  text-transform: uppercase;
+}
+.tg .tg-0pky{
+  border-color:inherit;
+  text-align:center;
+  vertical-align:middle;
+}
+
+.enem{ 
+  color: white;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+
+  background-color:#BD8432;
+  border: 3px solid #fff;
+  padding: 0.5rem;
+  margin-top: 3rem;
+}
+
+
+a.tooltip {
+  text-decoration: none;
+  color: #45973D;
+  font-weight: bold;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  transition: all 0.4s ease;
+  -webkit-transition: all .4s ease;
+  padding: 5px;
+  background-color: #FFF;
+  position: relative;
+}
+a.tooltip:before {
+  content: attr(data-title);
+  background-color: white;
+  border: 3px solid #45973D;
+  color: black;
+  font-size: 1rem;
+  padding: 10px;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  bottom: 35px;
+  width: 250px;
+  opacity: 0;
+  transition: all .4s ease;
+}
+a.tooltip:after {
+  content: "";
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  left: 5px;
+  bottom: 25px;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #45973D transparent;
+  transition: all .4s ease;
+  transform: rotateX(180deg);
+}
+a.tooltip:hover:after,
+a.tooltip:hover:before {
+  opacity: 1;
 }
