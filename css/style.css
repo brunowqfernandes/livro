@@ -15,7 +15,6 @@
   margin-bottom: .5rem;
 }
 
-.ml-25{margin-left: 25%;}
 .img-subtitle{
   text-align: left;
   font-size: 1rem;
@@ -50,12 +49,13 @@
 .boxe-06-02-cie{
   text-align: center;
   display: flex;
+  align-items: flex-start;
   gap: 0.5rem;
   margin-top: 1rem;
 }
 
 .boxe-06-02-icon {
-  width: 1.25rem;
+  width: 24px;
 }
 
 .boxe-06-texto{
@@ -83,14 +83,7 @@
 
 }
 
-.titulo-cap-section {
-  display: flex;
-  position: absolute;
-  top: 52px;
-  left: 52px;
-  z-index: 10;
-  width: 740px;
-}
+
 
 .cap-section {
   display: flex;
@@ -127,7 +120,6 @@
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
-  letter-spacing: .1rem;
 }
 
 .cap-number{
@@ -188,16 +180,7 @@
   max-width: 280px;
 }
 
-.img-md{
-  margin-top: 1rem;
-  width: 100%;
-}
 
-.img-md-exercicio {
-  min-width: 391px;
-  align-items: center;
-  margin-top: 1rem;
-}
 
 .img-credit-exercicio {
   min-width: 400px;
