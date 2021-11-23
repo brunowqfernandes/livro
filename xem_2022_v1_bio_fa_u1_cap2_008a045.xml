@@ -1,0 +1,524 @@
+<Marca1>
+<Root>
+<titulo_cap>Proteínas e enzimas</titulo_cap>
+<imagem>shutterstock_1082210387.png</imagem>
+<legenda>Representação artística de molécula proteica de um anticorpo.</legenda>
+<credito>Design_Cells/Shutterstock.com</credito>
+<texto_geral>
+Dando continuidade ao capítulo anterior, vamos conhecer mais um importante grupo de biomoléculas que compõe os seres vivos e complementa a lógica molecular que rege a vida. Ao observarmos uma célula por meio do microscópio ou analisarmos sua atividade, estamos, na realidade, olhando também para muitas moléculas chamadas
+<caracter_negrito>proteínas</caracter_negrito>
+.
+</texto_geral>
+<texto_geral>
+O termo deriva do grego
+<caracter_italico>protos, </caracter_italico>
+que significa “primeira”, “essencial” ou ainda “mais importante”, fazendo referência à abundância dessas biomoléculas na composição química dos seres vivos e ao fato de estarem relacionadas praticamente a todas as funções celulares. Além de exercerem papel estrutural, as proteínas podem se apresentar como moléculas sinalizadoras, transportadoras ou catalisadoras, a fim de garantir o desenvolvimento, o crescimento e o funcionamento dos organismos como um todo. Portanto, antes de compreendermos como o nosso corpo funciona, é preciso aprofundarmos nosso conhecimento sobre as proteínas.
+</texto_geral>
+<item_lista>• Quais tipos de funções proteicas podem ser encontrados?</item_lista>
+<texto_bullets/>
+<item_lista>• Em quais aspectos as proteínas se diferenciam umas das outras? </item_lista>
+<texto_bullets/>
+<item_lista>• Uma dieta rica em proteínas deverá, necessariamente, conter alimentos de origem animal?</item_lista>
+<texto_bullets/>
+<titulo1>O que são proteínas?</titulo1>
+<texto_geral>Assim como a maioria das macromoléculas, as proteínas são polímeros lineares, constituídos por monômeros, denominados aminoácidos. Todo aminoácido é composto de átomos de carbono (C), hidrogênio (H), oxigênio (O) e nitrogênio (N), que se arranjam em duas terminações: uma amina (–NH2) e outra carboxila (–COOH).</texto_geral>
+<texto_geral>No carbono que une as terminações, conhecido por carbono a, além de um átomo de hidrogênio, encontra-se ligada uma cadeia lateral – denominada “radical” –, a qual varia entre os diferentes tipos de aminoácidos existentes. Na figura a seguir, podemos observar a disposição espacial dos elementos químicos na estrutura de um aminoácido.</texto_geral>
+<imagem>ID002-I001-2020-EM-BIO-1-L1-FA-U1-C2.png</imagem>
+<legenda>Representação da estrutura química geral dos aminoácidos.</legenda>
+<texto_geral>As cadeias laterais se diferenciam umas das outras por meio do tamanho, da forma, da capacidade de reagir quimicamente e, até mesmo, dos átomos que as compõem. Ao todo, 20 tipos de aminoácidos podem ser encontrados na composição de proteínas presentes nos seres vivos. Na página seguinte, encontram-se as fórmulas estruturais que representam cada um desses aminoácidos.</texto_geral>
+<texto_geral>
+Os organismos vegetais têm a capacidade de sintetizar todos os 20 aminoácidos necessários para a construção de suas proteínas. Nos animais, inclusive nos seres humanos, alguns aminoácidos são sintetizados pelas próprias células, enquanto outros, ou são sintetizados em quantidades insuficientes ou não são produzidos e, portanto, devem ser adquiridos prontos por meio da alimentação. Assim, considerando a forma de obtenção dos aminoácidos, é possível classificá-los respectivamente como
+<caracter_negrito>naturais</caracter_negrito>
+e
+<caracter_negrito>essenciais</caracter_negrito>
+.
+</texto_geral>
+<texto_geral>Os aminoácidos essenciais podem ser obtidos, dentre outros alimentos, por meio da ingestão de carnes vermelhas, frango, peixes, ovos, queijos, proteínas da soja, feijão, lentilha, amêndoas, amendoim, castanha-do-pará, aveia, granola e arroz. Vale destacar que são poucos os alimentos que contêm todos os aminoácidos essenciais e que, por esse motivo, uma dieta variada é de extrema importância para a manutenção e o funcionamento do organismo.</texto_geral>
+<boxe_05>
+Em Química, vemos que...
+<boxe_05_texto>... quando um átomo de carbono se une a quatro ligantes diferentes, ele é conhecido como carbono quiral ou assimétrico, comumente representado por C*. Note que a estrutura geral dos aminoácidos conta com a presença de um carbono quiral – a única exceção é a glicina, a qual apresenta como radical um átomo de hidrogênio.O carbono a, que compõe os aminoácidos, é um centro quiral e permite que os monômeros sejam opticamente ativos, assumindo duas diferentes formas isoméricas: a dextrogira (D) e a levogira (L).Nos organismos existem apenas proteínas constituídas de L-aminoácidos, esta é uma importante característica química da vida.</boxe_05_texto>
+</boxe_05>
+<boxe_02_titulo1>
+MAIS
+<boxe_02_texto>Proteínas – Os 8 Mitos da Proteína Vegetal. Alimentação Sem Carne Dr. Eric Slywitch.Você já deve ter ouvido falar sobre dietas baseadas quase exclusivamente no consumo de alimentos de origem vegetal e, junto delas, uma enxurrada de informações favoráveis e contrárias a esse estilo de vida. Mas o que é realmente comprovado sobre essa forma de alimentação? Para conhecer mais sobre o assunto e desmitificar alguns pontos, assista ao vídeo produzido pela Sociedade Vegetariana Brasileira (SVB).Disponível em: http://p.p4ed.com/ZGXHV.</boxe_02_texto>
+</boxe_02_titulo1>
+<imagem>ID003-I002-2020-EM-BIO-1-L1-FA-U1-C2.png</imagem>
+<legenda>Representação dos 20 tipos de aminoácidos.</legenda>
+<titulo2>União entre aminoácidos</titulo2>
+<texto_geral>
+A ligação entre aminoácidos ocorre entre a terminação amina de um e a terminação carboxila de outro. Essa ligação é chamada de
+<caracter_negrito>ligação peptídica</caracter_negrito>
+. Por resultar na liberação de uma molécula de água, assim como para a formação dos carboidratos, trata-se de uma reação de síntese por desidratação.
+</texto_geral>
+<imagem>ID004-I003-2020-EM-BIO-1┬║-L1-FA-U1-C2.png</imagem>
+<legenda>Esquema da formação de um dipeptídeo. Note a união entre dois aminoácidos por uma ligação peptídica.</legenda>
+<texto_geral>
+Quando dois aminoácidos se unem por meio de uma ligação peptídica, conforme mostra a figura anterior, o produto formado é denominado
+<caracter_negrito>peptídeo</caracter_negrito>
+ou dipeptídeo. O termo proteína é comumente empregado para designar macromoléculas resultantes da união de vários aminoácidos, também chamadas de cadeias polipeptídicas ou polipeptídeos.
+</texto_geral>
+<texto_geral>As proteínas podem ser constituídas por uma única cadeia polipeptídica, como é o caso da queratina, ou ainda serem formadas por mais de uma cadeia polipeptídica – por exemplo, a hemoglobina, a qual apresenta quatro cadeias polipeptídicas em sua conformação.</texto_geral>
+<titulo2>Estrutura das proteínas</titulo2>
+<texto_geral>Em geral, as proteínas assumem formas tridimensionais. A sequência de aminoácidos é fundamental para a determinação desse arranjo e, consequentemente, para todas as demais propriedades das proteínas. Assim, como veremos a seguir, as proteínas podem assumir quatro conformações estruturais.</texto_geral>
+<titulo3>Estrutura primária</titulo3>
+<texto_geral>
+A estrutura primária de uma proteína corresponde à
+<caracter_negrito>sequência linear de aminoácidos</caracter_negrito>
+, que por sua vez se unem por meio das ligações peptídicas. Essas sequências são definidas com precisão, uma vez que a estrutura é essencial na determinação da função que a proteína desempenhará. Tal precisão fica a cargo das informações contidas no material genético dos organismos. Alterações nesse material, conhecidas por mutações gênicas, podem prejudicar ou impedir que as proteínas exerçam seu papel biológico, resultando, assim, em anomalias, síndromes ou até mesmo no óbito precoce do indivíduo.
+</texto_geral>
+<titulo3>Estrutura secundária</titulo3>
+<texto_geral>
+Por consequência das características apresentadas pelas cadeias laterais de cada aminoácido e também pelos átomos que não participam das ligações peptídicas, a cadeia polipeptídica tende a se dobrar e enovelar. As conformações assumidas pelos polipeptídeos são decorrentes de um padrão regular de
+<caracter_negrito> ligações de hidrogênio</caracter_negrito>
+que ocorrem entre os grupamentos N–H e C=O, podendo ser de dois tipos principais: a alfa-hélice ou a folha beta-pregueada.
+</texto_geral>
+<titulo3>Estrutura terciária</titulo3>
+<texto_geral>
+A estrutura terciária representa o arranjo tridimensional que uma proteína pode apresentar. Essa conformação é resultado das inúmeras interações de atração e repulsão que ocorrem entre as diferentes regiões dos aminoácidos, como por exemplo, as ligações covalentes entre os átomos de enxofre chamadas de
+<caracter_negrito>dissulfeto</caracter_negrito>
+.
+</texto_geral>
+<titulo3>Estrutura quaternária</titulo3>
+<texto_geral>
+Enquanto as estruturas terciárias são representadas por cadeias polipeptídicas únicas, a estrutura
+<caracter_negrito>quaternária</caracter_negrito>
+é
+<caracter_negrito>resultante da união entre dois ou mais polipeptídeos</caracter_negrito>
+. A hemoglobina é um exemplo de proteína que apresenta esse tipo de estrutura, sendo constituída, mais especificamente, por quatro cadeias polipeptídicas.
+</texto_geral>
+<imagem>ID008-I006-2020-EM-BIO-1┬║-L1-FA-U1-C2.png</imagem>
+<titulo4>Fatores ambientais influenciam a estrutura das proteínas</titulo4>
+<texto_geral>
+As alterações estruturais que ocorrem nas moléculas de proteínas não necessariamente se restringem às mutações gênicas citadas anteriormente. Outros fatores, como aumento de temperatura, variações de pH e altas concentrações de substâncias polares e apolares, podem resultar em modificações na sua forma e afetar, consequentemente, sua função. Esse processo é conhecido como
+<caracter_negrito>desnaturação</caracter_negrito>
+, fenômeno que, em alguns casos, é reversível (renaturação), mas que, na maioria das vezes, não.
+</texto_geral>
+<texto_geral>Para compreendermos melhor esse conceito, vamos pensar em um exemplo prático do dia a dia: certamente, em algum momento da sua vida, você já deve ter visto um ovo cru e um ovo cozido. Envolvendo toda a gema existe a clara, uma substância cuja composição consiste na proteína albumina e que, nas duas situações anteriores, assumem diferentes consistências. No ovo cru, a clara é translúcida e mole; já no ovo cozido, a mesma clara passa a apresentar coloração branca e consistência endurecida. Essa diferença ocorre por causa da elevação da temperatura durante oprocesso de cozimento, que resulta no rompimento das ligações que mantinham a estrutura terciária da albumina e levam a sua desnaturação. Uma vez que o ovo foi cozido, é impossível retornar à consistência inicial da clara, caracterizando-se como um exemplo de desnaturação irreversível.</texto_geral>
+<titulo2>Funções proteicas</titulo2>
+<texto_geral>Retomando o conceito de proteínas, sabemos que elas são formadas basicamente por aminoácidos que se unem por ligações peptídicas e são consideradas as macromoléculas mais versáteis presentes nos sistemas vivos, sendo responsáveis por desempenhar atividades fundamentais. Para melhor compreensão desse tópico, tenha em mente que, para exercer suas variadas funções, cada proteína precisa se juntar a ligantes específicos.</texto_geral>
+<titulo3>Reserva energética</titulo3>
+<texto_geral>Assim como as macromoléculas estudadas no capítulo anterior, as proteínas também podem ser aproveitadas como fonte de energia para a manutenção das funções celulares. Por meio do metabolismo dos aminoácidos, são geradas moléculas capazes de participar do processo metabólico que produz energia para o funcionamento das células. Entretanto, o consumo dessas moléculas para esse fim acontece somente na ausência de outros substratos energéticos, como carboidratos e lipídeos.</texto_geral>
+<titulo3>Estrutural</titulo3>
+<texto_geral>A principal função exercida pelas proteínas é a de componente estrutural fundamental de inúmeras partes do corpo dos seres vivos, inclusive das células. As proteínas estão presentes, entre outros exemplos, nos músculos (actina e miosina), atuando na contração muscu-lar; em cartilagens, ossos, tendões e pele (colágeno), conferindo rigidez e forma a esses órgãos; e em tecidos, compondo anexos do tecido epidérmico (queratina), co-mo unhas e cabelos. Nas células, além de compor a estrutura da membrana plasmática, as proteínas também podem atuar como receptores capazes de receber e reconhecer sinais intracelulares e extracelulares ou, ainda, agir como moléculas transportadoras de substâncias.</texto_geral>
+<titulo3>Transporte</titulo3>
+<texto_geral>Algumas proteínas têm a capacidade de carregar substâncias para as diferentes partes do corpo dos seres vivos. A hemoglobina, por exemplo, é responsável por transportar oxigênio para os tecidos. As proteínas transportadoras presentes na membrana plasmática, também chamadas de carreadoras, possibilitam a passagem seletiva de íons, pequenas moléculas e macromoléculas de dentro para fora das células, e vice-versa.</texto_geral>
+<titulo3>Defesa</titulo3>
+<texto_geral>
+As células do sistema imunitário produzem proteínas em resposta à presença de microrganismos invasores ou moléculas estranhas ao organismo, os quais são genericamente chamados de antígenos. Essas proteínas são os
+<caracter_negrito>anticorpos</caracter_negrito>
+, ou imunoglobulinas, e apresentam alta especificidade em relação aos antígenos, reconhecendo-os e ligando-se a eles de modo a inativá-los ou marcá-los para serem destruídos.
+</texto_geral>
+<titulo3>Regulação</titulo3>
+<texto_geral>
+Hormônios são substâncias químicas lançadas na corrente sanguínea, responsáveis por controlar atividades metabólicas no organismo, já que interagem de maneira específica com as células-alvo. Entre eles, o grupo mais numeroso é quimicamente composto de proteínas de diferentes pesos moleculares, produzidas em várias regiões do corpo, como é o caso da insulina e do glucagon, produzidos no pâncreas e responsáveis pela manutenção da
+<caracter_negrito>glicemia</caracter_negrito>
+do indivíduo.
+</texto_geral>
+<texto_gloss_titulo>
+<caracter_negrito>Glicemia:</caracter_negrito>
+nível de glicose presente no sangue.
+</texto_gloss_titulo>
+<titulo3>Catálise</titulo3>
+<texto_geral>Catalisadores são substâncias capazes de alterar a velocidade de ocorrência de uma reação química, diminuindo sua energia de ativação necessária, isto é, a energia mínima para que ela aconteça. </texto_geral>
+<texto_geral>Em sistemas não vivos, uma das maneiras de mudar a dinâmica de uma reação é fornecer a energia mínima necessária para que ela ocorra, por exemplo, aumentando a temperatura. Isso garante que as moléculas dos reagentes se movimentam mais rapidamente, elevando as chances de se chocarem. Entretanto, nos seres vivos, isso não ocorre, pois é importante que não haja aumentos significativos na temperatura, uma vez</texto_geral>
+<texto_geral>que, como vimos anteriormente, altas temperaturas ocasionam a desnaturação de proteínas. </texto_geral>
+<texto_geral>Além do mais, nos organismos vivos, as inúmeras reações químicas ocorrem de maneira diferenciada em nível celular e extracelular. As reações extracelulares são geralmente muito lentas e pouco espontâneas. </texto_geral>
+<texto_geral>
+Para garantir a ocorrência dessas reações, proteínas especializadas, chamadas
+<caracter_negrito>enzimas</caracter_negrito>
+, possibilitam a ocorrência de várias reações sem serem consumidas. Além do mais, as reações catalisadas por enzimas são conectadas em série, ou seja, o produto de uma reação se torna o reagente da seguinte. Podemos citar, dentre outros exemplos de enzimas, aquelas encontradas no sistema digestório, como a amilase salivar (ou ptialina), as proteases e as lipases.
+</texto_geral>
+<texto_geral>A fim de se conhecer ainda mais sobre as enzimas, a seguir, abordaremos as definições e as funções desse grupo específico de proteínas.</texto_geral>
+<titulo2>Enzimas</titulo2>
+<texto_geral>Nos sistemas biológicos, as enzimas determinam padrões nas transformações químicas. E, apesar de estarmos tratando delas como proteínas, outras macromoléculas parecem apresentar poder catalítico, igualmente eficiente às enzimas proteicas, como é o caso dos chamados RNAs catalíticos, ou ribozimas. </texto_geral>
+<texto_geral>No que diz respeito às enzimas proteicas, duas importantes características devem ser destacadas: o grande poder catalítico e a alta especificidade que apresentam.</texto_geral>
+<texto_geral>Quanto ao poder catalítico, ao tratar das funções das proteínas, estudamos que algumas conseguem acelerar a velocidade das reações diminuindo a energia de ativação necessária para a sua ocorrência. No gráfico a seguir, podemos ver a diferença de energia de ativação entre uma reação com a participação (ou não) de uma enzima.</texto_geral>
+<imagem>ID009-G001-2020-EM-BIO-1-L1-FA-U1-C2.png</imagem>
+<legenda>Energia de ativação necessária para ocorrência de uma reação na presença e na ausência de enzimas.</legenda>
+<texto_geral>Imagine o seguinte: para construir um caminho em regiões montanhosas, muitas vezes nos valemos de túneis para alcançar rapidamente o destino. Do contrário, teríamos que subir e descer as várias montanhas pelo caminho, tornando a viagem ainda mais longa. As enzimas agem de forma semelhante: são como os túneis que encurtam o caminho a ser percorrido.</texto_geral>
+<texto_geral>Ao dizer que uma enzima é altamente específica, deve-se considerar tanto as reações a serem catalisadas quanto os reagentes aos quais ela se ligará. A partir de agora, quando nos referirmos aos reagentes de uma reação utilizaremos o termo “substrato”. Tal especificidade ocorre por causa da estrutura tridimensional apresentada por ambas as moléculas. </texto_geral>
+<texto_geral>
+O reconhecimento e a ligação do substrato à enzima formam a primeira etapa do processo catalítico e ocorrem em uma região específica da enzima denominada
+<caracter_negrito>sítio ativo</caracter_negrito>
+, resultando na formação de um estado de transição conhecido como
+<caracter_negrito> complexo enzima-substrato</caracter_negrito>
+.
+</texto_geral>
+<texto_geral>Acreditava-se, em um primeiro momento, que enzimas e substratos fossem complementares uns aos outros, resultando em um encaixe perfeito, como entre a chave e a fechadura. Entretanto, atualmente, a especificidade é explicada pelo modelo de “encaixe induzido”, no qual parte do substrato se liga à enzima na região do sítio ativo correspondente, alterando a conformação dessa subunidade e permitindo, assim, a associação completa entre substrato e enzima.</texto_geral>
+<imagem>ID010-I007-2020-EM-BIO-1-L1-FA-U1-C2.png</imagem>
+<legenda>Modelos de interação entre enzima e substrato.</legenda>
+<texto_geral>Ao final da catálise enzimática, as enzimas poderão ser reutilizadas, caso ainda haja substrato. Os produtos originados poderão ter sido derivados da quebra ou da junção entre substratos. Observe as etapas na figura a seguir.</texto_geral>
+<imagem> ID003-F003-2020-EM-BIO-1-L1-FA-U1-C31.png</imagem>
+<legenda>Representação das etapas da catálise enzimática.</legenda>
+<credito>VectorMine/Shutterstock.com</credito>
+<titulo4>Classificação das enzimas</titulo4>
+<texto_geral>
+Enzimas podem ser classificadas em
+<caracter_negrito>simples</caracter_negrito>
+ou
+<caracter_negrito>conjugadas</caracter_negrito>
+. No caso destas, para que a atividade catalítica seja realizada, é necessário que pequenas moléculas estejam ligadas ao sítio ativo da enzima. Essas moléculas são conhecidas como
+<caracter_negrito>cofatores</caracter_negrito>
+e podem estar unidas à enzima de maneira transitória ou permanente, constituindo o grupo prostético. Os cofatores podem ser de dois tipos: inorgânicos (normalmente íons metálicos), ou orgânicos, que são denominados
+<caracter_negrito>coenzimas</caracter_negrito>
+e derivados de moléculas de vitaminas.
+</texto_geral>
+<titulo4>Atividade enzimática</titulo4>
+<texto_geral>As enzimas geralmente recebem o nome do substrato sobre o qual agem mais o sufixo “-ase”. Se retornarmos aos exemplos dados temos a amilase salivar, cujo substrato é o amido; as proteases, grupo de enzimas que agem sobre proteínas; e a lipase, a qual atua sobre moléculas de lipídeos.</texto_geral>
+<texto_geral>Algumas condições podem afetar diretamente a atividade enzimática, entre elas a concentração de substrato, a temperatura e o pH do meio no qual a reação irá ocorrer. </texto_geral>
+<texto_geral>Enzima e substrato interagem por meio do sítio de ligação. Dessa forma, enquanto há sítios livres, com elevação e concentração de substrato, a velocidade da reação será aumentada. Isso ocorrerá até a saturação das enzimas, isto é, até que haja substrato suficiente para que o sítio ativo de todas as enzimas esteja ocupado, não alterando mais a velocidade da reação.</texto_geral>
+<texto_geral> A maioria das enzimas apresenta valores de pH e temperatura ideais, nos quais a velocidade da reação é elevada, garantindo sua máxima atividade. Eles variam de organismo para organismo.</texto_geral>
+<boxe_17>
+<boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+<boxe_17_texto>
+<boxe_17/>
+<boxe_17_texto>A alteração da temperatura e pH podem promover a desnaturação que altera o sítio ativo da molécula, impedindo que o substrato se ligue à região e que a reação ocorra.</boxe_17_texto>
+</boxe_17_texto>
+</boxe_17>
+<texto_geral>
+Se considerarmos que no ser humano, por exemplo, a temperatura corpórea deve ficar em torno de 36,5 °C – sendo considerada uma
+<caracter_negrito>temperatura ótima</caracter_negrito>
+para o funcionamento de suas enzimas –, quanto mais baixa a temperatura, menor será a quantidade de energia para a reação, diminuindo a eficiência da enzima; em temperaturas superiores à ótima, a atividade da reação tende a diminuir, por causa da desnaturação.
+</texto_geral>
+<imagem>ID013-G003-2020-EM-BIO-1-L1-FA-U1-C2.png</imagem>
+<legenda>Curva da relação entre a atividade enzimática e a temperatura.</legenda>
+<texto_geral>
+Cada enzima apresenta um valor de
+<caracter_negrito>pH ótimo </caracter_negrito>
+característico, e não necessariamente o pH do meio deve ser idêntico ao de atuação da enzima. A eficiência dela tende a aumentar conforme o pH do meio se aproximar do ótimo. Variações bruscas nos valores do pH – por exemplo, quando um meio alcalino se torna abruptamente ácido – podem resultar na desnaturação e consequente ineficiência da enzima.
+</texto_geral>
+<imagem>ID012-G002-2020-EM-BIO-1-L1-FA-U1-C2.png</imagem>
+<legenda>Curva da relação entre a atividade enzimática de determinada enzima e o pH.</legenda>
+<texto_geral>
+Existem ainda outras formas de modular a atividade enzimática. No campo científico, é muito comum a utilização dos chamados
+<caracter_negrito>inibidores enzimáticos</caracter_negrito>
+, que nada mais são do que compostos capazes de diminuir a velocidade da reação, podendo agir de maneira reversível ou não, competindo ou não pelo sítio ativo da enzima. Neste último caso, a interação dos inibidores com outras regiões da enzima, distintas do sítio ativo, é conhecida como
+<caracter_negrito>inibição alostérica</caracter_negrito>
+e pode ser irreversível devido à modificação do sítio ativo.
+</texto_geral>
+<texto_geral>
+Em vias metabólicas, é comum que os produtos das reações atuem como inibidores das enzimas que participam das reações iniciais, configurando, assim, o mecanismo conhecido como
+<caracter_negrito>retroinibição</caracter_negrito>
+(
+<caracter_italico>feedback</caracter_italico>
+).
+</texto_geral>
+<imagem>
+<Story>
+ID014-I008-2020
+<imagem>-</imagem>
+EM-BIO-1-L1-FA-U1-C2.png
+</Story>
+</imagem>
+<legenda>Representação dos tipos de inibidores enzimáticos. Inibidores competitivos apresentam estrutura compatível com o sítio ativo, dificultando a ligação com o substrato. Já os inibidores não competitivos se associam a outra região da enzima que não o sítio ativo, porém alteram a sua conformação, impedindo que o substrato se una à enzima.</legenda>
+<secao_02>
+<secao_02_titulo1>
+<boxe_01_titulo1>Questão resolvida</boxe_01_titulo1>
+</secao_02_titulo1>
+<exercicio_enunciado>1 Fuvest-SP Uma substância X é o produto final de uma via metabólica controlada pelo mecanismo de retroinibição (feedback) em que, acima de uma concentração, X passa a inibir a enzima 1.</exercicio_enunciado>
+<imagem>ESQ_001.png</imagem>
+Podemos afirmar que, nessa via metabólica,a) a quantidade disponível de X tende a se manter constante.b) o substrato faltará se o consumo de X for pequeno.c) o substrato se acumulará quando a concentração de X diminuir.d) a substância A se acumulará quando a concentração de X aumentar.e) a substância B se acumulará quando o consumo de X for pequeno.
+<exercicio_resolvido>Resolução:Alternativa: AAs enzimas normalmente atuam em série em uma via metabólica, isto é, o produto de uma reação serve como reagente da seguinte. Dessa forma, elas conseguem ter controle do funcionamento das reações em um organismo.Na situação exposta, apenas a afirmativa A está correta, visto que o excesso de X inibe a enzima 1, gerando acúmulo de substrato e, consequentemente, impedindo o funcionamento das demais enzimas participantes da via metabólica. Na falta de X, mais substrato será consumido, a fim de repor a quantidade da substância em questão, mantendo todas as enzimas ativas, ou seja, catalisando as reações de modificação do substrato e das substâncias A e B até X ser gerado.</exercicio_resolvido>
+</secao_02>
+<secao_02>
+<secao_02_titulo1>Aplicando conhecimentos</secao_02_titulo1>
+<exercicio_enunciado>1 A afirmação “toda enzima é uma proteína, mas nem toda proteína é uma enzima” está correta? Justifique sua resposta.</exercicio_enunciado>
+<exercicio_enunciado>2 Fuvest-SP 2016 No esquema abaixo, está representada uma via metabólica; o produto de cada reação química, catalisada por uma enzima específica, é o substrato para a reação seguinte.</exercicio_enunciado>
+<exercicio_enunciado>
+<imagem>em_2022_v1_bio_fa_u1_cap2_q2_fuvest_sp_2016.png</imagem>
+Num indivíduo que possua alelos mutantes que levem à perda de função do gene:a) A, ocorrem falta do substrato 1 e acúmulo do substrato 2.b) C, não há síntese dos substratos 2 e 3.c) A, não há síntese do produto final. d) A, o fornecimento do substrato 2 não pode restabelecer a síntese do produto final.e) B, o fornecimento do substrato 2 pode restabelecer a síntese do produto final.
+</exercicio_enunciado>
+<exercicio_enunciado>3 Indique três funções biológicas que as proteínas podem apresentar.</exercicio_enunciado>
+</secao_02>
+<secao_03>
+<secao_03_titulo1>
+<boxe_06_titulo1>Consolidando saberes</boxe_06_titulo1>
+</secao_03_titulo1>
+<secao_exercicio_numerador>1 </secao_exercicio_numerador>
+<caracter_negrito>FMP-RJ 2016</caracter_negrito>
+<imagem>em_2022_v1_bio_fa_u1_cap1_q1_fmp_rj_2016.png</imagem>
+<exercicio_enunciado>O modo de ação das enzimas e a análise do gráfico permitem concluir que </exercicio_enunciado>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+todas as moléculas de enzimas estão unidas às moléculas de substrato quando a reação catalisada atinge a taxa máxima.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+com uma mesma concentração de substrato, a taxa de reação com enzima é menor que a taxa de reação sem enzima.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+a reação sem enzima possui energia de ativação menor do que a reação com enzima.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+o aumento da taxa de reação com enzima é inversamente proporcional ao aumento da concentração do substrato.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+a concentração do substrato não interfere na taxa de reação com enzimas porque estas são inespecíficas.
+</item_lista>
+<secao_exercicio_numerador>2 </secao_exercicio_numerador>
+<caracter_negrito>UFRGS 2018</caracter_negrito>
+<exercicio_enunciado>
+Assinale com
+<caracter_negrito>V</caracter_negrito>
+(verdadeiro) ou
+<caracter_negrito>F</caracter_negrito>
+(falso) as afirmações abaixo, referentes às enzimas.
+</exercicio_enunciado>
+<exercicio_resolvido>
+<caracter_negrito>( </caracter_negrito>
+<caracter_negrito> )  </caracter_negrito>
+As enzimas têm todas o mesmo pH ótimo.
+</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>( </caracter_negrito>
+<caracter_negrito> )  </caracter_negrito>
+A temperatura não afeta a formação do complexo enzima-substrato.
+</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>( </caracter_negrito>
+<caracter_negrito> )  </caracter_negrito>
+A desnaturação, em temperaturas elevadas, acima da ótima, pode reduzir a atividade enzimática.
+</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>( </caracter_negrito>
+<caracter_negrito> )  </caracter_negrito>
+A concentração do substrato afeta a taxa de reação de uma enzima.
+</exercicio_resolvido>
+<exercicio_enunciado>A sequência correta de preenchimento dos parênteses, de cima para baixo, é </exercicio_enunciado>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+V – V – F – F.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+V – F – V – F.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+V – F – F – V.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+F – V – F – V.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+F – F – V – V.
+</item_lista>
+<secao_exercicio_numerador>3 </secao_exercicio_numerador>
+<caracter_negrito>UPF-RS 2014</caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+proteína, carboidratos, lipídio, ácido nucleico.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+carboidrato, lipídios, ácido nucleico, proteína.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+carboidrato, proteínas, ácido nucleico, lipídio.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+lipídio, carboidratos, proteína, ácido nucleico.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+proteína, carboidratos, ácido nucleico, lipídio.
+</item_lista>
+<secao_exercicio_numerador>4 </secao_exercicio_numerador>
+<caracter_negrito>Unesp 2018</caracter_negrito>
+<caracter_negrito>Ea</caracter_negrito>
+<item_lista>
+<imagem>em_2022_v1_bio_fa_u1_cap1_q4_unesp_2018.png</imagem>
+</item_lista>
+<exercicio_enunciado>Se essa reação bioquímica ocorrer com a célula mantida a 36 °C, a energia de ativação (Ea) indicada no gráfico 1 e a velocidade da reação serão, respectivamente, </exercicio_enunciado>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+a mesma e a mesma.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+maior e menor.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+menor e menor.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+menor e maior.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+maior e maior.
+</item_lista>
+<secao_exercicio_numerador>5 </secao_exercicio_numerador>
+<caracter_negrito>Uece 2017</caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+tiveram sua estrutura primária rompida irreversivelmente.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+apesar de modificadas, permaneceram com sua estrutura primária, composta pela sequência de aminoácidos ligados entre si.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+foram temporariamente modificadas, podendo assumir sua conformação espacial original em condições ideais de temperatura.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+se tornaram inadequadas para o consumo humano, já que foram estruturalmente alteradas.
+</item_lista>
+<secao_exercicio_numerador>6 </secao_exercicio_numerador>
+<caracter_negrito>Uece 2015</caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+os monômeros dos ácidos nucleicos.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+os monômeros construtores de proteínas.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+moléculas básicas para a atividade da maioria das enzimas.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+coenzimas de importante relevância no processo de síntese proteica.
+</item_lista>
+<secao_exercicio_numerador>7 </secao_exercicio_numerador>
+<caracter_negrito>Udesc 2017</caracter_negrito>
+<caracter_negrito>I. </caracter_negrito>
+<caracter_negrito>II. </caracter_negrito>
+<caracter_negrito>III. </caracter_negrito>
+<caracter_negrito>IV. </caracter_negrito>
+<exercicio_enunciado/>
+<exercicio_enunciado>Analisadas as proposições, assinale a alternativa correta. </exercicio_enunciado>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+Somente as afirmativas II, III e IV são verdadeiras.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+Somente as afirmativas II e III são verdadeiras.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+Somente as afirmativas I, II e IV são verdadeiras.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+Somente as afirmativas III e IV são verdadeiras.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+Somente as afirmativas I, II e III são verdadeiras.
+</item_lista>
+<secao_exercicio_numerador>8 </secao_exercicio_numerador>
+<caracter_negrito>PUC-Campinas 2017</caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+glicosídicas.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+peptídicas.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+fenólicas.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+aromáticas.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+lipídicas.
+</item_lista>
+<secao_exercicio_numerador>9 </secao_exercicio_numerador>
+<caracter_negrito>UFJF/Pism-MG 2018 </caracter_negrito>
+<caracter_negrito>correto </caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+aumenta a atividade das proteínas.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+desnatura as proteínas, inibindo a sua atividade.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+provoca o acúmulo de proteínas no retículo endoplasmático.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+induz a quebra das proteínas e, consequentemente, a sua inativação.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+modifica a sequência de aminoácidos das proteínas e, consequentemente, o seu funcionamento.
+</item_lista>
+<secao_exercicio_numerador>10 </secao_exercicio_numerador>
+<caracter_negrito>UPF-RS 2016</caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+Cada indivíduo produz as suas próprias proteínas, que são codificadas de acordo com o seu material genético.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+As proteínas são constituintes, juntamente com os lipídios, das biomembranas celulares. Na membrana plasmática, desempenham papéis importantes na permeabilidade.
+</item_lista>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>
+Proteínas especiais ligam-se ao DNA de seres eucariotos para formar a cromatina.
+</item_lista>
+<item_lista>
+<caracter_negrito>d) </caracter_negrito>
+São todas constituídas por sequências monoméricas de aminoácidos e monossacarídeos.
+</item_lista>
+<item_lista>
+<caracter_negrito>e) </caracter_negrito>
+Diferem umas das outras pelo número, pelo tipo e ela sequência de aminoácidos que as constituem.
+</item_lista>
+<secao_exercicio_numerador>11 </secao_exercicio_numerador>
+<caracter_negrito>Unicamp-SP 2016 </caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+Alterações no pH intracelular afetam a estrutura de proteínas. Por que isso ocorre?
+</item_lista>
+<secao_exercicio_numerador>12 </secao_exercicio_numerador>
+<caracter_negrito>Unicamp-SP 2020 </caracter_negrito>
+<item_lista>
+<caracter_negrito>a) </caracter_negrito>
+A combinação de arroz e feijão fornece todos os aminoácidos essenciais ao organismo. A tabela abaixo apresenta variações na quantidade de alguns aminoácidos essenciais por categorias de alimentos.
+</item_lista>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>
+<imagem>lumen_2022_1s_l1_bio_fa_u1_cap2_q002.png</imagem>
+</item_lista>
+<fonte>(Adaptado de Marchini e outros, Aminoácidos. São Paulo: ILSI Brasil-International Life Sciences Institute do Brasil, 2016, p. 18.)</fonte>
+<exercicio_enunciado>Considere uma época de escassez em que é necessário substituir o feijão do combinado “arroz e feijão” por outro alimento. Tendo como base as informações fornecidas, que alimento da tabela poderia ser escolhido? Justifique sua resposta.</exercicio_enunciado>
+</secao_03>
+<secao_05>
+<secao_05_titulo1>Superação</secao_05_titulo1>
+<secao_05_texto>
+OBB 2014 Observe a figura abaixo:
+<imagem>em_2022_v1_bio_fa_u1_cap2_obb_2014_superacao.png</imagem>
+Ela indica um processo de:
+<item_lista>c) feedback positivo. </item_lista>
+<item_lista>d) inibição competitiva. </item_lista>
+<item_lista>e) catálise química. </item_lista>
+<item_lista>f) reação de análise. </item_lista>
+</secao_05_texto>
+<item_lista>g) inibição alostérica. </item_lista>
+</secao_05>
+</Root>
+</Marca1>
