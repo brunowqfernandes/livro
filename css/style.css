@@ -15,6 +15,10 @@
   margin-bottom: .5rem;
 }
 
+.mb-5px{
+  margin-bottom: 5px;
+}
+
 .img-subtitle{
   text-align: left;
   font-size: 1rem;
@@ -47,11 +51,14 @@
 }
 
 .boxe-06-02-cie{
-  text-align: center;
+  width: 90%;
+  text-align: left;
+  line-height: 2;
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
   margin-top: 1rem;
+  
 }
 
 .boxe-06-02-icon {
@@ -76,11 +83,17 @@
 .titulo2 {
   margin-top: 3rem; 
   text-align: left;
-  font-size: 2rem;
+  font-size: 1.625rem;
   font-weight: 800;
   color: #45973D;
   font-family: 'Prelo_extra_bold', sans-serif;
 
+}
+
+.chapter-description{
+  font-size: 18px;
+  font-family: 'proxima_novaregular', sans-serif;
+  transform: translateY(-5%);
 }
 
 
@@ -218,14 +231,17 @@ th {
   background: #62AD68;
   padding: 8px;
 }
+
 tbody tr td:first-child {
   background: #DEEEDE;
   font-weight: bold;
   text-align: center;
+  font-family: 'proxima_novaregular';
 }
 
 .tg-0lax {
   text-align: center;
+  font-family: 'proxima_novalight';
 }
 
 
@@ -300,26 +316,26 @@ tbody tr td:first-child {
 .questao-alternativas li::marker {
   color: black;
   font-size: 1.125rem;
-
-  font-weight: bold;
+  font-family: 'proxima_novabold';
 }
 
 .questao-alternativas li {
-  padding: 1rem 0;
+  font-family: 'proxima_novalight';
+  padding: 4px 0;
   color: #000;
 }
 
 .resposta p{
-  color: #000;
+  color: #707070;
+
   font-size: 1.125rem;
   margin: 1rem 0;
 
 }
 
-.resposta-title{
-  color: #707070;
+.resposta .resposta-title{
+  font-family: 'proxima_novabold';
   margin: 1rem 0;
-  font-weight: 800;
 }
 
 .number-list {
@@ -333,6 +349,7 @@ tbody tr td:first-child {
 }
 
 .number-list li:before {
+  font-family: 'proxima_novabold';
   font-size: 18px;
   font-weight: 800;
   content: counter(level1) " "; /*Instead of ". " */
@@ -353,7 +370,7 @@ tbody tr td:first-child {
   color: white;
   font-size: 1.25rem;
   justify-content: center;
-  font-family: 'Prelo_regular', sans-serif;
+  font-family: 'Prelo_extra_bold', sans-serif;
   background: linear-gradient(90deg, rgba(69,151,61,1) 0%, rgba(48,110,43,1) 100%);
   padding: 8px;
   border: 4px solid var(  --color-bio-d1);
@@ -364,7 +381,7 @@ tbody tr td:first-child {
   margin-top: 3rem;
   color: white;
   font-size: 1.25rem;
-  font-family: 'Prelo', sans-serif;
+  font-family: 'Prelo_extra_bold', sans-serif;
   background: linear-gradient(90deg, rgba(69,151,61,1) 0%, rgba(48,110,43,1) 100%);
   padding: 8px;
   border:4px solid var(  --color-bio-d1);
@@ -374,6 +391,7 @@ tbody tr td:first-child {
   color: #000;
   margin-top: 1.5rem;
   font-size: 1.125rem;
+  font-family: 'proxima_novalight', sans-serif;
 }
 
 .exercicio-text b {
@@ -394,7 +412,7 @@ tbody tr td:first-child {
 }
 
 .consolidando-saberes {
-  font-family: 'Prelo_regular', sans-serif;
+  font-family: 'Prelo_extra_bold', sans-serif;
   padding: 0.5rem 1rem;
   color: #BD8432;
   font-size: 1.25rem;
@@ -432,6 +450,7 @@ tbody tr td:first-child {
   overflow:hidden;
   padding:10px 5px;
   word-break:normal;
+  font-family: 'proxima_novaregular';
 }
 
 thead tr .tg-0lax:first-child {
@@ -444,6 +463,7 @@ thead tr .tg-0lax:first-child {
   color:#62ad68;
   text-align:center;
   vertical-align:middle;
+  font-family: 'proxima_novaregular';
 }
 .tg .tg-k3ji{
   background-color:#62ad68;
@@ -453,18 +473,20 @@ thead tr .tg-0lax:first-child {
   vertical-align:middle;
   color: white;
   text-transform: uppercase;
+  font-family: 'proxima_novaregular';
 }
 .tg .tg-0pky{
   border-color:inherit;
   text-align:center;
   vertical-align:middle;
+  font-family: 'proxima_novalight';
 }
 
 .enem{ 
   color: white;
   font-size: 1.25rem;
   text-transform: uppercase;
-  font-family: 'Prelo_regular', sans-serif;
+  font-family: 'Prelo_extra_bold', sans-serif;
 
   background-color:#BD8432;
   border: 3px solid #fff;
@@ -482,7 +504,6 @@ a.tooltip {
   display: inline-block;
   transition: all 0.4s ease;
   -webkit-transition: all .4s ease;
-  padding: 5px;
   background-color: #FFF;
   position: relative;
 }
@@ -644,6 +665,7 @@ label img{
   padding: 0 !important;
   font-size: 1.25rem !important;
   color: #BD8432;
+  font-family: 'Prelo_bold';
 }
 
 /*  */
