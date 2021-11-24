@@ -669,3 +669,42 @@ label img{
 }
 
 /*  */
+
+.header-boxe-mais {
+  top: -1.875rem;
+  left: -3px;
+  position: absolute;
+  max-width: 40%;
+  color: white;
+  font-size: 1.25rem;
+  justify-content: center;
+  font-family: 'Prelo_extra_bold', sans-serif;
+  background: #BD8432;
+  padding: 8px;
+  border: 3px solid #F7A941;
+}
+
+.boxe-mais{
+  border: 3px solid #F7A941;
+  background-color: #fff;
+  padding: 2.375rem 1rem 1.5rem;
+  position: relative;
+  margin-top: 2.375rem;
+  margin-bottom: 1.2rem;
+}
+
+.boxe-mais .double-columned-content{
+  padding: 0;
+}
+
+.boxe-mais::before {
+  content: " ";
+  width: 200px;
+}
+.boxe-mais p{
+  margin: 0;
+}
+
+.boxe-mais .double-columned-content {
+  align-items: initial;
+}
