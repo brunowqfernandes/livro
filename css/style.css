@@ -90,6 +90,24 @@
 
 }
 
+.titulo3 {
+  margin-top: 3rem; 
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #666666;
+  font-family: 'Prelo_bold', sans-serif;
+}
+
+.titulo4 {
+  margin-top: 3rem; 
+  text-align: left;
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #000000;
+  font-family: 'Prelo_bold', sans-serif;
+}
+
 .chapter-description{
   font-size: 18px;
   font-family: 'proxima_novaregular', sans-serif;
@@ -707,4 +725,22 @@ label img{
 
 .boxe-mais .double-columned-content {
   align-items: initial;
+}
+
+.double-columned-table {
+  max-width: 100%;
+  width: 100%;
+  gap: 24px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px
+}
+
+.double-columned-table div{
+  width: 50%;
+}
+
+.double-columned-table > div table{
+  width: 100%;
+  margin-top: 1.25rem;
 }
