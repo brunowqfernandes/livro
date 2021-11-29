@@ -279,15 +279,15 @@
 }
 
 th, td{
-  border: 1px solid #62AD68;
+  border: 1px solid #F1CB40;
   padding: 8px;
   height: 60px;
 }
 
 
 th {
-  color: white;
-  background: #62AD68;
+  color: #2B2E34;
+  background: #FCE1BC;
   padding: 8px;
 }
 
