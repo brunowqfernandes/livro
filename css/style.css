@@ -41,7 +41,7 @@
 }
 
 .bullet-list-section {
-  border: 2px solid #F7A941;
+  border: 2px solid #8CCAAE;
   padding-left: 1rem;
   margin: 2rem 0;
 }
@@ -66,7 +66,7 @@
 }
 
 .boxe-06-texto{
-  background-color: var(--color-bio-d2);
+  background-color: var(--color-geo-d2);
   font-weight: bold;
   color: #fff;
   padding: 0.25rem .5rem;
@@ -76,7 +76,7 @@
   text-align: left;
   font-size: 2rem;
   font-weight: 800;
-  color: #45973D;
+  color: var(--color-geo-d1);
   font-family: 'Prelo_extra_bold', sans-serif;
 }
 
@@ -85,7 +85,7 @@
   text-align: left;
   font-size: 1.625rem;
   font-weight: 800;
-  color: #45973D;
+  color: var(--color-geo-d1);
   font-family: 'Prelo_extra_bold', sans-serif;
 
 }
@@ -252,7 +252,7 @@
 }
 
 th, td{
-  border: 1px solid #62AD68;
+  border: 1px solid var(--color-geo-d2);
   padding: 8px;
   height: 60px;
 }
@@ -260,7 +260,7 @@ th, td{
 
 th {
   color: white;
-  background: #62AD68;
+  background: var(--color-geo-d1);
   padding: 8px;
 }
 
@@ -405,7 +405,7 @@ tbody tr td:first-child {
   font-family: 'Prelo_extra_bold', sans-serif;
   background: linear-gradient(90deg, rgba(69,151,61,1) 0%, rgba(48,110,43,1) 100%);
   padding: 8px;
-  border: 4px solid var(  --color-bio-d1);
+  border: 4px solid var(  --color-geo-d1);
 
 }
 
@@ -414,9 +414,9 @@ tbody tr td:first-child {
   color: white;
   font-size: 1.25rem;
   font-family: 'Prelo_extra_bold', sans-serif;
-  background: linear-gradient(90deg, rgba(69,151,61,1) 0%, rgba(48,110,43,1) 100%);
+  background: linear-gradient(90deg, --color-geo-d1 0%, --color-geo-d2 100%);
   padding: 8px;
-  border:4px solid var(  --color-bio-d1);
+  border:4px solid var(  --color-geo-d1);
 }
 
 .exercicio-text {
