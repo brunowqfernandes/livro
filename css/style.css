@@ -108,6 +108,20 @@
   font-family: 'Prelo_bold', sans-serif;
 }
 
+.titulo-grafico {
+  width: fit-content;
+  color: #45973D;
+  border-top: 2px solid #45973D;
+  margin-bottom: 1.5rem;
+}
+
+.titulo-grafico::after{
+  content: '';
+  display: block;
+  height: 2px;
+  background: #45973D;
+}
+
 .chapter-description{
   font-size: 18px;
   font-family: 'proxima_novaregular', sans-serif;
@@ -743,4 +757,42 @@ label img{
 .double-columned-table > div table{
   width: 100%;
   margin-top: 1.25rem;
+}
+
+.header-boxe-mais {
+  top: -1.875rem;
+  left: -3px;
+  position: absolute;
+  max-width: 40%;
+  color: white;
+  font-size: 1.25rem;
+  justify-content: center;
+  font-family: 'Prelo_extra_bold', sans-serif;
+  background: #208F6D;
+  padding: 8px;
+  border: 3px solid #208F6D;
+}
+
+.boxe-mais{
+  border: 3px solid #208F6D;
+  background-color: #fff;
+  padding: 2.375rem 1rem 1.5rem;
+  position: relative;
+  margin-top: 2.375rem;
+}
+
+.boxe-mais .double-columned-content{
+  padding: 0;
+}
+
+.boxe-mais::before {
+  content: " ";
+  width: 200px;
+}
+.boxe-mais p{
+  margin: 0;
+}
+
+.boxe-mais .double-columned-content {
+  align-items: initial;
 }
