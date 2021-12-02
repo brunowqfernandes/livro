@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marca1>
+    <Root>
+        <titulo_cap_texto>Representações cartográficas</titulo_cap_texto>
+        <imagem>
+            <Story>
+                <imagem>abertura_cap.psd</imagem>
+            </Story>
+        </imagem>
+        <legenda>A criação e utilização de produtos cartográficos apresentou uma grande transformação ao longo do tempo.</legenda>
+        <credito>Heritage Images/Getty Images, TY Lim/Shutterstock.com Neste capítulo, vamos tratar da produção e da interpretação de mapas, incluindo as técnicas de confecção, os limites da representação e os diferentes usos, seja no passado, seja no presente, além das possibilidades de expansão dessa ciência em um futuro próximo.</credito>
+        <imagem>O mapa do mundo mais antigo que se conhece tem cerca de 2 500 anos. Ele foi encontrado no deserto de Sippar, no Iraque, no final do século XIX, e é feito de argila. Depois de interpretada a escrita cuneiforme nele presente, foi possível entender que se trata de uma representação do mundo conhecido pelos babilônicos, ou seja, basicamente a região da Mesopotâmia, entre os rios Tigre e Eufrates.</imagem>
+        <imagem>Mas, segundo Jerry Brotton, em seu livro Uma história do mundo em doze mapas, há peças arqueológicas muito mais antigas (cerca de 25 mil anos) que continham tentativas de produzir representações cartográficas da realidade, incluindo algumas características dessas áreas, como os locais conhecidos, os trajetos, os animais e os vegetais. Claro que, na época, não existiam as noções de Cartografia e nem mesmo a palavra “mapa”, mas é fato que há, nos seres humanos, uma tendência muito antiga de querer distribuir de forma gráfica os elementos no espaço. Ao que tudo indica, isso faz parte da organização do nosso próprio aparelho cognitivo e da nossa forma de pensar e representar o mundo à nossa volta. </imagem>
+        <imagem>Atualmente, a Cartografia não se limita aos estudos geográficos, apesar de relacionarmos os mapas a essa ciência. Ao contrário, muitos campos de estudo e de trabalho podem e devem incorporá-la, como a História, a Sociologia, a Biologia, a Arquitetura, a Engenharia e a Medicina, entre tantos outros. Na prática, qualquer trabalho ou pesquisa que precise avaliar a espacialização de fenômenos naturais ou processos sociais tem, na Cartografia, uma ferramenta indispensável.</imagem>
+        <imagem>Neste capítulo, vamos tratar da produção e da interpretação de mapas, incluindo as técnicas de confecção, os limites da representação e os diferentes usos, seja no passado, seja no presente, além das possibilidades de expansão dessa ciência em um futuro próximo.</imagem>
+        <texto_bullets>•	Descreva pelo menos duas diferenças entre os produtos cartográficos apresentados anteriormente.</texto_bullets>
+        <texto_bullets>•	É possível dizer que um deles é mais verdadeiro do que o outro? Justifique sua resposta.</texto_bullets>
+        <imagem> Neste capítulo serão abordadas as habilidades EM13CHS103, EM13CHS106.</imagem>
+        <imagem>	Elementos do mapa</imagem>
+        <imagem>Os mapas são representações feitas a partir de visões de mundo preponderantes em uma determinada época ou lugar, carregando, portanto, características de tais perspectivas. Os mapas medievais, por exemplo, apresentavam particularidades da visão religiosa e mitológica.</imagem>
+        <imagem>Atualmente, com exceção dos mapas que têm como referência propostas alternativas, os produtos da Cartografia se baseiam em uma visão científica do mundo. Nesse contexto, os discursos religiosos, mitológicos e artísticos têm como objetivo ampliar as interpretações e significados para gerar reflexão e emoção. O discurso científico, por sua vez, tem como uma de suas principais características evitar ao máximo as ambiguidades, ou seja, garantir que haja apenas uma possibilidade de interpretação para aquilo que foi dito, escrito ou representado graficamente.</imagem>
+        <imagem>Na Cartografia, essa busca se dá pelo uso de convenções cartográficas, ou seja, padronizações nas formas de representação, determinando elementos gráficos e linguísticos para passar a mensagem de forma menos ambígua possível. Vejamos, portanto, quais são os principais elementos de um mapa.</imagem>
+        <imagem>Para começar, é importante que haja elementos de orientação e de localização, principalmente nos mapas que representam aspectos como a distribuição espacial de cidades, rios, unidades de relevo, características climáticas e de vegetação, atividades econômicas, entre outros. Nesse contexto, quando se trata de orientação, geralmente é utilizada a indicação da direção norte, podendo haver distinção entre diferentes “nortes”, sobretudo o norte magnético e o geográfico em mapas mais técnicos. Já para a localização, são indicados alguns meridianos e paralelos e seus respectivos valores de longitude e latitude.</imagem>
+        <imagem>Todo mapa deve ter um título que indica o tema tratado e a área representada. Normalmente, nós os dividimos em dois tipos: sistemáticos e temáticos. Os primeiros são mapas de base, que têm como objetivo representar os aspectos físicos mais fundamentais do terreno, como a localização de cidades, estradas, ferrovias, aeroportos, rios, lagos e mares, além dos pontos de altitude. Estes são chamados de sistemáticos devido ao cuidado com a precisão da localização, podendo ser utilizados para estudos e trabalhos que necessitem de tal exatidão, como obras de engenharia ou de planejamento urbano e ambiental. Os melhores exemplos de mapas sistemáticos são as cartas topográficas, cujo título será apenas o nome da região representada, uma vez que não há um tema específico sendo abordado.</imagem>
+        <imagem>Os mapas temáticos, por sua vez, são aqueles que representam um tema que vai além da mera localização dos elementos citados anteriormente. Nesse grupo, podem ser produzidos mapas dos mais variados assuntos, contanto que apresentem uma distribuição espacial. Em Geografia, os mais comuns são relacionados à população, à urbanização, à indústria, à agricultura, ao relevo, ao clima, à vegetação, aos solos, à estrutura geológica e às atividades econômicas. Nos mapas temáticos, o título deve conter o tema representado e, quando necessário, a data dos dados utilizados. Além disso, é importante inserir a fonte das informações.</imagem>
+        <imagem>Outro elemento fundamental para todo mapa é a legenda, na qual são graficamente definidos os símbolos, as cores e as linhas utilizados para retratar os dados do tema em questão. Vale ressaltar que existem várias formas de representação que se adequam ao tema e aos tipos de dados tratados no mapa.</imagem>
+        <grafico_titulo>Taxa de desemprego nos países da União Europeia – outubro de 2018</grafico_titulo>
+        <imagem>
+            <Story>
+                <imagem>em_2022_v1_geo_fa_u1_cap2_m004.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Mapa temático da taxa de desemprego na União Europeia.</legenda>
+        <imagem>Fonte: EuroGeographics Association for the administrative boundaries. “Taxa de desemprego”. EUROSTAT, out. 2018. Disponível em: https://ec.europa.eu/eurostat/web/main/data/database. Acesso em: 13 jul 2021. </imagem>
+        <imagem>Antes de continuarmos, é interessante destacar que, em um mapa temático, podem ser representados diferentes tipos de dados, que estão divididos em três grupos: qualitativos, ordenados e quantitativos. </imagem>
+        <imagem>
+            <Story>
+                <imagem>ID046-I013-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Técnicas de representação de dados em um mapa.</legenda>
+        <credito>MARTINELLI, Marcelo. <caracter_italico>Cartografia temática</caracter_italico>: caderno de mapas. São Paulo: Editora da Universidade de São Paulo, 2003.</credito>
+        <imagem>Os dados qualitativos são aqueles que demonstram apenas uma diferença entre os elementos representados, a qual não pode ser quantificada nem colocada em uma ordem; alguns exemplos são os tipos de clima no mundo ou a divisão política brasileira.</imagem>
+        <imagem>Os dados ordenados são aqueles que, como o nome sugere, podem ser colocados em uma ordem. Muitos mapas temáticos são ordenados, pois sua leitura é relativamente simples. Isso se deve ao fato de que eles são baseados em generalizações, ou seja, as áreas representadas são divididas em grupos, que, por sua vez, são colocados em ordem e retratados, por exemplo, com cores e tons diferentes. Nesses mapas, não há uma preocupação em saber o valor exato dos dados em cada área, mas apenas a posição deles na ordem estabelecida. São exemplos de mapas temáticos ordenados aqueles que retratam os seguintes assuntos: população absoluta e relativa, taxa de urbanização, Produto Interno Bruto (PIB), Índice de Desenvolvimento Humano (IDH) e níveis de temperatura, de altitude e de chuva.</imagem>
+        <grafico_titulo>Proporção da população residindo em domicílios sem acesso a abastecimento de água por rede geral, por Unidades da Federação – Brasil – 2017</grafico_titulo>
+        <imagem>
+            <Story>
+                <imagem>em_2022_v1_geo_fa_u1_cap2_m005.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Exemplo de mapa temático ordenado.</legenda>
+        <imagem>Fonte: IBGE. Pesquisa Nacional por amostra de domicílios contínua 2017. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Síntese de indicadores sociais: uma análise das condições de vida da população brasileira 2018. Rio de Janeiro: IBGE, 2018. (Adapt.).</imagem>
+        <imagem>Já os dados quantitativos são aqueles cujo valor de cada área pode ser percebido, se não de forma exata, pelo menos de maneira mais aproximada. Tais dados também podem ser retratados de modo ordenado, e vice-versa, mudando apenas a forma de representação. Esse tipo de representação dá mais importância à precisão e, para chegar a esse resultado, utilizam-se técnicas como formas geométricas desenhadas de maneira proporcional aos dados representados, como círculos, quadrados, triângulos ou até mesmo setas cuja área (aresta ou raio) seja proporcional aos valores que representam.</imagem>
+        <grafico_titulo>Comércio internacional de mercadorias – 2006</grafico_titulo>
+        <imagem>
+            <Story>
+                <imagem>ID012-I001-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Exemplo de mapa temático quantitativo.</legenda>
+        <imagem>Fonte: Estatísticas do Comércio Internacional 2006, Organização Mundial do Comércio (OMC). In: Le Monde Diplomatique Brasil: Atlas do meio ambiente. p. 20.</imagem>
+        <imagem>Entre as representações quantitativas, estão as anamorfoses, nas quais as áreas são distorcidas para ficarem proporcionais aos valores representados. Nesses casos, a precisão dos dados não é tão exata, mas a informação é passada de forma bastante eficiente.</imagem>
+        <grafico_titulo>Produto Interno Bruto por microrregião – Brasil – 2015</grafico_titulo>
+        <imagem>
+            <Story>
+                <imagem>ID013-F012-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Técnica da anamorfose representando o Produto Interno Bruto de cada microrregião do Brasil.</legenda>
+        <legenda>Fonte: Instituto Brasileiro de Geografia e Estatística. Software Cartes &amp; Données - ©Articque</legenda>
+        <credito>©Hervé Théry</credito>
+        <imagem>Por fim, outra técnica de representação cartográfica muito utilizada é a das isolinhas, ou seja, linhas que indicam os pontos do mapa e que apresentam o mesmo valor para um dado. Temos como exemplo as isóbaras (pontos de mesma pressão atmosférica), as isoietas (pontos de mesmo total anual de chuva), as isotermas (pontos de mesma média de temperatura) e as isoípsas ou curvas de nível (pontos de mesma altitude).</imagem>
+        <grafico_titulo>Pressão atmosférica em janeiro</grafico_titulo>
+        <imagem>
+            <Story>
+                <imagem>ID048-I015-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Mapa de pressão atmosférica, representada pelas isóbaras.</legenda>
+        <imagem>Fonte: “Distribuições observadas de vento e pressão na superfície”. In: GRIMM, Alice Marlene. “Meteorologia básica - notas de aula”. Departamento de Físca UFPR, set. 1999. Disponível em: http://fisica.ufpr.br/grimm/aposmeteo/cap8/cap8-2.html. Acesso em: 13 fev. 2019.</imagem>
+        <imagem>Entre as isolinhas, as curvas de nível são as mais utilizadas. Elas são estratégicas para representar o relevo, que é um desafio para a Cartografia, pois, enquanto a realidade tem três dimensões, o mapa tem apenas duas. Os mapas de curvas de nível, também chamados de topográficos ou hipsométricos, são formados a partir de uma projeção das linhas de altitude que poderiam ser visualizadas em um perfil de relevo para o mapa plano.</imagem>
+        <imagem>
+            <Story>
+                <imagem>ID015-I002-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Curvas de nível, ou isoípsas, utilizadas como forma de representação do relevo.</legenda>
+        <imagem>
+            <Story>
+                <imagem>ID016-I003-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <legenda>Percepção da inclinação na representação de curvas de nível. Observe que quanto mais próximas as linhas estiverem umas das outras, maior será a inclinação da área representada.</legenda>
+        <imagem>Além dos elementos do mapa já citados e que compõem as convenções cartográficas, precisamos tratar ainda da escala e das projeções. Faremos isso a seguir, separadamente, devido à sua complexidade.</imagem>
+        <imagem>Escala cartográfica</imagem>
+        <imagem>Os mapas devem apresentar menos informações do que a realidade contém. Nesse sentido, todo mapa busca tornar mais simples o que é real. Esse recurso é chamado de generalização e se aproxima das médias aplicadas na Matemática e na Estatística.</imagem>
+        <imagem>Ao reduzirmos a realidade para representá-la em um mapa, perdemos algumas informações, mas criamos um produto cartográfico útil para fins de estudo, ensino ou intervenções na realidade. Porém, nesse processo, há dois pontos importantes. Primeiramente, temos que saber o quanto devemos reduzir para ter uma noção do tamanho original da área representada. Para isso, utilizamos a escala. Outro ponto é que temos que saber o quanto podemos reduzir de acordo com o uso que pretendemos fazer do mapa. Vejamos, a seguir, um pouco melhor esses aspectos.</imagem>
+        <imagem>A escala indica, de forma gráfica ou numérica, a relação de proporção entre a realidade e sua representação no mapa. A escala numérica não tem uma unidade específica, ou seja, ela não é apresentada em centímetros, metros ou quilômetros, sendo simplesmente uma proporção, que é escrita da seguinte maneira:</imagem>
+        <imagem></imagem>
+        <imagem>Nesse tipo de escala, o número 1 indica uma medida (em qualquer unidade) no mapa, e o número que vem depois dos dois-pontos refere-se à dimensão equivalente na realidade, ou à quantidade de vezes que o tamanho real foi reduzido para ser representado. Portanto, quanto maior for esse número, menos detalhado será o mapa.</imagem>
+        <imagem>
+            <boxe_18>Em Matemática, vemos que... ... nas frações, há o numerador e o denominador e que, quanto maior for esse último, menor é o número representado. Por exemplo:<Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="2" aid:tcols="5">
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="11.338582677165356">
+                    <boxe_texto2>1</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="2" aid:ccols="1" aid:ccolwidth="11.338582677165356"></Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="11.338582677165356">
+                    <boxe_texto2>1</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="11.338582677165356">
+                    <boxe_texto2>→</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="53.858267716535444">
+                    <boxe_texto2>numerador</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="11.338582677165356">
+                    <boxe_texto2>2</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="11.338582677165356">
+                    <boxe_texto2>8</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="11.338582677165356">
+                    <boxe_texto2>→</boxe_texto2>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="53.858267716535444">
+                    <boxe_texto2>denominador</boxe_texto2>
+                </Cell>
+            </Table>O mesmo ocorre com a escala: quanto maior for o número após os dois--pontos, que representa o denominador, menor é a escala.</boxe_18>
+    </imagem>
+    <imagem></imagem>
+    <imagem>A escala gráfica, por sua vez, costuma representar a relação entre um centímetro no mapa e sua correspondência na realidade. É comum que ela apareça sem explicitar claramente a medida compreendida entre dois valores, como na figura a seguir, que é um centímetro. Nesse caso, podemos descobrir tal medida com uma régua, verificando qual distância no mapa representa o valor indicado na escala.</imagem>
+    <imagem></imagem>
+    <imagem>Quanto aos usos dos mapas e a relação com a escala, a regra geral é: quanto mais detalhes tiver o terreno, maior deve ser a escala, e quanto maior a abrangência necessária (tamanho da área representada), menor ela deve ser. Nesse ponto, é necessário redobrarmos a atenção, pois a denominação “escala grande” e “escala pequena” pode nos confundir. Escala grande é aquela em que o número que vem depois dos dois-pontos na escala numérica é menor, uma vez que ele indica a quantidade de vezes que a realidade foi reduzida. As escalas menores, por sua vez, são aquelas cujo número depois dos dois-pontos é maior, significando que a realidade foi muito reduzida para ser representada no mapa. </imagem>
+    <imagem>
+        <Table>
+            <credito>
+                <caracter_italico>
+                    <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="4" aid:tcols="4">
+                        <Tabela_gravata1 aid:table="cell" aid:crows="2" aid:ccols="1" aid:ccolwidth="99.21259842501573">
+                            <TABELA_GRAVATA1>Escalas grandes</TABELA_GRAVATA1>
+                        </Tabela_gravata1>
+                        <tabela_texto_geral aid:table="cell" aid:crows="2" aid:ccols="1" aid:ccolwidth="114.09448818897627">
+                            <tabela_texto_geral>Pequena abrangência</tabela_texto_geral>
+                            <tabela_texto_geral></tabela_texto_geral>
+                            <tabela_texto_geral>Grande detalhamento</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">
+                            <tabela_texto_geral>1:10 000</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="177.62401574821263">
+                            <tabela_texto_geral>Mapas com definição suficiente para medida dos imóveis urbanos. Podem ser utilizadas no cálculo de uma área para definição de impostos.</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">
+                            <tabela_texto_geral>1:50 000</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="177.62401574821263">
+                            <tabela_texto_geral>Planejamento urbano.</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <Tabela_gravata1 aid:table="cell" aid:crows="2" aid:ccols="1" aid:ccolwidth="99.21259842501573">
+                            <TABELA_GRAVATA1>Escalas pequenas</TABELA_GRAVATA1>
+                        </Tabela_gravata1>
+                        <tabela_texto_geral aid:table="cell" aid:crows="2" aid:ccols="1" aid:ccolwidth="114.09448818897627">
+                            <tabela_texto_geral>Pequeno detalhamento</tabela_texto_geral>
+                            <tabela_texto_geral>Grande abrangência</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">
+                            <tabela_texto_geral>1:1 000 000</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="177.62401574821263">
+                            <tabela_texto_geral>Planejamento regional.</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="90.70866141732284">
+                            <tabela_texto_geral>1:5 000 000 ou menor</tabela_texto_geral>
+                        </tabela_texto_geral>
+                        <tabela_texto_geral aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="177.62401574821263">
+                            <tabela_texto_geral>Mapa-múndi e uso didático.</tabela_texto_geral>
+                        </tabela_texto_geral>
+                    </Table>
+                </caracter_italico>
+            </credito>
+        </Table>
+    </imagem>
+    <imagem>Projeções cartográficas</imagem>
+    <imagem>A palavra “projeção” deve ser entendida como uma referência às técnicas matemáticas e geométricas que procuram transpor as formas da elipsoide, elipse em três dimensões que é usada como base geométrica para o mapeamento do planeta, para o mapa, como se as estivessem projetando.</imagem>
+    <imagem>
+        <Story>
+            <imagem>ID018-I004-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+        </Story>
+    </imagem>
+    <legenda>Comparação entre a esfera e a elipsoide.</legenda>
+    <imagem>
+        <Story>
+            <imagem>ID019-I005-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+        </Story>
+    </imagem>
+    <fonte>Fonte: SILVEIRA, Leonard Niero da. <caracter_italico>Fundamentos de projeção cartográfica</caracter_italico>. Rio Grande do Sul: Universidade Federal do Pampa. p. 12.</fonte>
+    <legenda>As técnicas matemáticas e geométricas projetam as formas da elipsoide em um plano.</legenda>
+    <imagem>As projeções podem ser divididas em quatro tipos de acordo com a escolha do que será preservado e do que será distorcido em cada mapa. Veja as classificações a seguir.</imagem>
+    <imagem>•	Conformes ou semelhantes: conservam as formas, sendo mais utilizadas em mapas para a navegação, pelo fato de também preservarem as direções.</imagem>
+    <imagem>•	Equivalentes: mantêm corretas as proporções entre as áreas, sendo boas para criar mapas nos quais será preciso comparar áreas diferentes em relação a alguma informação, como as extensões territoriais de biomas ou de oceanos.</imagem>
+    <imagem>•	Equidistantes: apresentam as distâncias proporcionalmente corretas em relação a um ponto da Terra, buscando demonstrar a distância do local escolhido em relação a outros.</imagem>
+    <imagem>•	Afiláticas ou indeterminadas: distorcem tanto a área quanto a distância e a forma, mas de maneira minimizada, produzindo um mapa mais equilibrado, com o intuito de representar a terra para fins didáticos, por exemplo.</imagem>
+    <imagem>Além da diferença entre os tipos de distorção existentes, as projeções também podem ser divididas com base na relação entre a elipsoide e a figura geométrica na qual suas formas serão projetadas. Isso trará resultados diferentes, que devem ser previstos de acordo com o uso que se quer fazer do mapa. Nesse sentido, as principais formas de projeção são: cilíndricas, cônicas e planas (ou azimutais).</imagem>
+    <imagem>
+        <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="2" aid:tcols="3">
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="160.62992125984252">
+                <legenda>
+                    <caracter_negrito>Projeção cilíndrica</caracter_negrito>
+                </legenda>
+                <imagem>ID020-F015-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="160.62992125984252">
+                <legenda>
+                    <caracter_negrito>Projeção cônica</caracter_negrito>
+                </legenda>
+                <imagem>ID021-F016-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="160.62992125984252">
+                <legenda>
+                    <caracter_negrito>Projeção plana ou azimutal</caracter_negrito>
+                </legenda>
+                <imagem>ID022-F017-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="160.62992125984252">
+                <legenda>
+                    <caracter_negrito>Projeção cilíndrica de Peters</caracter_negrito>
+                </legenda>
+                <imagem>ID020-F015-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="160.62992125984252">
+                <legenda>
+                    <caracter_negrito>Projeção cônica de Albers</caracter_negrito>
+                </legenda>
+                <imagem>ID021-F016-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="160.62992125984252">
+                <legenda>
+                    <caracter_negrito>Projeção plana polar</caracter_negrito>
+                </legenda>
+                <imagem>ID022-F017-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+            </Cell>
+        </Table>
+    </imagem>
+    <imagem></imagem>
+    <fonte>Fonte: IBGE, Departamento de Geociências, Coordenação de Cartografia. DANA, P. H.<caracter_italico> Map projection</caracter_italico>
+        <caracter_italico>overview</caracter_italico>. Boulder: University of Colorado, Dept. of Geography, 2000. <caracter_italico>In</caracter_italico>: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. <caracter_italico>Atlas geográfico escolar</caracter_italico>. 7 ed. Rio de Janeiro: IBGE, 2016. p. 21. </fonte>
+    <legenda>Tipos de projeção de acordo com a figura geométrica utilizada para a produção do mapa.</legenda>
+    <fonte>Fonte: IBGE, Departamento de Geociências, Coordenação de Cartografia. DANA, P. H.<caracter_italico> Map projection</caracter_italico>
+        <caracter_italico>overview</caracter_italico>. Boulder: University of Colorado, Dept. of Geography, 2000. <caracter_italico>In</caracter_italico>: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. <caracter_italico>Atlas geográfico escolar</caracter_italico>. 7 ed. Rio de Janeiro: IBGE, 2016. p. 21. </fonte>
+    <imagem>Fonte: IBGE, Departamento de Geociências, Coordenação de Cartografia. DANA, P. H. Map projection overview. Boulder: University of Colorado, Dept. of Geography, 2000. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Atlas geográfico escolar. 7 ed. Rio de Janeiro: IBGE, 2016. p. 21. </imagem>
+    <imagem>O ponto ou a linha de contato entre a figura geométrica e a elipsoide guarda a projeção mais próxima da realidade. À medida que nos afastamos dessa linha ou ponto, as distorções aumentam. Assim, uma projeção cilíndrica é boa para representar áreas próximas ao Equador, mas, conforme as latitudes aumentam, as distorções vão ficando cada vez mais exageradas. As projeções cônicas, por sua vez, são ideias para retratar as regiões de latitudes médias. Já as planas são mais utilizadas para a reprodução das áreas polares.</imagem>
+    <imagem>
+        <boxe_17>
+            <boxe_17>Fique ligado!</boxe_17>
+            <boxe_17></boxe_17>
+            <imagem>As projeções cilíndricas também podem ser utilizadas em sua forma transversa, ou seja, em vez de o cilindro estar na vertical, tangenciando a Linha do Equador, ele pode ser colocado na horizontal, tendo um meridiano como referência principal. Nesse último caso, toda a faixa do meridiano (e de seu antimeridiano) será representada com o mínimo de distorção. Projeções desse tipo não são usadas para a produção de mapas--múndi, mas sim de mapas de grande escala, regionais. Um exemplo disso é a projeção Universal Transversa de Mercator (UTM), que é uma das mais utilizadas para a produção de mapas técnicos de grande precisão.</imagem>
+            <imagem>
+                <Story>
+                    <imagem>ID026-I006-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+                </Story>
+            </imagem>
+        </boxe_17>
+    </imagem>
+    <legenda>
+        <caracter_negrito>Projeção de Mercator</caracter_negrito>
+    </legenda>
+    <imagem>
+        <Story>
+            <imagem>ID023-F018-2020-EM-GEO-1-L1-FA-U1-C2_.pdf</imagem>
+        </Story>
+    </imagem>
+    <imagem>Fonte: IBGE, Diretoria de Geociências, Coordenação de Cartografia. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Atlas geográfico escolar. 7 ed. Rio de Janeiro: IBGE, 2016. p. 23.</imagem>
+    <imagem>Um exemplo clássico da distorção de projeções cilíndricas é a comparação entre as de Mercator e Peters. A primeira, produzida em 1569 pelo cartógrafo e matemático Gerardo Mercator, é cilíndrica conforme e representa bem as regiões próximas à Linha do Equador, tanto na forma como na área. No entanto, nas médias e altas latitudes tais áreas vão ficando muito distorcidas, criando uma falsa impressão de que alguns países do norte da Europa, o Canadá e a ilha da Groenlândia sejam muito maiores do que realmente são.</imagem>
+    <imagem>A projeção de Peters é cilíndrica equivalente e mantém a proporção correta das áreas, mas distorce bastante as formas. Ela foi proposta pelo historiador alemão Arno Peters, em 1973, cujo objetivo explícito era produzir um mapa que questionasse a visão eurocêntrica da projeção de Mercator, que valoriza a Europa, os Estados Unidos e a Rússia, em detrimento dos países do Sul. Quando essa proposta foi feita, em meio à Guerra Fria, havia um movimento internacional conhecido como terceiro- -mundista, que englobava um grande grupo de países subdesenvolvidos com o intuito de questionar a hegemonia dos Estados Unidos e da União Soviética no mundo. Por isso, o mapa de Peters também ficou conhecido como o mapa-múndi terceiro-mundista.</imagem>
+    <imagem>Já Arthur Robinson, em 1963, fez a projeção que leva seu nome. Ela é afilática, ou seja, distorce as áreas, formas e distâncias, mas de maneira minimizada. Uma de suas diferenças em relação às duas primeiras, por exemplo, é o fato de os meridianos serem representados de maneira curvada e se aproximando conforme se afastam da Linha do Equador.</imagem>
+    <imagem></imagem>
+    <imagem>Fonte: IBGE, Diretoria de Geociências, Coordenação de Cartografia. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Atlas geográfico escolar. 7 ed. Rio de Janeiro: IBGE, 2016. p. 24.</imagem>
+    <imagem></imagem>
+    <imagem>Fonte : IBGE, Departamento de Geociências, Coordenação de Cartografia. DANA, P. H. Map projection overview. Boulder: University of Colorado, Dept. of Geography, 2000. In: INSTITUTO BRASILEIRO DE GEOGRAFIA ESTATÍSTICA. Atlas geográfico escolar. 7 ed. Rio de Janeiro: IBGE, 2016. p.21.</imagem>
+    <imagem>	Cartografia digital</imagem>
+    <imagem>Atualmente, a produção de mapas começa com a obtenção de informações espaciais. Contudo, até o início do século XIX, os dados necessários eram levantados por meio de visitas a campo, da observação do céu, do uso de bússolas e de outros instrumentos de localização e medição. Do final desse período em diante, principalmente após a Segunda Guerra Mundial, passou a ser desenvolvido o sensoriamento remoto<Glossario>
+        <texto_gloss_titulo>
+            <caracter_negrito>Sensoriamento remoto:</caracter_negrito> o termo “sensoriamento” se refere a sensor, e “remoto” a algo que está distante. Portanto, sensoriamento remoto é qualquer forma de uso de sensores para a captação de imagens e informações geográficas a distância, sem a necessidade de ir até o terreno.</texto_gloss_titulo>
+    </Glossario>, ou seja, o uso de sensores que podem captar as informações necessárias à confecção de mapas a partir de grandes distâncias.</imagem>
+<imagem>As primeiras formas de sensoriamento remoto foram as fotografias aéreas. Já a partir das décadas de 1960 e 1970, teve início o desenvolvimento dos satélites artificiais – máquinas construídas pelos seres humanos e colocadas em órbita por meio de foguetes lançadores. </imagem>
+<imagem>Mais recentemente, empresas vêm desenvolvendo satélites de altíssima resolução, como é o caso do DigitalGlobe, fornecedor das imagens para o Google Earth e o Google Maps, além do programa NASA World Wind, da agência espacial estadunidense. A resolução de um satélite se refere ao tamanho mínimo dos objetos que os sensores e câmeras conseguem registrar. Assim, quanto menor o tamanho deles, maior será a resolução. Na década de 1980, as melhores resoluções dos satélites imageadores giravam em torno de 30 metros, como era o caso do Landsat 4. Já o último satélite lançado pela DigitalGlobe em 2016, o WorldView-4, fornecia imagens com resolução de 31 centímetros. Ele sofreu uma falha em 2019, e a empresa não conseguiu recuperá-lo.</imagem>
+<imagem>
+    <boxe_02>
+        <boxe_02_titulo1>MAIS</boxe_02_titulo1>
+        <boxe_titulo3>Instituto Nacional de Meteorologia</boxe_titulo3>
+        <imagem>No <caracter_italico>site</caracter_italico> do Inmet, é possível acessar imagens feitas pelos satélites Goes (Geostationary Operational Environmental Satellite), dos Estados Unidos. Por meio delas, podemos observar ot comportamento da atmosfera acima de qualquer região do Brasil. Essas imagens são atualizadas em intervalos de 10 ou 20 minutos, permitindo-nos perceber a movimentação das massas de ar. Além disso, no <caracter_italico>site,</caracter_italico> conseguimos escolher diferentes tipos de representações para dar maior destaque para alguns elementos, como vapor d’água, temperatura ou cobertura de nuvens.</imagem>
+        <imagem>Disponível em: http://p.p4ed.com/KUAPA. Acesso em: 13 jul. 2021.</imagem>
+    </boxe_02>
+</imagem>
+<imagem>O Brasil desenvolve, desde 1988, uma parceria com a China para a produção de satélites imageadores. O CBERS (Satélite Sino-Brasileiro de Recursos Terrestres), como é chamado o programa, lançou seis satélites até o ano de 2019. O CBERS-2, por exemplo, lançado em 2003, é equipado com uma câmera cuja resolução é de 260 metros, enquanto o CBERS-4A, lançado em  2019, possui câmeras de resoluções entre 2 e 55 metros.</imagem>
+<imagem>As variações de resolução não se referem apenas à tecnologia disponível. Nos dias de hoje, mesmo com um maior desenvolvimento dos instrumentos imageadores, pode-se optar por imagens de menor resolução, dependendo do uso que se quer fazer delas. </imagem>
+<imagem>Essa é a mesma lógica da escolha das escalas, já estudada neste capítulo. Dessa forma, grandes escalas, nas imagens de satélite, exigem maior resolução e são usadas principalmente para estudos de áreas urbanas. As pequenas e médias escalas, por sua vez, oferecem um detalhamento menor, mas possuem maior abrangência, podendo ser utilizadas para estudos regionais, que não necessitam de imagens de satélite com altíssimas resoluções.</imagem>
+<imagem>
+    <Story>
+        <imagem>ID030-F023-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>Manaus e o encontro entre os rios Negro e Solimões. Imagem do CBERS-2, com resolução de 260 metros.</legenda>
+<credito>CCD/CBERS-2/INPE</credito>
+<imagem>
+    <Story>
+        <imagem>ID031-F024-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>Manaus e o encontro dos rios Negro e Solimões. Imagem do CBERS-4, com resolução de 10 metros.</legenda>
+<credito>CBERS-4/OBT/INPE (CC BY-SA 2.0)</credito>
+<imagem>Amazonia-1</imagem>
+<imagem>O primeiro satélite brasileiro desenvolvido, produzido e testado integralmente no país recebeu o nome de Amazonia-1 e foi projetado à órbita terrestre no início de 2021, a partir de uma base de lançamento espacial indiana. O projeto, cuja coordenação é do Instituto Nacional de Pesquisas Espaciais (Inpe), em parceria com a Agência Espacial Brasileira – ambos ligados ao Ministério de Ciência, Tecnologia e Inovações –, permite que o sensoriamento remoto desenvolvido com tecnologia brasileira atenda às demandas específicas do vasto território brasileiro e contribua para enfrentar desafios econômicos e ambientais diversos.</imagem>
+<imagem> Além do monitoramento da vegetação e do desmatamento, emparticular na região amazônica, o satélite Amazonia-1 tem por missão monitorar, com alta taxa de revisita, o território nacional, a região costeira, o desenvolvimento agropecuário, reservatórios de água e desastres ambientais. A alta taxa de revisita é um atributo importante, já que permite ao satélite disponibilizar uma significativa quantidade de dados de um mesmo ponto da superfície, aumentando a probabilidade de capturade imagens úteis em dias com presença de nuvens. Trata-se, portanto, de valiosa característica para aplicações que exigem resposta rápida, como alertas de desmatamento na Amazônia.</imagem>
+<imagem>O satélite integra um programa espacial mais amplo: a Missão Amazonia, projeto com ambições de longo prazo que prevê o desenvolvimento e lançamento de mais dois satélites de sensoriamento remoto, Amazonia-1B e Amazonia-2. O projeto como um todo se iniciou em 2002, com a ideia de criação de uma Plataforma Multimissão (PMM), isto é, uma plataforma genérica responsável por prover todos os recursos necessários ao pleno funcionamento de um módulo espacial, independentemente do tipo de órbita espacial, e o qualifica para ser usado em diferentes missões espaciais, adaptável à demanda.</imagem>
+<imagem>O Amazonia-1 pesa cerca de 640 kg, tem 2,5 metros de altura e envergadura de aproximadamente 7,5 metros com os painéis solares abertos. Esses painéis possuem mais de 6 m² e permitem gerar uma potência da ordem de 1 000 watts ao longo de sua vida útil, planejada para quatro anos. Além disso, cerca de6 km de cabos e 14 mil conexões conectam todos os equipamentos.</imagem>
+<imagem>
+    <Story>
+        <imagem>em_2022_v1_geo_u1_cap2_f001.png</imagem>
+    </Story>
+</imagem>
+<legenda>Algumas etapas de desenvolvimento do satélite exigiram o esforço simultâneo de até cem profissionais altamente capacitados.</legenda>
+<credito>© INPE - Instituto Nacional de Pesquisas Espaciais</credito>
+<imagem>O satélite está orbitando a altitude média de 752 km, faixa orbital dentro da qual operam os satélites de observação terrestre. A altitude pode parecer elevada, porém, a depender da finalidade, satélites podem se situar a até 35 mil km de altitude, como é o caso de satélites de comunicação, responsáveis por distribuir sinais de telefone, internet e televisão, e de localização, como os de GPS. Para o funcionamento de câmeras fotográficas e sensores voltados à observação da Terra, a altitude varia entre 600 e 800 km. Já a órbita do Amazonia-1 é polar, ou seja, desloca-se no sentido norte-sul, cruzando a Linha do Equador em diferentes longitudes com capacidade de mapeamento em faixas de 850 km, resolução de 64 metros e capacidade de fornecer imagens da mesma latitude a cada 5 dias.</imagem>
+<imagem>Para o desenvolvimento da PMM, aproximadamente 70% dos componentes e equipamentos do satélite foram desenvolvidos pela indústria brasileira. Não se pode dizer, portanto, que a plataforma seja totalmente nacional, já que componentes críticos e de difícil desenvolvimento, como os controles de orientação e órbita, foram importados. No entanto, uma vez operados com sucesso em missões reais, os componentes desenvolvidos no Brasil validam que o país tem capacidade de desenvolver produtos de alto valor agregado e o colocam como potencial fornecedor internacional desses componentes, tais como o sistema de propulsão, o mecanismo de abertura do painel solar e a estrutura de fibra de carbono do satélite. Desse modo, uma das frentes de trabalho que se abre para o programa espacial brasileiro é o desenvolvimento nacional dos componentes importados, bem como estabelecimento de parcerias internacionais.</imagem>
+<imagem>Além disso, o projeto teve de considerar que o Brasil ainda não tem capacidade de lançar satélites desse porte. Em geral, a concepção de uma PMM desenvolve, simultaneamente, um lançador plenamente adaptado ao equipamento. O Brasil possui uma das mais privilegiadas estações de lançamento de foguetes do mundo, o Centro de Lançamento de Alcântara, situado na latitude 2°18’, hemisfério sul. A maior velocidade linear de rotação da Terra próxima à Linha do Equador pode significar uma economia de até 30% de combustível durante um lançamento.  No entanto, a base de Alcântara não comporta foguetes capazes de lançar um satélite com as dimensões do Amazonia-1.</imagem>
+<imagem>Para evitar que o projeto fosse limitado a estações internacionais específicas, o Inpe desenvolveu uma PMM com possibilidade de ser lançada a partir de diversas estações de lançamento do mundo, para a classe de satélites do Amazonia-1. Nesse sentido, em razão dos custos mais baixos, o satélite foi lançado a partir do Centro Espacial de Satish Dhawan, na Índia.</imagem>
+<imagem>Todos esses motivos – desenvolvimento bem-sucedido de tecnologia nacional e de uma plataforma adaptável a diferentes demandas e centros de lançamento – tornam o Brasil menos dependente de recursos estratégicos que são desenvolvidos por apenas 20 países no mundo, além de garantir maior sigilo sobre a finalidade e o funcionamento dos satélites que coloca em órbita.</imagem>
+<imagem>A recepção no Brasil das primeiras imagens produzidas pelo satélite ocorreu em março de 2021. A partir de antenas acopladas no satélite, as imagens coletadas são enviadas para estações de rastreio em Cuiabá (MT), Alcântara (MA) e Cachoeira Paulista (SP) e conectadas ao Centro de Controle de Satélites (CCS) pertencente ao Inpe, em São José dos Campos (SP), por meio de uma rede de comunicação de dados que permite ao CCS receber os dados dos satélites em tempo real.</imagem>
+<imagem>Além do uso estratégico dos dados coletados pelo Amazonia-1, a expectativa é de que a comunidade científica e toda a sociedade, em geral, usufruam das informações obtidas pelo artefato brasileiro.</imagem>
+<imagem>
+    <Story>
+        <imagem>em_2022_v1_geo_u1_cap2_f002.png</imagem>
+    </Story>
+</imagem>
+<legenda>Município de Ibotirama (BA). Em uma das primeiras imagens obtidas pelo Amazonia-1, em 3 de março de 2021, é possível observar um trecho do rio São Francisco e áreas de desenvolvimento de atividades agrícolas e de vegetação nativa.</legenda>
+<credito>© INPE - Instituto Nacional de Pesquisas Espaciais</credito>
+<imagem>Cartografia digital e tecnologias de geolocalização</imagem>
+<imagem>O desenvolvimento da cartografia digital ampliou o uso das informações geográficas muito mais do que se imaginava, contribuindo para que esse conhecimento se espalhasse por vários setores da sociedade, seja na economia, na política ou no lazer. </imagem>
+<imagem>Um bom exemplo disso foi o desenvolvimento dos Sistemas de Informação Geográfica (SIG ou GIS, em inglês), criados a partir da união dos mapas digitais (feitos por meio das imagens de satélite) a uma grande variedade de informações de dimensão espacial. Essa tecnologia trouxe, ainda, a possibilidade de relacionar de forma fácil e rápida diferentes dados e, dessa forma, chegar a conclusões importantes que podem orientar as políticas públicas e as decisões empresariais.</imagem>
+<imagem>
+    <Story>
+        <imagem>ID033-I009-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>União de informações geográficas em mapas digitais.</legenda>
+<legenda>Fonte: http://cier.uchicago.edu/gis/gis.htm. In: Ministério dos Transportes. “Sistema de informações cartográficas”. Banco de informações e mapas de transportes. Disponível em: www2.transportes.gov.br/bit/01-inicial/sig.html. Acesso em: 13 jul. 2021.</legenda>
+<imagem>Entre as áreas beneficiadas por esses sistemas, estão a gestão municipal da saúde pública, o planejamento do transporte coletivo ou da distribuição das escolas, as ações da polícia e de outros agentes da segurança pública, os estudos sobre problemas ambientais, as empresas de marketing dirigido, as decisões empresariais sobre onde investir e assim por diante.</imagem>
+<imagem>Mas não é apenas entre as pessoas especializadas que a cartografia digital vem fazendo sucesso. O maior exemplo da popularização desse tipo de tecnologia são os aplicativos com geolocalização, disponíveis para smartphones, que indicam qual caminho devemos seguir até a casa de um amigo ou, ainda, traçam o trajeto de nossa corrida ou pedalada, apresentando, posteriormente, o resultado em mapas, perfis de relevo e gráficos. Já quando entramos ou passamos próximos a determinados lugares, como shoppings, museus, restaurantes ou casas de show, alguns aplicativos nos dizem que temos uma boa oportunidade de fotografia ou pedem para que avaliemos o local em questão. Além disso, certos jogos também usam o espaço geográfico da cidade como cenário. E isso tudo é só o começo de um mundo que deve usar cada vez mais a geolocalização na vida cotidiana.</imagem>
+<imagem>
+    <Story>
+        <imagem>ID034-I010-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>Distribuição dos satélites do sistema GPS em seis diferentes planos orbitais.</legenda>
+<imagem>Um dos passos mais importantes para esse desenvolvimento foi a criação do Global Position System (GPS), o primeiro Sistema de Navegação Global por Satélite – Global Navigation Satellite System (GNSS), em inglês. Esse projeto foi iniciado pelo departamento de defesa dos Estados Unidos, ainda na década de 1960, mas só atingiu seu pleno funcionamento em 1995.</imagem>
+<imagem>Esse sistema funciona a partir de uma constelação de satélites, que variam entre 24 e 31, já contando com os reservas. Estes estão distribuídos em seis órbitas diferentes, todas oblíquas em relação à Linha do Equador e em uma altitude aproximada de 20  200 km, de modo que, em qualquer lugar da superfície terrestre, possa haver recepção direta do sinal de pelo menos quatro deles. Então, basta que um aparelho receptor capte os sinais emitidos por tais satélites e, com isso, calcule sua própria posição.</imagem>
+<imagem>Inicialmente, a ideia era que esse sistema fosse de uso exclusivamente militar para facilitar a localização de tropas e o direcionamento de mísseis guiados, navios, aviões e submarinos. É interessante citar que os sinais emitidos pelos satélites apresentavam um grande erro proposital; assim, quem os captasse sem os aparelhos exclusivos das forças armadas norte-americanas não conseguiria utilizá-los com precisão.</imagem>
+<imagem>A partir do ano 2000, no entanto, o presidente dos Estados Unidos na época, Bill Clinton, liberou, sob pressão da sociedade, o uso civil com precisão. Essa mudança tornou possível, em um primeiro momento, que técnicos utilizassem o sistema para fazer mapeamentos, estudos de campo ou projetos de engenharia. </imagem>
+<imagem>Contudo, os aparelhos receptores eram caros e de uso complexo. Então, surgiram os aparelhos GPS automotivos e, posteriormente, houve a popularização dos smartphones. Ao incorporar a eles os receptores de GPS, esses aparelhos tornaram a tecnologia da geolocalização disponível ao público não especializado, que passou a utilizá-la sem precisar entender tecnicamente o seu funcionamento.</imagem>
+<imagem>
+    <Story>
+        <imagem>ID035-F025-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>Aparelho de navegação GPS para uso técnico.</legenda>
+<credito>LorenzoT81/iStockphoto.com</credito>
+<imagem>Além disso, o uso da localização geográfica nos celulares foi complementado com outras informações acessíveis por meio da internet de dados móveis. Enquanto sistemas como GPS disponibilizam, sem necessidade de conexão à rede mundial de computadores, dados sobre latitude, longitude e altitude do ponto onde se encontra o usuário do aparelho celular, a conexão destes com a internet permite o acesso a informações sobre os arredores do local em que ele está. Devido a isso, passou a ser possível criar o que vem sendo chamado de realidade aumentada, ou seja, uma visão do espaço, por meio dos smartphones e de outros dispositivos móveis, com mais detalhes do que poderíamos ter a olho nu. No futuro, essa tecnologia tornará possível a existência de carros autônomos, ou seja, guiados por computador a partir da geolocalização.</imagem>
+<imagem>
+    <Story>
+        <imagem>ID036-F026-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>A incorporação dos receptores de GPS aos <caracter_italico>smartphone</caracter_italico>s popularizou a tecnologia da geolocalização.</legenda>
+<credito>scanrail/iStockphoto.com</credito>
+<imagem>
+    <Story>
+        <imagem>ID038-F028-2020-EM-GEO-1-L1-FA-U1-C2.png</imagem>
+    </Story>
+</imagem>
+<legenda>Tecnologias de geolocalização associadas às informações via internet vêm crescendo nas atividades de lazer, compras e turismo.</legenda>
+<credito>hakule/iStockphoto.com</credito>
+<imagem>Você deve estar imaginando o quanto toda essa tecnologia pode ser revolucionária em poucos anos. As possibilidades tecnológicas, econômicas e políticas são imensas. Por isso, há muita gente preocupada em garantir o domínio desse tipo de tecnologia. Nesse contexto, o sistema GPS, dos Estados Unidos, em breve, não será mais o único disponível voltado ao funcionamento de dispositivos com geolocalização.</imagem>
+<imagem>Durante a Guerra Fria, a União Soviética possuía um projeto concorrente ao modelo estadunidense, que também visava garantir o aprimoramento de seu poder militar. Porém, com a crise do socialismo na década de 1980 e a redução dos investimentos no setor espacial pelo governo soviético, essa iniciativa acabou sendo deixada de lado. Mas, em 2002, esse projeto foi retomado e, atualmente, já atingiu plena cobertura, com 26 satélites no total. </imagem>
+<imagem>O sistema russo se chama Glonass e, como acabamos de afirmar, é o único que, como o GPS, tem alcance global. No entanto, em breve, mais dois sistemas similares atingirão essa mesma condição: o Beidou, anteriormente chamado de Compass, de origem chinesa, e o Galileo, que está sendo desenvolvido na Europa. Este último é o único que tem um caráter totalmente civil, ao contrário dos outros três, que são de origem militar com uso liberado à população.</imagem>
+<imagem>
+    <boxe_09_texto>
+        <secao_03_titulo1>Aplicando conhecimentos</secao_03_titulo1>
+        <imagem>
+            <secao_exercicio_numerador>1	</secao_exercicio_numerador>
+            <caracter_negrito>Uerj 2018</caracter_negrito> O mapa milenar chinês “Yu Gong” fazia uma divisão esquemática de todo o mundo em cinco zonas retilíneas, organizadas de acordo com os quatro pontos cardeais baseados nos ventos. A civilização encontra-se no núcleo da imagem, destacando o domínio imperial. O grau de barbárie aumenta a cada quadrado que se afasta desse núcleo: governantes tributários, as regiões fronteiriças, os bárbaros “aliados” e, finalmente, a zona selvagem, sem cultura, que incluía a Europa.</imagem>
+        <imagem>Adaptado de BROTTON, J. <caracter_italico>Uma história do mundo em doze mapas</caracter_italico>. Rio de Janeiro: Zahar, 2014.</imagem>
+        <imagem>Tal como as teorias científicas, as concepções de mundo expressas através da cartografia também são aproximações passíveis de ajustes e revisões.</imagem>
+        <imagem>No texto, a descrição do referencial utilizado para a criação de um mapa milenar chinês aponta para o seguinte aspecto, igualmente presente em documentos cartográficos de outras culturas:</imagem>
+        <imagem>
+            <caracter_negrito>a)	</caracter_negrito>atraso técnico da elaboração</imagem>
+        <imagem>
+            <caracter_negrito>b)	</caracter_negrito>fundamento místico da orientação</imagem>
+        <imagem>
+            <caracter_negrito>c)	</caracter_negrito>interesse econômico da delimitação</imagem>
+        <imagem>
+            <caracter_negrito>d)	</caracter_negrito>caráter etnocêntrico da representação</imagem>
+        <imagem>
+            <secao_exercicio_numerador>2	</secao_exercicio_numerador>
+            <caracter_negrito>Unesp 2020</caracter_negrito> Analise os mapas temáticos hipotéticos.</imagem>
+        <imagem>
+            <Story>
+                <imagem>LUMEN_Q001-2021-EM-GEO-L1-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <imagem>(Marcello Martinelli. <caracter_italico>Mapas, gráficos e redes</caracter_italico>, 2014.) </imagem>
+        <imagem>Considerando os métodos de representação da cartografia temática, pode-se afirmar que o mapa temático:</imagem>
+        <imagem>
+            <caracter_negrito>a)	</caracter_negrito>2 apresenta relações de proporcionalidade entre os lugares.</imagem>
+        <imagem>
+            <caracter_negrito>b)	</caracter_negrito>3 apresenta relações de ordem entre os lugares.</imagem>
+        <imagem>
+            <caracter_negrito>c)	</caracter_negrito>3 apresenta relações de diversidade entre os lugares.</imagem>
+        <imagem>
+            <caracter_negrito>d)	</caracter_negrito>1 apresenta relações de proporcionalidade entre os lugares.</imagem>
+        <imagem>
+            <caracter_negrito>e)	</caracter_negrito>2 apresenta relações de ordem entre os lugares.</imagem>
+        <imagem>
+            <secao_exercicio_numerador>3	</secao_exercicio_numerador>A distância entre as cidades A e B em um mapa é de 13 cm. Considerando que a escala utilizada é de 1:100   000, qual é a distância real, em quilômetros, entre elas?</imagem>
+        <imagem>
+            <secao_exercicio_numerador>4	</secao_exercicio_numerador>Duas cidades que são representadas em um mapa com uma distância de 25 cm estão, na realidade, 500 km longe uma da outra. Qual é a escala numérica desse mapa?</imagem>
+        <imagem>
+            <secao_exercicio_numerador>5	</secao_exercicio_numerador>Dois colegas geógrafos, Mariana e Renato, foram contratados pela prefeitura de uma cidade do interior de Minas Gerais para realizar uma consultoria. O trabalho envolvia duas atividades distintas: fazer uma avaliação das relações espaciais desse município com o restante do estado, tarefa que ficou sob a responsabilidade de Mariana, e produzir um plano de reorganização do transporte público da cidade, parte que ficou a cargo de Renato. Na hora de escolher os mapas, qual geógrafo deverá selecionar os mapas de grande escala e qual deverá optar pelos de pequena escala? Justifique sua resposta.</imagem>
+        <imagem>
+            <exercicios_linhas></exercicios_linhas>
+        </imagem>
+        <imagem>
+            <exercicios_linhas></exercicios_linhas>
+        </imagem>
+        <imagem>
+            <secao_exercicio_numerador>6	</secao_exercicio_numerador>Compare as três figuras a seguir, que representam diferentes tipos de projeções. Em seguida, identifique os tipos de projeção apresentados e indique uma vantagem de cada um deles.</imagem>
+        <imagem></imagem>
+        <imagem>
+            <secao_exercicio_numerador></secao_exercicio_numerador>
+        </imagem>
+    </boxe_09_texto>
+</imagem>
+<imagem>
+    <secao_03_titulo1>Consolidando saberes<secao_exercicio_item>1	Fuvest-SP 2016 Observe o mapa.</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>LUMEN_Q002-2021-EM-GEO-L1-U1-C2.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>IBGE. 2012. Adaptado.</secao_exercicio_item>
+        <secao_exercicio_item>Identifique a alternativa que completa corretamente a legenda do mapa.</secao_exercicio_item>
+        <secao_exercicio_item>
+            <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="6" aid:tcols="4">
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="14.173228346456694"></Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>
+                        <caracter_negrito>1</caracter_negrito>
+                    </tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>
+                        <caracter_negrito>2</caracter_negrito>
+                    </tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>
+                        <caracter_negrito>3</caracter_negrito>
+                    </tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="14.173228346456694">
+                    <secao_exercicio>
+                        <caracter_negrito>a)</caracter_negrito>
+                    </secao_exercicio>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Histórico--cultural</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Ecoturismo</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Hidromineral</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="14.173228346456694">
+                    <secao_exercicio>
+                        <caracter_negrito>b)</caracter_negrito>
+                    </secao_exercicio>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Ecoturismo</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Histórico--cultural</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Hidromineral</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="14.173228346456694">
+                    <secao_exercicio>
+                        <caracter_negrito>c)</caracter_negrito>
+                    </secao_exercicio>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Hidromineral</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Ecoturismo</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Histórico--cultural</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="14.173228346456694">
+                    <secao_exercicio>
+                        <caracter_negrito>d)</caracter_negrito>
+                    </secao_exercicio>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Ecoturismo</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Hidromineral</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Histórico--cultural</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="14.173228346456694">
+                    <secao_exercicio>
+                        <caracter_negrito>e)</caracter_negrito>
+                    </secao_exercicio>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Hidromineral</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Histórico--cultural</tabela_texto_geral>
+                </Cell>
+                <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="67.03937007874016">
+                    <tabela_texto_geral>Ecoturismo</tabela_texto_geral>
+                </Cell>
+            </Table>
+        </secao_exercicio_item>
+        <secao_exercicio_item>2	Fuvest-SP 2017 Anamorfose geográfica representa superfícies dos países em áreas proporcionais a uma determinada quantidade.</secao_exercicio_item>
+        <secao_exercicio_item>Observe as seguintes anamorfoses:</secao_exercicio_item>
+        <secao_exercicio_item></secao_exercicio_item>
+        <secao_exercicio_item>I</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q05_CS_1.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>II</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q05_CS_1.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>Dados do Banco Mundial, 2009.</secao_exercicio_item>
+        <secao_exercicio_item>Nota: Mapa de referência</secao_exercicio_item>
+        <imagem>
+            <imagem>
+                <imagem>Q05_CS_2.png</imagem>
+            </imagem>
+        </imagem>
+        <secao_exercicio_item>Nas alternativas apresentadas, os títulos que identificam de forma correta as anamorfoses I e II são, respectivamente:</secao_exercicio_item>
+        <secao_exercicio_item>a)	Transporte aéreo e Transporte ferroviário.</secao_exercicio_item>
+        <secao_exercicio_item>b)	População urbana e População rural.</secao_exercicio_item>
+        <secao_exercicio_item>c)	População total e Produto Interno Bruto.</secao_exercicio_item>
+        <secao_exercicio_item>d)	Ocorrência de HIV e Ocorrência de malária.</secao_exercicio_item>
+        <secao_exercicio_item>e)	Exportação de armas e Importação de armas.</secao_exercicio_item>
+        <secao_exercicio_item>3	Famema-SP 2019 Analise o mapa. </secao_exercicio_item>
+        <secao_exercicio_item>Temperatura média em janeiro</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q06_CS.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>(Olly Phillipson. Atlas geográfico mundial, 2014.) </secao_exercicio_item>
+        <secao_exercicio_item>A legenda do mapa está organizada segundo:</secao_exercicio_item>
+        <secao_exercicio_item>a)	áreas proporcionais.</secao_exercicio_item>
+        <secao_exercicio_item>b)	áreas ordenadas.</secao_exercicio_item>
+        <secao_exercicio_item>c)	linhas diferenciadas.</secao_exercicio_item>
+        <secao_exercicio_item>d)	pontos ordenados.</secao_exercicio_item>
+        <secao_exercicio_item>e)	linhas proporcionais.</secao_exercicio_item>
+        <secao_exercicio_item>4	IFPE 2018 Observe a representação cartográfica a seguir.</secao_exercicio_item>
+        <imagem>
+            <imagem>
+                <imagem>Q08_CS_.png</imagem>
+            </imagem>
+        </imagem>
+        <secao_exercicio_item>Disponível em: https://geographicae.wordpress.com/2007/06/09/formas-de-relevo-e-curvas-de-nivel/. Acesso em: 8 out. 2017.</secao_exercicio_item>
+        <secao_exercicio_item>A imagem anterior é uma representação topográfica que utiliza a técnica das curvas de nível para representação do relevo de uma determinada área. Sobre isto, é possível afirmar que</secao_exercicio_item>
+        <secao_exercicio_item>I.	curvas de nível são linhas que representam pontos com a mesma altitude no terreno.</secao_exercicio_item>
+        <secao_exercicio_item>II.	quanto mais próximas as curvas de nível, menor é o declive do terreno.</secao_exercicio_item>
+        <secao_exercicio_item>III.	o local sinalizado pela letra A é o menos indicado para a prática agrícola.</secao_exercicio_item>
+        <secao_exercicio_item>IV.	a área indicada pela letra C apresenta uma declividade que favorece a erosão.</secao_exercicio_item>
+        <secao_exercicio_item>V.	a área indicada pela letra D possui uma das maiores declividades representadas na imagem.</secao_exercicio_item>
+        <secao_exercicio_item></secao_exercicio_item>
+        <secao_exercicio_item>Estão CORRETAS, apenas, as alternativas</secao_exercicio_item>
+        <secao_exercicio_item>a)	I, II e IV.</secao_exercicio_item>
+        <secao_exercicio_item>b)	I, III, IV e V.</secao_exercicio_item>
+        <secao_exercicio_item>c)	II, III e V.</secao_exercicio_item>
+        <secao_exercicio_item>d)	I, IV e V.</secao_exercicio_item>
+        <secao_exercicio_item>e)	I, II e III.</secao_exercicio_item>
+        <secao_exercicio_item>5	Unesp 2017 A escala cartográfica define a proporcionalidade entre a superfície do terreno e sua representação no mapa, podendo ser apresentada de modo gráfico ou numérico.</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q10_CS.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>A escala numérica correspondente à escala gráfica apresentada é:</secao_exercicio_item>
+        <secao_exercicio_item>a)	1:184  500  000</secao_exercicio_item>
+        <secao_exercicio_item>b)	1:615  000</secao_exercicio_item>
+        <secao_exercicio_item>c)	1:1 845  000</secao_exercicio_item>
+        <secao_exercicio_item>d)	1:123  000  000</secao_exercicio_item>
+        <secao_exercicio_item>e)	1:61  500  000</secao_exercicio_item>
+        <secao_exercicio_item>6	Unesp 2019 A generalização cartográfica é o processo que permite reconstruir em um mapa a realidade, mantendo seus traços essenciais.</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q11_CS.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>(Paulo M. L. Menezes e Manoel C. Fernandes. Roteiro de cartografia, 2013. Adaptado.)</secao_exercicio_item>
+        <secao_exercicio_item>Um fator importante nesse processo de generalização cartográfica é</secao_exercicio_item>
+        <secao_exercicio_item>a)	a orientação, pois os elementos do mapa devem se manter proporcionalmente distantes entre si.</secao_exercicio_item>
+        <secao_exercicio_item>b)	a topografia, pois a precisão na análise das informações depende de relevos pouco acidentados.</secao_exercicio_item>
+        <secao_exercicio_item>c)	a escala, pois sua diminuição promove restrições que geram a perda de informações.</secao_exercicio_item>
+        <secao_exercicio_item>d)	a simbolização, pois elementos naturais e antrópicos devem ser representados em mapas diferentes.</secao_exercicio_item>
+        <secao_exercicio_item>e)	a altimetria, pois a determinação das curvas de nível é influenciada pelo ponto de observação do cartógrafo.</secao_exercicio_item>
+        <secao_exercicio_item>7	Unesp 2017 Observe.</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q12_CS_.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>(Graça M. L. Ferreira. Atlas geográfico, 2013.)</secao_exercicio_item>
+        <secao_exercicio_item>A forma de representação espacial apresentada é caracterizada</secao_exercicio_item>
+        <secao_exercicio_item>a)	pela presença de um sistema de coordenadas que auxilia na demarcação de aspectos físicos ou humanos na superfície terrestre, com uma escala pequena.</secao_exercicio_item>
+        <secao_exercicio_item>b)	pela articulação de folhas de forma sistemática para permitir análises precisas de distâncias, direções e localização, com uma escala pequena.</secao_exercicio_item>
+        <secao_exercicio_item>c)	pela relação entre a restrição de uma área e a oferta de informações detalhadas do espaço geográfico, com uma escala grande.</secao_exercicio_item>
+        <secao_exercicio_item>d)	pela reunião de aspectos naturais ou da divisão política observados em uma superfície esférica, com uma escala pequena.</secao_exercicio_item>
+        <secao_exercicio_item>e)	pela expressão de um formato geoide em uma superfície plana segundo as necessidades de uso do leitor, com uma escala grande.</secao_exercicio_item>
+        <secao_exercicio_item>8	IFSul-RS 2016 Projeção cartográfica em que a superfície terrestre é representada sobre um plano tangente a um ponto qualquer da esfera – o ponto de tangência, que ocupa sempre o centro da projeção. Nesse tipo de projeção, as deformações são pequenas nas proximidades dos pontos de tangência, mas aumentam à medida que as áreas representadas se distanciam dele.</secao_exercicio_item>
+        <secao_exercicio_item>O texto faz referência à projeção:</secao_exercicio_item>
+        <secao_exercicio_item>a)	Peter.</secao_exercicio_item>
+        <secao_exercicio_item>b)	Cilíndrica.</secao_exercicio_item>
+        <secao_exercicio_item>c)	Cônica.</secao_exercicio_item>
+        <secao_exercicio_item>d)	Azimutal.</secao_exercicio_item>
+        <secao_exercicio_item>9	Mackenzie-SP 2018 Observe os modelos de planisférios.</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q_15_CS_1.png</imagem>
+            </Story>
+        </imagem>
+        <imagem>
+            <Story>
+                <imagem>Q_15_CS_1.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>Julgue as afirmações a seguir.</secao_exercicio_item>
+        <secao_exercicio_item>I.		O mapa 1 apresenta a forma mais conhecida de planisfério, elaborada pelo cartógrafo Gerardus Mercator no século XVI. Este acompanhava o pensamento ideológico Eurocêntrico do período das Grandes Navegações. Usa a projeção cilíndrica onde distorce as áreas e preserva as formas dos continentes.</secao_exercicio_item>
+        <secao_exercicio_item>II.	O mapa 2 apresenta o modelo de planisfério elaborado por Arno Peters em 1973. Este utilizou a projeção cilíndrica, preservando as proporções das áreas continentais e realçando nações pobres do planeta. Essa representação ficou conhecida como “terceiro-mundista”.</secao_exercicio_item>
+        <secao_exercicio_item>III.	O mapa 1 apresenta a projeção cilíndrica equidistante e o mapa 2, a projeção cilíndrica conforme.</secao_exercicio_item>
+        <secao_exercicio_item></secao_exercicio_item>
+        <secao_exercicio_item>É correto o que se afirma em</secao_exercicio_item>
+        <secao_exercicio_item>a)	I, apenas.</secao_exercicio_item>
+        <secao_exercicio_item>b)	I e II, apenas.</secao_exercicio_item>
+        <secao_exercicio_item>c)	II e III, apenas.</secao_exercicio_item>
+        <secao_exercicio_item>d)	I e III, apenas.</secao_exercicio_item>
+        <secao_exercicio_item>e)	I, II e III.</secao_exercicio_item>
+        <secao_exercicio_item>10	Uerj 2018</secao_exercicio_item>
+        <secao_exercicio_item>Representações do território do Reino Unido</secao_exercicio_item>
+        <imagem>
+            <Story>
+                <imagem>Q17_CS.png</imagem>
+            </Story>
+        </imagem>
+        <secao_exercicio_item>Adaptado de slightlywarped.com.</secao_exercicio_item>
+        <secao_exercicio_item>Nas representações anteriores do território do Reino Unido, em três latitudes diferentes, foi utilizada a projeção cartográfica de:</secao_exercicio_item>
+        <secao_exercicio_item>a)	Peters</secao_exercicio_item>
+        <secao_exercicio_item>b)	Lambert</secao_exercicio_item>
+        <secao_exercicio_item>c)	Mercator</secao_exercicio_item>
+        <secao_exercicio_item>d)	Robinson</secao_exercicio_item>
+        <secao_exercicio_item>11	Uefs-BA 2018 Uma empresa anunciou que a partir de 2018 celulares deverão ter um GPS (Sistema de Posicionamento Global) com precisão de até 30 centímetros. Essa situação vai ser benéfica principalmente para quando estamos sendo guiados em ruas que ficam lado a lado, caso de grandes avenidas em que existe uma pista local, uma expressa e uma central. Os GPS atuais raramente acertam em qual das três você está.</secao_exercicio_item>
+        <secao_exercicio_item>(https://tecnologia.uol.com.br, 08.10.2017. Adaptado.)</secao_exercicio_item>
+        <secao_exercicio_item>O funcionamento do GPS é possível devido ao emprego de</secao_exercicio_item>
+        <secao_exercicio_item>a)	sensores de aerofotogrametria.</secao_exercicio_item>
+        <secao_exercicio_item>b)	satélites naturais de precisão.</secao_exercicio_item>
+        <secao_exercicio_item>c)	radares de sensoriamento remoto.</secao_exercicio_item>
+        <secao_exercicio_item>d)	satélites globais de localização.</secao_exercicio_item>
+        <secao_exercicio_item>e)	sensores de energia eletromagnética.</secao_exercicio_item>
+    </secao_03_titulo1>
+</imagem>
+<imagem>
+    <Story>
+        <secao_05>No Enem é assim</secao_05>As questões selecionadas nesta seção são prioritariamente do Enem, mas questões de vestibulares diversos que apresentam características semelhantes aos itens do referido exame também foram usadas como recurso para estudo.<imagem>1	Enem 2014 Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.</imagem>
+        <imagem>SAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.</imagem>
+        <imagem>A diferença espacial citada é causada por qual característica física da Terra?</imagem>
+        <imagem>a)	Achatamento de suas regiões polares.</imagem>
+        <imagem>b)	Movimento em torno de seu próprio eixo.</imagem>
+        <imagem>c)	Arredondamento de sua forma geométrica.</imagem>
+        <imagem>d)	Variação periódica de sua distância do Sol.</imagem>
+        <imagem>e)	Inclinação em relação ao seu plano de órbita.</imagem>
+        <imagem>2	UFJF-MG 2017 Faça parte desta experiência.</imagem>
+        <imagem>Para essa experiência serão utilizados: mesa, lanterna, blusa preta e um espelho grande, a experiên-cia deve ser realizada à noite.</imagem>
+        <imagem>Procedimento: Coloque a lanterna em cima da mesa. Não deve haver nenhuma outra fonte de luz no quarto. Com a blusa preta vestida, você deve se posicionar a cerca de 30 cm da lanterna. Agora você deve ir rodando lentamente para a esquerda até ficar de costas para a luz projetada pela lanterna, posteriormente deve segurar o espelho e incliná-lo de tal modo que ele reflita a luz projetada pela lanterna para a parte da frente da sua blusa. Rode de novo para a esquerda até ficar de frente para a luz e, enquanto roda, observe o que passa a acontecer com a parte da frente da blusa.</imagem>
+        <imagem>Resultado: quando você está virado para a lanterna, a projeção da luz na parte da frente da sua blusa é brilhante e desaparece quando completa a meia volta e fica de costas para a lanterna. Quando é utilizado o espelho para refletir a luz da lanterna, esta volta a incidir na parte da frente da blusa, mas não é tão brilhante quanto quando incidia diretamente.</imagem>
+        <imagem>Fonte: VANCLEAVE, Janice. Ciências da Terra para jovens: 101 experiências fáceis de realizar. Lisboa: Publicações Dom Quixote, 1993. p. 29.</imagem>
+        <imagem>
+            <Story>
+                <imagem>Q 03 - UFJF-MG 2017.png</imagem>
+            </Story>
+        </imagem>
+        <imagem>Qual processo a experiência está representando?</imagem>
+        <imagem>a)	Movimento de translação</imagem>
+        <imagem>b)	Precessão do equinócio</imagem>
+        <imagem>c)	Movimento de rotação</imagem>
+        <imagem>d)	Pôr do sol</imagem>
+        <imagem>e)	Estações do ano</imagem>
+        <imagem>3	Enem Pensando nas correntes e prestes a entrar no braço que deriva da Corrente do Golfo para o norte, lembrei-me de um vidro de café solúvel vazio. Coloquei no vidro uma nota cheia de zeros, uma bola cor rosa-choque. Anotei a posição e data: Latitude 49°49&apos; N, Longitude 23°49’ W. Tampei e joguei na água. Nunca imaginei que receberia uma carta com a foto de um menino norueguês, segurando a bolinha e a estranha nota.</imagem>
+        <imagem>KLINK. A. Parati: entre dois polos. São Paulo: Companhia das Letras, 1998 (adaptado).</imagem>
+        <imagem>No texto, o autor anota sua coordenada geográfica, que é</imagem>
+        <imagem>a)	a relação que se estabelece entre as distâncias representadas no mapa e as distâncias reais da superfície cartografada.</imagem>
+        <imagem>b)	o registro de que os paralelos são verticais e convergem para os polos, e os meridianos são círculos imaginários, horizontais e equidistantes.</imagem>
+        <imagem>c)	a informação de um conjunto de linhas imaginárias que permitem localizar um ponto ou acidente geográfico na superfície terrestre.</imagem>
+        <imagem>d)	a latitude como distância em graus entre um ponto e o Meridiano de Greenwich, e a longitude como a distância em graus entre um ponto e o Equador.</imagem>
+        <imagem>e)	a forma de projeção cartográfica, usada para navegação, onde os meridianos e paralelos distorcem a superfície do planeta.</imagem>
+        <imagem>4	IFBA 2018 Observe a imagem a seguir:</imagem>
+        <imagem>
+            <Story>
+                <imagem>Q05_Enem.png</imagem>
+            </Story>
+        </imagem>
+        <imagem>Disponível em: http://planetadoalan.blogspot.com. br/2012/05/problema-de-fuso-horario.html. Acesso em 7 ago. 2017.</imagem>
+        <imagem>A interpretação do diálogo pode ser feita com auxílio dos conhecimentos geográficos referentes ao sistema mundial de fusos horários. Sendo assim, podemos afirmar que o diálogo desenvolvido na charge:</imagem>
+        <imagem>a)	Ironiza a situação com o fato de que o sistema de fusos horários se organiza de modo que apresenta horas e datas distintas num mesmo instante em diferentes partes do planeta. </imagem>
+        <imagem>b)	Refere-se ao fato de o sistema de fusos horários atual permitir que o mundo inteiro tenha um único horário no mesmo instante.</imagem>
+        <imagem>c)	Reacende o debate sobre necessidade de mudar o sistema atual, argumentando que a existência de países diferentes que possuem o mesmo fuso horário é inviável.</imagem>
+        <imagem>d)	Nega a ideia de que os fusos horários são uma necessidade surgida a partir da revolução industrial que acelerou a comunicação e os transportes em escala global.</imagem>
+        <imagem>e)	Compara os fusos horários atuais com o sistema adotado anteriormente, cujas horas eram mais adiantadas no oeste.</imagem>
+        <imagem>5	Enem PPL 2015</imagem>
+        <imagem>
+            <Story>
+                <imagem>Q 06 - Enem PPL 2015.png</imagem>
+            </Story>
+        </imagem>
+        <imagem>DUARTE, P. A. Fundamentos de cartografia. Florianópolis: UFSC, 2002.</imagem>
+        <imagem>As diferentes representações cartográficas trazem consigo as ideologias de uma época. A representação destacada se insere no contexto das Cruzadas por</imagem>
+        <imagem>a)	revelar aspectos da estrutura demográfica de um povo.</imagem>
+        <imagem>b)	sinalizar a disseminação global de mitos e preceitos políticos.</imagem>
+        <imagem>c)	utilizar técnicas para demonstrar a centralidade de algumas regiões.</imagem>
+        <imagem>d)	mostrar o território para melhor administração dos recursos naturais.</imagem>
+        <imagem>e)	refletir a dinâmica sociocultural associada à visão de mundo eurocêntrica.</imagem>
+        <imagem>6	Enem 2015 O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.</imagem>
+        <imagem>LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado).</imagem>
+        <imagem>A existência de um projeto como o apresentado no texto indica a importância da Cartografia como elemento promotor da</imagem>
+        <imagem>a)	expansão da fronteira agrícola.</imagem>
+        <imagem>b)	remoção de populações nativas.</imagem>
+        <imagem>c)	superação da condição de pobreza.</imagem>
+        <imagem>d)	valorização de identidades coletivas.</imagem>
+        <imagem>e)	implantação de modernos projetos agroindustriais.</imagem>
+        <imagem>7	Enem 2018 Anamorfose é a transformação cartográfica espacial em que a forma dos objetos é distorcida, de forma a realçar o tema. A área das unidades espaciais às quais o tema se refere é alterada de forma proporcional ao respectivo valor.</imagem>
+        <imagem>GASPAR, A. J. Dicionário de ciências cartográficas. Lisboa: Lidel, 2004.</imagem>
+        <imagem>A técnica descrita foi aplicada na seguinte forma de representação do espaço:</imagem>
+        <imagem>a)	<Story>
+            <imagem>Q 08 - Enem 2018_a.png</imagem>
+        </Story>
+    </imagem>
+    <imagem>b)	<Story>
+        <imagem>Q 08 - Enem 2018_b.png</imagem>
+    </Story>
+</imagem>
+<imagem>c)	<Story>
+    <imagem>Q 08 - Enem 2018_c.png</imagem>
+</Story>
+</imagem>
+<imagem>d)	<Story>
+<imagem>Q 08 - Enem 2018_d.png</imagem>
+</Story>
+</imagem>
+<imagem>e)	<Story>
+<imagem>Q 08 - Enem 2018_e.png</imagem>
+</Story>
+</imagem>
+</Story>
+</imagem>
+<imagem></imagem>
+</Root>
+</Marca1>
