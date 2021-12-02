@@ -130,22 +130,23 @@
 
 
 
+.titulo-cap-background {
+  background: linear-gradient(
+90deg
+, var(--color-geo-d1) 0%, rgba(216, 85, 9, 0.5) 100%);
+  display: flex;
+  align-items: center;
+  flex: 1;
+  padding-left: 16px;
+}
 .cap-section {
   display: flex;
   flex-direction: column;
   gap: 8px;
   justify-content: center;
   align-items: center;
-  background-color: var(--color-geo-d1);
+  background-color: var(--color-geo-a1);
   padding: 8px 8px;
-}
-
-.titulo-cap-background{
-  background: linear-gradient(90deg
-    , rgba(69,151,61,1) 0%, rgba(69,151,61,0.5) 100%);
-        display: flex;
-        align-items: center;
-        padding-left: 16px;
 }
 
 .título-cap{
@@ -245,10 +246,15 @@
 
 .mt-2rem {margin-top: 2rem;}
 
-.tabela-gravata {
+table{
   width: 100%;
   border-collapse: collapse;
   color: #2B2E34;
+}
+
+table.no-border th,table.no-border td{
+  border: none;
+  vertical-align: top;
 }
 
 th, td{
@@ -258,19 +264,41 @@ th, td{
 }
 
 
-th {
+table:not(.no-bg) th {
   color: white;
   background: var(--color-geo-d1);
   padding: 8px;
 }
 
-tbody tr td:first-child {
+.tabela-gravata tbody tr td:first-child {
   background: #DEEEDE;
   font-weight: bold;
   text-align: center;
   font-family: 'proxima_novaregular';
 }
 
+.tabela-alternativas{
+  margin-left: 1.5rem;
+}
+.tabela-alternativas tbody {
+  counter-reset: table;
+}
+.tabela-alternativas thead tr{
+  position: relative;
+}
+.tabela-alternativas thead tr::before{
+  content: '';
+}
+.tabela-alternativas tbody tr {
+  position: relative;
+}
+
+.tabela-alternativas tbody tr::before{
+  content: counter(table, lower-alpha) '.';
+  counter-increment: table;
+  font-weight: bold;
+  vertical-align: middle;
+}
 .tg-0lax {
   text-align: center;
   font-family: 'proxima_novalight';
