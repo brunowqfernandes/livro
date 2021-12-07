@@ -1138,6 +1138,7 @@ label img{
 
 .cota{
   padding: 10px;
+  text-align: center;
   width: fit-content;
   margin: 0 auto;
   background-color: var(--color-fis-d3);
