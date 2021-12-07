@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marca1>
+    <Root>
+        <titulo_cap_texto>Composição de movimentos</titulo_cap_texto>
+        <imagem>
+            <imagem>ID002-F002-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <legenda>Reabastecimento aéreo.</legenda>
+        <credito>ChameleonsEye/Shutterstock.com</credito>
+        <exercicio_citado>“[...] se um lugar é movido, seja o que for colocado ali dentro move-se com ele [...]”</exercicio_citado>
+        <fonte>NEWTON, Isaac. <caracter_italico>Newton’s Principia: the mathematical principles of natural philosophy</caracter_italico>, 1846. (Trad. livre.)</fonte>
+        <texto_geral>O movimento é relativo, e, em diversas situações, o deslocamento de um móvel pode ser composto da soma de outros deslocamentos em relação a diferentes referenciais. Saber determinar isso, em algumas situações, é de extrema importância. Um exemplo é considerar a velocidade da correnteza de um rio durante a travessia dele por um barco; ou a do vento durante o voo de aeronaves; ou mesmo a da Estação Espacial Internacional durante o acoplamento de uma nave.</texto_geral>
+        <texto_geral>Na imagem de abertura do capítulo, vemos um caso de reabastecimento aéreo, que consiste em transferir combustível de uma aeronave para outra durante o voo. A velocidade de uma aeronave em relação à outra é diferente da velocidade dela em relação ao solo.</texto_geral>
+        <texto_geral>No processo de transferência de combustível, é utilizado um tubo que pode se estender e se retrair hidraulicamente dentro de uma haste rígida (mas com a fixação do eixo flexível). As características desse equipamento permitem compensar certo movimento relativo entre o avião que abastece e o reabastecido, em pleno voo. Um espetáculo de tecnologia.</texto_geral>
+        <texto_bullets>•	Qual é, aproximadamente, a velocidade da aeronave que está sendo abastecida em relação àquela que abastece durante o processo de reabastecimento?</texto_bullets>
+        <texto_bullets>•	Qual seria a situação correspondente no caso de automóveis?</texto_bullets>
+        <boxe_02_texto> Neste capítulo será abordada a habilidade <boxe_06_texto>EM13CNT101 </boxe_06_texto>.
+        </boxe_02_texto>
+        <titulo1>	Arrastamento</titulo1>
+        <texto_geral>Existem diversas situações práticas nas quais um móvel encontra-se em movimento em relação a um referencial, e este, por sua vez, movimenta-se em relação a outro referencial. Nesses casos, o móvel fica sujeito a dois movimentos, simultaneamente. A composição desses dois movimentos, resultando em um terceiro, obedece ao <caracter_negrito>princípio da simultaneidade</caracter_negrito>, de Galileu:</texto_geral>
+        <Glossario>
+            <texto_geral>“O movimento de um corpo pode ser obtido como resultado da composição de outros movimentos realizados simultaneamente.”</texto_geral>
+        </Glossario>
+        <titulo2>Relação entre os deslocamentos</titulo2>
+        <texto_geral>Como exemplo de aplicação do princípio da simultaneidade, consideremos uma balsa que é simplesmente arrastada pela correnteza de um rio. Nessa balsa, vamos demarcar os pontos P1 e P2. A figura ao lado ilustra um passageiro que se desloca de P1 até P2 em movimento retilíneo e uniforme em relação à balsa. Não custa lembrar o procedimento para desenhar o vetor deslocamento: esse vetor tem origem no ponto de partida e extremidade no ponto de chegada <imagem>Eqn001.png</imagem>.
+        </texto_geral>
+        <imagem>
+            <imagem>ID004-I001-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <texto_geral>Em relação às margens do rio, o movimento do passageiro se superpõe ao movimento da balsa. Como vamos trabalhar com mais de um referencial, é importante destacar, para cada grandeza, em que referencial ela foi medida. Assim, vamos detalhar o significado de cada um dos símbolos presentes na figura seguinte. </texto_geral>
+        <texto_bullets>•	 representa o deslocamento da pessoa (P) em relação à balsa (A).</texto_bullets>
+        <texto_bullets>•	 representa o deslocamento da balsa (A) em relação às margens (B).</texto_bullets>
+        <texto_bullets>•	 representa o deslocamento da pessoa (P) em relação às margens (B).</texto_bullets>
+        <imagem>
+            <imagem>ID005-I002-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <texto_geral>A relação entre os deslocamentos é:</texto_geral>
+        <imagem>
+            <imagem>Eqn008.png</imagem>
+        </imagem>
+        <texto_geral>O deslocamento da pessoa em relação às margens é o deslocamento dessa pessoa em relação à balsa somado (vetorialmente) ao deslocamento da balsa em relação às margens. </texto_geral>
+        <imagem>
+            <imagem>ID006-I003-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <texto_geral>Esse resultado pode ser generalizado para uma situação em que temos vários referenciais; se forem os referenciais A, B, C e D, o resultado será:</texto_geral>
+        <imagem>
+            <imagem>Eqn009.png</imagem>
+        </imagem>
+        <texto_geral>Observe o encadeamento dos índices (<sub><small>P/A</small></sub>, A/B, B/C e C/D resultando em P/D). Esse encadeamento de referenciais recebe, por motivos claros no exemplo, o nome de “regra da cadeia do movimento relativo”.</texto_geral>
+        <texto_geral>Considere agora um carro que se aproxima de um poste, conforme o esquema a seguir. Em relação ao poste, o automóvel se desloca para a direita.</texto_geral>
+        <imagem>
+            <imagem>ID007-I004-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <texto_geral>No referencial do carro, é o poste que se aproxima (o veríamos se deslocando para a esquerda na figura). O deslocamento do carro em relação ao poste é vetor oposto ao deslocamento do poste em relação ao carro. De fato, se usarmos a regra da cadeia, observando que o deslocamento do carro em relação ao próprio carro é nulo, vamos escrever: </texto_geral>
+        <texto_geral>
+            <imagem>
+                <imagem>Eqn010.png</imagem>
+            </imagem>
+        </texto_geral>
+        <titulo3>Os deslocamentos e o observador</titulo3>
+        <secao_01>Questão resolvida<exercicio_enunciado>1	Uma balsa movimenta-se com velocidade constante de 8 m/s em linha reta paralela em relação às margens de um rio. Um passageiro se desloca transversalmente, em relação à direção do movimento da balsa, com velocidade também constante de 6 m/s, em relação à balsa. Em um intervalo de tempo de 5 s, determine:</exercicio_enunciado>
+            <exercicio_itens>
+                <caracter_negrito>a)	</caracter_negrito>o módulo do deslocamento do passageiro em relação à balsa;</exercicio_itens>
+            <exercicio_itens>
+                <caracter_negrito>b)	</caracter_negrito>o módulo do deslocamento da balsa em relação às margens;</exercicio_itens>
+            <exercicio_itens>
+                <caracter_negrito>c)	</caracter_negrito>o módulo do deslocamento do passageiro em relação às margens.</exercicio_itens>
+            <titulo3>Resolução:</titulo3>
+            <exercicio_resolvido>
+                <caracter_negrito>a)	</caracter_negrito>Vamos considerar a balsa como referencial (A) e as margens como referencial (B). O movimento do passageiro em relação à balsa é uniforme; assim, &Delta;r<sub><small>P/A</small></sub>=v •
+                &Delta;t &rArr;
+                &Delta;r<sub><small>P/A</small></sub>=6 • 5; logo, &Delta;r<sub><small>P/A</small></sub>=30 m. A direção e o sentido estão representados na figura ao lado.</exercicio_resolvido>
+            <imagem>
+                <imagem>ID008-I005-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            </imagem>
+            <exercicio_resolvido>
+                <caracter_negrito>b)</caracter_negrito>	O movimento da balsa em relação às margens também é uniforme. Assim, temos: &Delta;rA/B=v •
+                &Delta;t; logo, &Delta;rA/B=8 • 5; portanto, &Delta;rA/B=40 m, com direção e sentido indicados pela figura ao lado.</exercicio_resolvido>
+            <imagem>
+                <imagem>ID009-I006-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            </imagem>
+            <exercicio_resolvido>c)	Com os vetores obtidos nos dois itens antecedentes, podemos ob­ter o deslocamento da pessoa em relação às margens, pois <imagem>Eqn013.png</imagem>.
+            </exercicio_resolvido>
+            <exercicio_resolvido>	Como o triângulo determinado pelos vetores é retângulo, podemos aplicar o teorema de Pitágoras: <imagem>Eqn014.png</imagem>
+                &rArr;
+                <imagem>Eqn015.png</imagem>.A direção e o sentido estão indicados no diagrama efetuado com os próprios vetores.</exercicio_resolvido>
+            <imagem>
+                <imagem>ID010-I007-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            </imagem>
+        </secao_01>
+        <texto_geral>Vamos retomar a situação da pessoa se deslocando sobre a balsa, colocando em cena, além da balsa e do passageiro, um terceiro elemento, que é um observador. Para um observador sentado às margens do rio, as margens estão fixas, e a balsa está se movendo. </texto_geral>
+        <imagem>
+            <imagem>ID011-I008-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <imagem>
+            <imagem>ID012-I009-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </imagem>
+        <texto_geral>Com base no ponto de vista desse observador, cada um dos deslocamentos recebe uma denominação especial:</texto_geral>
+        <texto_bullets>•	 (deslocamento total): é o deslocamento em relação ao referencial que está fixo para o observador. É o vetor anteriormente designado por .</texto_bullets>
+        <texto_bullets>•	 (deslocamento relativo): é aquele que se processa no referencial que se movimenta em relação ao observador. No exemplo, é o vetor .</texto_bullets>
+        <texto_bullets>•	 (arrastamento): é o deslocamento sofrido pelo referencial móvel, em relação ao observador. É o vetor  no exemplo anterior.</texto_bullets>
+        <texto_geral>Com essas novas denominações, escrevemos então:</texto_geral>
+        <Glossario>
+            <texto_geral>
+                <imagem>Eqn022.png</imagem>O deslocamento total é a soma vetorial do deslocamento relativo com o deslocamento de arrastamento.</texto_geral>
+        </Glossario>
+        <texto_geral>Apenas como curiosidade, vejamos como ficariam os vetores para um observador que estivesse em uma posição fixa na balsa.</texto_geral>
+        <texto_geral>Para esse novo observador, as margens do rio sofrem um arrastamento no sentido contrário ao do movimento da balsa. O deslocamento da pessoa em relação à balsa é o deslocamento total; o deslocamento das margens em relação à balsa é o arrastamento; e o deslocamento da pessoa em relação às margens é o deslocamento relativo. A figura ilustra a composição desses vetores.</texto_geral>
+        <texto_geral>ID013-I010-2020-EM-FIS-1-L1-FA-U3-C6.png</texto_geral>
+        <texto_geral></texto_geral>
+        <titulo3>Relação entre as velocidades</titulo3>
+        <secao_01>Questão resolvida<exercicio_enunciado>2	Um pequeno barco consegue, com sua propulsão, manter uma velocidade constante de 4 m/s em relação às águas, que é a mesma velocidade com que uma pessoa se desloca em uma corrida suave em movimento uniforme. O barco e a pessoa iniciam simultaneamente, e de um mesmo ponto, a travessia de um rio com 80 m de largura. A pessoa se desloca por uma ponte transversal às margens, enquanto o barco se desloca nas águas do rio, sempre com seu eixo paralelo à direção dessa ponte. O movimento do barco é afetado por uma correnteza de 7,5 m/s.</exercicio_enunciado>
+            <exercicio_itens>
+                <caracter_negrito>a)	</caracter_negrito>Qual é a distância entre a pessoa e o barco, e entre o barco e o ponto de partida, 2 s depois de iniciada a travessia?</exercicio_itens>
+            <exercicio_itens>
+                <caracter_negrito>b)	</caracter_negrito>Qual é a distância entre o barco e a pessoa ao terminarem a travessia?</exercicio_itens>
+            <exercicio_itens>
+                <caracter_negrito>c)	</caracter_negrito>Esquematize a trajetória de cada um dos móveis em relação às margens e determine o deslocamento sofrido pelo barco em relação às margens.</exercicio_itens>
+            <titulo3>
+                <caracter_negrito>Resolução:</caracter_negrito>
+            </titulo3>
+            <exercicio_resolvido>a)	A pessoa se desloca pela ponte, que é fixa em relação às margens. O deslocamento da pessoa em 2 s pode ser obtido por: &Delta;s=v •
+                &Delta;t; logo,&Delta;s=4 • 2 &rArr; &Delta;s=8 m.</exercicio_resolvido>
+            <exercicio_resolvido>	Em relação às águas, o barco tem o mesmo deslocamento que a pessoa. Esse deslocamento, para um observador fixo nas margens, é o deslocamento relativo; logo, <imagem>Eqn023.png</imagem>. Entretanto, o barco é simultaneamente arrastado pela correnteza, em uma direção perpendicular à direção do eixo da ponte. O módulo do deslocamento de arrastamento é <imagem>Eqn024.png</imagem>.
+            </exercicio_resolvido>
+            <imagem>ID014-I011-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            <exercicio_resolvido>	A figura anterior ilustra as posições ocupadas pelos corpos 2 s após o início da travessia.</exercicio_resolvido>
+            <exercicio_resolvido>	Aplicando-se o teorema de Pitágoras no triângulo determinado pelos vetores, temos:</exercicio_resolvido>
+            <exercicio_resolvido>
+                <imagem>Eqn026.png</imagem>
+            </exercicio_resolvido>
+            <exercicio_resolvido>	A distância entre a pessoa e o barco nesse instante é de 15 m. A distância entre o barco e seu ponto de partida é de 17 m.</exercicio_resolvido>
+            <exercicio_resolvido>
+                <caracter_negrito>b)</caracter_negrito>	Ambos terminam a travessia simultaneamente. O deslocamento sofrido pela pessoa, em um referencial fixo na margem, possui módulo de 80 m, que é o comprimento da ponte. Esse também é o módulo do deslocamento relativo do barco.</exercicio_resolvido>
+            <exercicio_resolvido>	Para obter o módulo do arrastamento, vamos primeiro determinar o tempo de travessia:</exercicio_resolvido>
+            <exercicio_resolvido>
+                <imagem>Eqn027.png</imagem>
+            </exercicio_resolvido>
+            <exercicio_resolvido>	Assim, temos:</exercicio_resolvido>
+            <imagem>Eqn028.png</imagem>
+            <exercicio_resolvido>	Então, a distância entre o barco e a pessoa ao terminarem a travessia é de 150 m.</exercicio_resolvido>
+            <exercicio_resolvido>
+                <caracter_negrito>c)</caracter_negrito>	A figura ilustra o barco e a pessoa ao terminarem a passagem pelo rio.</exercicio_resolvido>
+            <exercicio_resolvido></exercicio_resolvido>
+            <imagem>ID015-I012-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            <exercicio_resolvido>	Aplicando-se o teorema de Pitágoras no triângulo retângulo formado pelos vetores, temos:</exercicio_resolvido>
+            <exercicio_resolvido>
+                <imagem>Eqn029.png</imagem>
+            </exercicio_resolvido>
+            <exercicio_resolvido>	Essa é a distância do barco em relação a seu ponto de partida.</exercicio_resolvido>
+        </secao_01>
+        <texto_geral>Tomando a relação entre os deslocamentos e dividindo por um intervalo de tempo qualquer (&Delta;t), obtemos:</texto_geral>
+        <imagem>Eqn030.png</imagem>
+        <texto_geral>Se o intervalo de tempo tender a zero, então as razões que representam cada parcela da igualdade são as respectivas velocidades instantâneas, assim:</texto_geral>
+        <Glossario>
+            <texto_geral>
+                <imagem>Eqn031.png</imagem>
+            </texto_geral>
+            <texto_geral>A velocidade total é a soma vetorial da velocidade relativa com a velocidade de arrastamento.</texto_geral>
+        </Glossario>
+        <texto_geral>A dúvida mais comum que surge na resolução dos exercícios de composição de movimentos se configura em estabelecer qual é, no problema, cada uma das velocidades. Qual é a relativa? Qual é a de arrastamento? Ou, ainda, qual é a total?</texto_geral>
+        <texto_geral>Essas perguntas são respondidas se, antes de serem formuladas, identificamos claramente onde está o observador. O movimento que se processa em relação ao referencial no qual o observador está fixo é o total; o movimento que se processa no referencial que se move em relação ao observador é o movimento relativo; e o movimento do referencial móvel em relação ao observador é o movimento de arrastamento.</texto_geral>
+        <texto_geral>A relação entre as velocidades também pode ser expressa pela regra da cadeia:</texto_geral>
+        <texto_geral>
+            <imagem>Eqn032.png</imagem>
+        </texto_geral>
+        <texto_geral></texto_geral>
+        <secao_01>Questão resolvida<exercicio_enunciado>3	Em um dia chuvoso, um motorista observa que as gotas de chuva determinam trajetórias verticais nas janelas do veículo, quando este está parado em relação à estrada. Acelerando o carro para a frente, o motorista verifica que as trajetórias ficam inclinadas 30o em relação à vertical nas janelas laterais, no instante em que o velocímetro indica 72 km/h. Determine a velocidade da chuva em relação ao solo. </exercicio_enunciado>
+            <secao_exercicio></secao_exercicio>
+            <titulo3>
+                <caracter_negrito>Resolução:</caracter_negrito>
+            </titulo3>
+            <exercicio_resolvido>Para um observador fixo às margens da rodovia, temos:</exercicio_resolvido>
+            <exercicio_resolvido>•  é a velocidade da chuva em relação ao solo (total);</exercicio_resolvido>
+            <exercicio_resolvido>•  é a velocidade do automóvel em relação ao solo (arrastamento); </exercicio_resolvido>
+            <exercicio_resolvido>•  é a velocidade da chuva em relação ao carro (relativa).</exercicio_resolvido>Podemos ilustrar um diagrama vetorial do problema, em que <imagem>Eqn031.png</imagem>, de acordo com a figura a seguir.<imagem>ID016-I013-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            <exercicio_resolvido>Notamos que va=72 km/h=20 m/s.</exercicio_resolvido>
+            <exercicio_resolvido>De acordo com o triângulo retângulo formado pelos três vetores, temos:</exercicio_resolvido>
+            <exercicio_resolvido>
+                <imagem>EqnFC6037.png</imagem>
+                &rArr;
+                <imagem>EqnFC6038.png</imagem>; logo, vt=34,6 m/s.</exercicio_resolvido>
+            <exercicio_resolvido>O esquema de composição das velocidades é:</exercicio_resolvido>
+            <imagem>ID017-I014-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        </secao_01>
+        <titulo2>Movimentos em uma única direção</titulo2>
+        <texto_geral>Se todos os deslocamentos acontecem em uma única direção, podemos utilizar as projeções (módulos) dos vetores – grandezas escalares –, adotando o critério já visto de eleger uma orientação. Os vetores cujas componentes possuem o mesmo sentido que a orientação escolhida têm projeção positiva e, em caso contrário, têm projeção negativa. Reduzimos, assim, uma questão vetorial a uma questão simplesmente algébrica, conforme os exemplos a seguir.</texto_geral>
+        <secao_01>Questão resolvida<exercicio_enunciado>4	A velocidade de um barco em relação às águas de um rio é de 54 km/h (15 m/s), e a velocidade das águas em relação à margem é de 5,0 m/s. Considere que se trata de movimentos retilíneos.</exercicio_enunciado>
+            <exercicio_itens>
+                <caracter_negrito>a)	</caracter_negrito>Determine a distância que o barco percorre, em relação à margem, subindo o rio durante 15 minutos;</exercicio_itens>
+            <exercicio_itens>
+                <caracter_negrito>b)	</caracter_negrito>Resolva o item anterior supondo que o barco esteja descendo o rio.</exercicio_itens>
+            <secao_exercicio></secao_exercicio>
+            <titulo3>
+                <caracter_negrito>Resolução:</caracter_negrito>
+            </titulo3>
+            <exercicio_resolvido>Para um observador fixo nas margens, as águas do rio são um referencial móvel. Temos, então:</exercicio_resolvido>
+            <exercicio_resolvido>•                <imagem>EqnFC6042.png</imagem> é a velocidade do barco em relação às margens (total);</exercicio_resolvido>
+            <exercicio_resolvido>•                <imagem>EqnFC6043.png</imagem> é a velocidade da correnteza (arrastamento);</exercicio_resolvido>
+            <exercicio_resolvido>•                <imagem>EqnFC6044.png</imagem> é a velocidade do barco em relação às águas (relativa).</exercicio_resolvido>Vamos orientar um eixo que tenha a direção e o sentido da velocidade do barco em relação às águas (contrário à correnteza) e considerar as projeções das velocidades.A igualdade vetorial <imagem>EqnFC6045.png</imagem> se reduz à igualdade algébrica (escalar) <imagem>EqnFC6046.png</imagem>.            <exercicio_resolvido></exercicio_resolvido>
+            <exercicio_resolvido>a) 	Quando o barco sobe o rio, os vetores têm a disposição ao lado.</exercicio_resolvido>
+            <exercicio_resolvido></exercicio_resolvido>
+            <exercicio_resolvido>
+                <imagem>ID019-I016-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            </exercicio_resolvido>
+            <exercicio_resolvido></exercicio_resolvido>
+            <exercicio_resolvido>	Propositadamente, não desenhamos o sentido do vetor <imagem>Eqn033.png</imagem>, pois a velocidade em relação às margens pode ser rio acima ou rio abaixo, dependendo de a velocidade do barco em relação às águas ser maior ou menor que a velocidade da correnteza.</exercicio_resolvido>
+            <exercicio_resolvido>	No eixo adotado, temos:</exercicio_resolvido>
+            <exercicio_resolvido>
+                <imagem>EqnFC6048.png</imagem>
+            </exercicio_resolvido>
+            <exercicio_resolvido>	O fato de a velocidade resultar positiva indica que ela tem o mesmo sentido do eixo orientado (rio acima).</exercicio_resolvido>
+            <exercicio_resolvido>	O movimento é uniforme, então &Delta;st=vt •
+                &Delta;t. Além disso, temos que 15 min=900 s. Logo:</exercicio_resolvido>
+            &Delta;st=10 • 900 &rArr;
+            &Delta;st=9 000 m=9 km.<exercicio_resolvido></exercicio_resolvido>
+            <exercicio_resolvido>b) 	Quando o barco se desloca a favor da correnteza (desce o rio), os vetores têm a disposição abaixo.</exercicio_resolvido>
+            <imagem>EqnFC6049.png</imagem>
+            <imagem>ID020-I017-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+            <exercicio_resolvido>	Temos: &Delta;st=vt •
+                &Delta;t; logo, &Delta;st=20 • 900 &rArr; &Delta; st=18 000 m=18 km.</exercicio_resolvido>
+        </secao_01>
+        <titulo1>	Movimento de rotação</titulo1>
+        <texto_geral>O movimento circular se constitui em uma maneira de restringir o movimento a dada região. Ele está presente em vários aparelhos de uso cotidiano. Por exemplo, no motor elétrico de uma furadeira. Como o motor está em movimento se, olhando para a furadeira, a vemos sempre na mesma posição? Podemos pensar também nos casos dos liquidificadores, dos motores dos carros, das rodas, dos ponteiros do relógio, das pás de um ventilador etc. </texto_geral>
+        <texto_geral>Nesse sentido, o movimento dos planetas ao redor do Sol também se aproxima bastante de um movimento circular.</texto_geral>
+        <texto_geral>A base para o estudo dos movimentos circulares em geral é o <caracter_negrito>movimento circular uniforme (MCU)</caracter_negrito>, tanto pela simplicidade das equações como pela clareza dos conceitos iniciais.</texto_geral>
+        <texto_geral>Quando um corpo se desloca sobre uma circunferência previamente conhecida, podemos determinar sua posição conhecendo apenas o <caracter_negrito>ângulo central</caracter_negrito> relativo a um arco com origem arbitrária e extremidade na posição considerada. A escolha desse procedimento nos leva a descrever todas as propriedades inerentes a esse movimento por meio de grandezas angulares.</texto_geral>
+        <titulo2>Cinemática angular</titulo2>
+        <texto_geral>A medida de um ângulo (&phi;) em radianos é definida como a razão entre a medida algébrica do arco orientado (s) abrangido por esse ângulo e o comprimento do raio (r) da circunferência em que esse ângulo é central, conforme ilustrado na figura. </texto_geral>
+        <imagem>ID026-I023-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        <texto_geral>Algebricamente, escrevemos: </texto_geral>
+        <imagem>
+            <imagem>Eqn088.png</imagem>
+        </imagem>
+        <texto_geral>Independentemente da circunferência que escolhemos para aplicar a definição anterior, essa razão resulta sempre em um mesmo número, visto que é uma proporção constante de figuras semelhantes, conforme o esquema.</texto_geral>
+        <imagem>ID027-I024-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        <imagem>
+            <imagem>Eqn074.png</imagem>
+        </imagem>
+        <texto_geral></texto_geral>
+        <texto_geral>Com relação à unidade radiano, cujo símbolo no Sistema Internacional de Unidades (SI) é <caracter_negrito>rad</caracter_negrito>, vamos observar que:</texto_geral>
+        <imagem>
+            <imagem>Eqn075.png</imagem>
+        </imagem>
+        <texto_geral></texto_geral>
+        <texto_geral>Embora adimensional, essa unidade é sempre citada após o valor da medida, com a intenção de deixar claro que nos referimos à medida de um ângulo, e não a um número adimensional qualquer. Uma das vantagens práticas de medir um ângulo em radianos é que podemos fazê-lo sem o uso de transferidor, munidos apenas de uma fita métrica flexível. Outro ponto vantajoso é que, sendo adimensional, essa medida não é afetada por eventuais conversões de sistemas de unidades.</texto_geral>
+        <texto_geral>O ângulo central de medida <caracter_negrito>1 rad</caracter_negrito> é aquele que compreende um arco de comprimento igual ao raio da circunferência considerada.</texto_geral>
+        <texto_geral>O perímetro de uma circunferência corresponde à medida do arco relativo a uma circunferência completa (uma volta); logo, s=2&pi;r. A medida em radianos desse arco é: </texto_geral>
+        <imagem>
+            <imagem>Eqn076.png</imagem>
+        </imagem>
+        <texto_geral>O ângulo raso, que corresponde a meia-volta, vale, portanto, &pi; rad.</texto_geral>
+        <texto_geral>A mudança de unidades, de uma medida feita em radianos para a unidade <caracter_negrito>grau</caracter_negrito>, por exemplo, se faz por uma regra de três simples. Lembrando que o ângulo raso compreende 180o, temos:</texto_geral>
+        <imagem>
+            <imagem>EqnFC6077.png</imagem>
+        </imagem>
+        <titulo3>Fase (<caracter_negrito>j</caracter_negrito>)
+        </titulo3>
+        <texto_geral>É a medida angular algébrica do ângulo que define a posição, considerando-se uma origem arbitrária. Em particular, a fase referente ao instante em que se começa a análise do movimento é chamada de fase inicial (&phi;<sub><small>0</small></sub>). Geralmente, essa medida é feita em radianos.</texto_geral>
+        <titulo3>Deslocamento angular (&Delta;
+            <caracter_negrito>j</caracter_negrito>)
+        </titulo3>
+        <texto_geral>É a variação sofrida pela fase em dado intervalo de tempo.</texto_geral>
+        <texto_geral>Algebricamente, temos <simbolos>Dj 5 j</simbolos>
+            -
+            &phi;<sub><small>0</small></sub>, que também é, em geral, medida em radianos.</texto_geral>
+        <texto_geral>Essa variação, assim como acontece com o deslocamento escalar, é uma grandeza algébrica. Ou seja, pode ser positiva ou negativa, dependendo de concordar ou não com a orientação adotada.</texto_geral>
+        <titulo3>Velocidade angular média (&omega;<sub><small>m</small></sub>)</titulo3>
+        <texto_geral>Quando um corpo sofre um deslocamento angular (&Delta;&phi;) em dado intervalo de tempo (&Delta;t), sua velocidade angular média é, por definição,</texto_geral>
+        <imagem>Eqn079.png</imagem>
+        <texto_geral>cuja unidade no SI é <imagem>Eqn080.png</imagem> (radianos por segundo).</texto_geral>
+        <texto_geral>Tal como o deslocamento angular, a velocidade angular também é positiva ou negativa, dependendo de concordar ou não com a orientação da trajetória.</texto_geral>
+        <Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="3" aid:tcols="2">
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="2" aid:ccolwidth="255.11811023622053">
+                <Tabela_gravata1>Sentido do movimento em relação à orientaçãoda trajetória</Tabela_gravata1>
+            </Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="105.12647226024873">a favor da orientação</Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="149.9916379759718">
+                &omega; &gt; 0</Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="105.12647226024873">contra a orientação</Cell>
+            <Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="149.9916379759718">
+                &omega; &lt; 0</Cell>
+        </Table>
+        <titulo3>Velocidade angular instantânea (&omega;)
+        </titulo3>
+        <texto_geral>Para a definição dos valores instantâneos de uma grandeza, procedemos da mesma forma que no caso da cinemática escalar. Assim:</texto_geral>
+        <texto_geral>
+            <imagem>Eqn081.png</imagem>
+        </texto_geral>
+        <titulo2>Movimento circular uniforme (MCU)</titulo2>
+        <texto_geral>Um movimento circular é dito uniforme quando sua velocidade angular é uma constante não nula.</texto_geral>
+        <texto_geral>Nessa circunstância, é indiferente falarmos em valor médio ou valor instantâneo da velocidade angular, pois ambos coincidem. </texto_geral>
+        <texto_geral>A figura ilustra um ponto material que se deslocou da posição P0, correspondente à fase inicial (&phi;<sub><small>0</small></sub>), para a posição P, correspondente à fase (&phi;), em MCU.</texto_geral>
+        <texto_geral>A partir da definição de velocidade angular, escrevemos:</texto_geral>
+        <texto_geral>Considerando o instante inicial (t0=0), obtemos:</texto_geral>
+        <Glossario>
+            <texto_geral>j 5 j0 + &omega;t(função horária do MCU)</texto_geral>
+        </Glossario>
+        <texto_geral>Considerando também os aspectos vetoriais no MCU, temos:</texto_geral>
+        <texto_bullets>•	o vetor velocidade tem módulo constante, mas muda continuamente de direção;</texto_bullets>
+        <texto_bullets>•	a aceleração tangencial é nula, mas existe aceleração centrípeta, de módulo constante, com direção continuamente variável.</texto_bullets>
+        <imagem>ID028-I025-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+        <titulo2>Parâmetros de um fenômeno periódico</titulo2>
+        <texto_geral>Fenômeno periódico é aquele em que as situações se repetem a cada determinado intervalo de tempo.</texto_geral>
+        <texto_geral>O MCU é periódico. Existe um intervalo de tempo constante entre duas posições que se repetem consecutivamente. O intervalo de tempo decorrido entre duas situações consecutivas que se repetem é o período (T),medido, no SI, em segundos.</texto_geral>
+        <texto_geral>A quantidade de situações que se repetem por unidade de tempo é a frequência (f). No MCU, o período corresponde ao tempo de uma volta completa, e a frequência corresponde à quantidade de voltas completas por unidade de tempo. Chamando de n a quantidade de voltas em um intervalo de tempo &Delta;t, podemos escrever:</texto_geral>
+        <imagem></imagem>
+        <imagem>Eqn084.png</imagem>ID029-I026-2020-EM-FIS-1-L1-FA-U3-C6.png<texto_geral>A unidade no SI para a frequência é o hertz, definido como <imagem>Eqn085.png</imagem>.São comuns também as unidades ciclos por segundo (cps) e rotações por minuto (rpm).</texto_geral>
+    <texto_geral>Considerando uma volta completa, em MCU, teremos<imagem>Eqn086.png</imagem>; portanto:</texto_geral>
+    <imagem>Eqn087.png</imagem>
+    <texto_geral>Observe que as expressões em destaque somente são válidas quando o ângulo é medido em radianos. Se os ângulos forem medidos em graus, a quantidade 2&pi; rad deve ser substituída por 360o.</texto_geral>
+    <titulo3>Relação entre as grandezas angulares e lineares no MCU</titulo3>
+    <texto_geral>Dado o espaço de um ponto material que executa movimento circular, podemos obter a fase desse ponto material, lembrando que <imagem>Eqn088.png</imagem>.A grandeza angular é obtida pela razão entre a grandeza linear e o raio da circunferência descrita. Para o deslocamento angular, escrevemos <imagem>Eqn089.png</imagem>.
+    </texto_geral>
+    <texto_geral>Com relação à velocidade angular, também vamos observar que <imagem>Eqn090.png</imagem>portanto:</texto_geral>
+    <imagem>EqnFC6091.png</imagem>
+    <titulo3>Aceleração centrípeta</titulo3>
+    <texto_geral>O módulo da aceleração centrípeta é <imagem>EqnFC6093.png</imagem>.
+    </texto_geral>
+    <texto_geral>Como <imagem>EqnFC6094.png</imagem>, podemos escrever <imagem>Eqn095.png</imagem>.
+    </texto_geral>ID030-I027-2020-EM-FIS-1-L1-FA-U3-C6.png<secao_01>Questão resolvida<exercicio_enunciado>5	Uma criança brinca em um gira-gira que executa movimento circular uniforme de período 3,14 s. A distância da criança ao centro de rotação é 1,5 m, conforme a figura.</exercicio_enunciado>
+    <exercicio_itens>
+        <caracter_negrito>a)	</caracter_negrito>Qual é a velocidade escalar da criança?</exercicio_itens>
+    <exercicio_itens>
+        <caracter_negrito>b)	</caracter_negrito>Qual é o módulo da aceleração desse movimento? Compare-o com o módulo da aceleração da gravidade.</exercicio_itens>
+    <titulo3>
+        <caracter_negrito>Resolução:</caracter_negrito>
+    </titulo3>
+    <exercicio_resolvido>a)	Como <imagem>EqnFC6096.png</imagem>, obtemos <imagem>EqnFC6097.png</imagem>.
+    </exercicio_resolvido>	A velocidade é <imagem>Eqn098.png</imagem>.    <exercicio_resolvido>b) 	A aceleração centrípeta pode ser obtida por: <imagem>Eqn099.png</imagem>.
+    </exercicio_resolvido>	Vemos que, mesmo com baixa velocidade, a criança sentirá uma aceleração escalar comparável à da gravidade.ID031-I028-2020-EM-FIS-1-L1-FA-U3-C6.png</secao_01>
+<titulo1>	Rolamento</titulo1>
+<texto_geral>Denominamos rolamento a situação em que um corpo se desloca sobre uma superfície, sem que haja escorregamento entre as superfícies em contato. </texto_geral>
+<texto_geral>A figura a seguir ilustra o rolamento de um pentágono irregular. Em cada trecho do rolamento, um de seus vértices é o centro de rotação.</texto_geral>
+<imagem>ID032-I029-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<titulo2>Composição de rotação e translação</titulo2>
+<texto_geral>A figura seguinte ilustra alguns polígonos regulares rolando, sem escorregar, sobre uma superfície plana.</texto_geral>
+<imagem>ID033-I030-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<texto_geral>Instante por instante, o vértice que está em contato com o solo é o centro da rotação de cada polígono. Como esse vértice não escorrega, a cada instante ele tem velocidade nula em relação ao chão.</texto_geral>
+<texto_geral>e colocarmos um polígono como uma roda em um veículo, à medida que formos aumentando o número de vértices dele, vão diminuindo os solavancos durante o movimento. Quanto mais vértices, mais o polígono fica próximo de um círculo.</texto_geral>
+<texto_geral>Vamos agora analisar o rolamento de um círculo. Quando uma bicicleta desce uma ladeira, sem escorregar, suas rodas estão rolando ladeira abaixo. Todos os pontos de cada uma das rodas dessa bicicleta giram em torno de seus respectivos eixos. Contudo, enquanto os vários pontos da roda giram em torno de seu eixo, esse eixo se desloca em relação ao chão. </texto_geral>
+<texto_geral>Para um observador fixo no solo, vamos identificar cada uma das velocidades integrantes da equação do movimento relativo.</texto_geral>
+<texto_bullets>•	 (velocidade relativa): é a velocidade dos pontos da roda em relação ao eixo.</texto_bullets>
+<texto_bullets>•	 (velocidade de arrastamento): é a velocidade do eixo da roda em relação ao solo.</texto_bullets>
+<texto_bullets>•	 (velocidade total): é a velocidade dos pontos da roda em relação ao solo.</texto_bullets>
+<texto_geral>Esses vetores variam de acordo com o ponto da roda que estejamos considerando.</texto_geral>
+<texto_geral>Em relação ao eixo, os pontos da roda estão em rotação, e nesse referencial cada ponto da periferia da roda tem velocidade de módulo <caracter_italico>v</caracter_italico>. O eixo, por sua vez, tem translação em relação ao solo, e sua velocidade de translação (em relação ao solo) também tem módulo <caracter_italico>v</caracter_italico>. Em outras palavras, se um automóvel se desloca a 80 km/h em relação à estrada, os eixos das rodas estão se deslocando a 80 km/h em relação ao solo, e cada ponto periférico da roda se desloca com velocidade de 80 km/h em sua rotação em relação ao eixo. As figuras seguintes ilustram a disposição e a composição dos vetores para os pontos A, B, C, D e O da roda.</texto_geral>
+<imagem>ID034-I031-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<legenda>Velocidades em relação ao eixo O ().</legenda>
+<imagem>ID035-I032-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<legenda>Velocidade do eixo em relação ao solo ().</legenda>
+<imagem>ID036-I033-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<legenda>Superposição das velocidades.</legenda>
+<imagem>ID037-I034-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<legenda>Velocidade total(em relação ao solo).</legenda>
+<texto_geral>Observe que, em relação ao solo, o ponto A deve ter a mesma velocidade que o solo, pois não há, por hipótese, o escorregamento. Ora, a velocidade do solo, em relação ao próprio solo, é nula. Assim, a composição de velocidades no ponto A deve ser tal que a velocidade desse ponto resulte nula em relação à rodovia; portanto, <imagem>EqnFC6105.png</imagem>. Isso justifica formalmente o fato de a velocidade de arrastamento ser, em módulo, igual à velocidade de um ponto da periferia da roda em relação ao eixo.</texto_geral>
+<secao_01>Questão resolvida<exercicio_enunciado>6	A figura ilustra uma ferramenta de marcenaria chamada de lixadeira de fita.</exercicio_enunciado>
+    <secao_exercicio>Em relação ao eixo O, os pontos da lixa têm velocidade de 30 m/s. Ao tentar lixar uma tábua plana, um artesão deixa escapar a lixadeira, que passa a se mover sobre a tábua sem escorregar. Responda às questões seguintes com base nessa condição.</secao_exercicio>
+    <exercicio_itens>
+        <caracter_negrito>a)	</caracter_negrito>Após escapar das mãos do artesão, a lixadeira estará lixando?</exercicio_itens>
+    <exercicio_itens>
+        <caracter_negrito>b)	</caracter_negrito>Qual é a velocidade dos pontos da fita que estão em contato com a madeira, em relação à tábua?</exercicio_itens>
+    <exercicio_itens>
+        <caracter_negrito>c)	</caracter_negrito>Qual é a velocidade do ponto B, na parte superior da lixadeira, em relação à tábua?</exercicio_itens>
+    <exercicio_itens>
+        <caracter_negrito>d)	</caracter_negrito>Se a lixadeira percorreu 5 cm, em relação à tábua, até parar, qual foi o deslocamento sofrido pelo ponto B da lixa em relação ao eixo O? E em relação à tábua?</exercicio_itens>
+    <secao_exercicio>ID038-I035-2020-EM-FIS-1-L1-FA-U3-C6.png</secao_exercicio>
+    <titulo3>
+        <caracter_negrito>Resolução:</caracter_negrito>
+    </titulo3>
+    <exercicio_resolvido>
+        <caracter_negrito>a)</caracter_negrito>	Se não há movimento relativo entre as superfícies em contato, a lixadeira não está esfregando na madeira, logo não está lixando.</exercicio_resolvido>
+    <exercicio_resolvido>
+        <caracter_negrito>b)</caracter_negrito>	Sem escorregamento, os pontos da fita que estão em contato com a madeira têm, em relação à própria madeira, velocidade nula.</exercicio_resolvido>
+    <exercicio_resolvido>
+        <caracter_negrito>c)</caracter_negrito>	Para um observador parado em relação à tábua, a velocidade do ponto B é a velocidade total; a velocidade do eixo em relação à tábua é a velocidade de arrastamento; e a velocidade do ponto da lixa em relação ao eixo é a velocidade relativa. Como <imagem>Eqn106.png</imagem>, a composição dos vetores obedece à figura a seguir.</exercicio_resolvido>
+    <imagem>ID039-I036-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+    <exercicio_resolvido>
+        <caracter_negrito>d)</caracter_negrito>	Em relação ao eixo, o deslocamento do ponto B também é de 5 cm. Em relação à tábua, podemos escrever: <imagem>Eqn109.png</imagem>, cuja composição vetorial vemos abaixo.</exercicio_resolvido>
+    <imagem>ID039-I036-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>A figura ao lado ilustra as posições do ponto B, vistas por um observador parado em relação à tábua, com destaque também para o ponto A da lixa, que está em contato com a madeira. A marca vermelha na tábua serve para destacar as posições iniciais de cada um dos pontos A, B e C.ID041-I038-2020-EM-FIS-1-L1-FA-U3-C6.png</secao_01>
+<titulo3>entro instantâneo de rotação (CIR)</titulo3>
+<texto_geral>Todos os pontos de um corpo rígido têm a mesma velocidade angular em relação ao eixo de rotação. Vamos lembrar também que as intensidades das velocidades lineares dependem da distância do ponto em relação ao eixo de rotação, pois <imagem>EqnFC6110.png</imagem>, expressão em que <caracter_italico>r</caracter_italico> é a distância a que o ponto está desse eixo. Nos esquemas a seguir, o eixo de rotação é visto de cima, representado simplesmente por um ponto.</texto_geral>
+<texto_geral>A figura ilustra um sólido qualquer girando em torno do ponto O para determinado observador. O centro de rotação é o ponto que está fixo em relação ao observador, que, portanto, tem velocidade nula.</texto_geral>
+<imagem>ID042-I039-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<texto_geral>Em algumas situações, o centro instantâneo de rotação pode estar fora do corpo. Nesse caso, ele é o ponto que se comporta como se o corpo estivesse rigidamente ligado a ele e em torno dele girando. Como exemplo, a figura seguinte ilustra um balde, que, por um processo mecânico qualquer, gira em torno do ponto O.</texto_geral>
+<imagem>ID043-I040-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<texto_geral></texto_geral>
+<titulo4>Propriedades do centro instantâneo de rotação (CIR)</titulo4>
+<imagem>ID044-I041-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<titulo4></titulo4>
+<texto_geral>Vejamos algumas propriedades úteis do centro instantâneo de rotação.</texto_geral>
+<texto_bullets>•	Qualquer ponto do corpo rígido em rotação tem seu vetor velocidade perpendicular à linha que une esse ponto ao CIR.</texto_bullets>
+<texto_bullets>•	A distância entre dois pontos quaisquer desse sólido é sempre a mesma, pois o corpo é rígido. Assim, o vetor velocidade de um ponto do sólido não possui componente de aproximação nem de afastamento em relação a outro ponto do mesmo sólido. Como o CIR tem velocidade nula, a velocidade de qualquer ponto em relação a ele é a própria velocidade total, e esta é perpendicular à linha que une o ponto do CIR.</texto_bullets>
+<texto_bullets>•	A intensidade da velocidade de qualquer ponto do sólido pode ser obtida por v = &omega;R, em que R é a distância do ponto considerado ao CIR.</texto_bullets>
+<texto_bullets>•	A posição do CIR depende do referencial considerado. </texto_bullets>
+<texto_geral>Como exemplo, vamos retomar o já visto caso de rolamento de um cilindro: em relação ao carro, o CIR é o próprio eixo da roda; em relação ao solo, o CIR é o ponto da roda que está em contato com o solo.</texto_geral>
+<secao_exercicio>
+    <imagem>ID045-I042-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<legenda>Em relação ao carro, o CIR da roda é o próprio eixo.</legenda>
+<secao_exercicio>
+    <imagem>ID046-I043-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<legenda>Em relação à pista, o CIR da roda é o ponto de contato com o solo.</legenda>
+<texto_geral>Podemos obter as velocidades vetoriais dos pontos A, B, C e D da roda que está rolando usando as propriedades do CIR com a relação v = &omega;R, tomando o cuidado de observar que R representa a distância do ponto do qual se quer obter a velocidade em relação ao CIR.</texto_geral>
+<texto_geral>De acordo com a figura, observamos as seguintes relações para um referencial fixo no solo:</texto_geral>
+<texto_geral>
+    <imagem>Eqn111.png</imagem>
+</texto_geral>
+<texto_geral></texto_geral>
+<secao_01>Questão resolvida<exercicio_enunciado>7	Uma escada de 5 m de comprimento escorrega pela parede, conforme indica a figura. Em dado instante, o ponto A da escada, que está em contato com a parede, tem velocidade 20 m/s e está a 3,0 m do nível do piso. Nesse instante, qual é a velocidade do ponto B?</exercicio_enunciado>
+    <imagem>ID048-I045-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+    <caracter_negrito></caracter_negrito>
+    <titulo3>
+        <caracter_negrito>Resolução:</caracter_negrito>
+    </titulo3>O vetor velocidade de cada ponto de um corpo rígido em rotação é perpendicular ao segmento que une esse ponto ao CIR.As direções dos vetores velocidades dos pontos A e B da escada são determinadas pelos apoios (parede e chão). Traçando perpendiculares a essas direções, obtemos o CIR, conforme ilustra a figura.<imagem>ID049-I046-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>Considerando o triângulo retângulo ABC, temos: &rArr;  m.Em relação ao CIR, temos v = &omega;R, logo:Assim, <imagem>EqnFC6115.png</imagem>
+    &rArr; vB=15 m/s.</secao_01>
+<boxe_09>
+    <secao_15_titulo1>Aplicando conhecimentos</secao_15_titulo1>
+    <secao_exercicio_numerador>1	</secao_exercicio_numerador>Um homem, em seu barco a remo, consegue trafegar em um lago à velocidade máxima de 6 m/s. Caso ele fosse com seu barco para um rio cujas águas possuem velocidade de 4 m/s, qual seria a maior velocidade possível para esse homem:<exercicio_itens>
+    <caracter_negrito>a)	</caracter_negrito>descendo o rio?</exercicio_itens>
+<exercicio_itens>
+    <caracter_negrito>b)	</caracter_negrito>subindo o rio?</exercicio_itens>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Dois carros, A e B, movem-se no mesmo sentido, em uma estrada reta, com velocidades constantes vA=100 km/h e vB=80 km/h, respectivamente.<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Qual é, em módulo, a velocidade do carro B em relação a um observador no carro A?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Em um dado instante, o carro B está 600 m à frente do carro A. Quanto tempo, em horas, decorre até que A alcance B? </secao_exercicio_item>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>Um barco sobe um rio a 3 km/h e desce a 7 km/h, ambas as velocidades em relação às margens, com o motor funcionando com a mesma potência. Qual é a velocidade das águas desse rio em relação às margens?<secao_exercicio_numerador>4	</secao_exercicio_numerador>Uma balsa retangular, medindo 5 m de largura e 20 m de comprimento, desce um trecho retilíneo de um rio com velocidade 20 km/h em relação às margens. Um homem, partindo do ponto A, corre à beira da balsa a 5 km/h em sentido anti-horário e dá uma volta completa. Faça uso da malha quadriculada para facilitar o desenho da trajetória no item B.<imagem>ID052-I049-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<imagem>ID051-I048-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Qual é a trajetória do homem, considerando a balsa como referencial?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Qual é a trajetória do homem, considerando as margens do rio como referencial?</secao_exercicio_item>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Um carro movimenta-se em uma estrada retilínea com velocidade 40 km/h em relação ao solo no momento em que cai uma chuva vertical. Por causa da resistência do ar, no instante em que está nas proximidades da superfície, a água possui velocidade constante de 40 km/h em relação ao solo. Determine:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>a velocidade da chuva em relação ao carro;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>o ângulo formado entre a velocidade da chuva em relação ao carro e ao plano horizontal.</secao_exercicio_item>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>
+<caracter_negrito>UEMG 2015</caracter_negrito> O tempo é um rio que corre. O tempo não é um relógio. Ele é muito mais do que isso. O tempo passa, quer se tenha um relógio ou não. <secao_exercicio>Uma pessoa quer atravessar um rio num local onde a distância entre as margens é de 50 m. Para isso, ela orienta o seu barco perpendicularmente às margens. </secao_exercicio>
+<secao_exercicio>Considere que a velocidade do barco em relação às águas seja de 2,0 m/s e que a correnteza tenha uma velocidade de 4,0 m/s. </secao_exercicio>
+<secao_exercicio>Sobre a travessia desse barco, assinale a afirmação correta: </secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Se a correnteza não existisse, o barco levaria 25 s para atravessar o rio. Com a correnteza, o barco levaria mais do que 25 s na travessia. </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Como a velocidade do barco é perpendicular às margens, a correnteza não afeta o tempo de travessia. </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>O tempo de travessia, em nenhuma situação, seria afetado pela correnteza. </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Com a correnteza, o tempo de travessia do barco seria menor que 25 s, pois a correnteza aumenta vetorialmente a velocidade do barco. </secao_exercicio_item>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>
+<caracter_negrito>Acafe-SC</caracter_negrito> Um carrinho de brinquedo descreve um círculo, no sentido anti-horário, com velocidade de módulo constante.<imagem>em_2022_v1_fis_fa_u3_cap6_acafe_2022.png</imagem>
+<secao_exercicio>A figura que representa corretamente os vetores velocidade e aceleração é a:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Figura (c)</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Figura (b)</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Figura (a)</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Figura (d)</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>
+<caracter_negrito>Famerp-SP</caracter_negrito> Em julho de 2020, Estados Unidos, China e Emirados Árabes lançaram missões espaciais não tripuladas a Marte. <secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Para chegar ao planeta, as naves devem percorrer uma distância aproximada de 4,80 X 108 km em cerca de 200 dias terrestres. Quantas horas demorará a viagem das naves da Terra até Marte? Qual é a velocidade média, em km/h, desenvolvida pelas naves nessa viagem?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>O período de translação de Marte em torno do Sol é de 1,9 anos terrestres. Considerando as órbitas no mesmo plano e aproximadamente circulares, e que os planetas se movem no mesmo sentido com velocidades angulares constantes, calcule o menor intervalo de tempo, em meses terrestres, entre dois instantes de máxima aproximação entre Marte e Terra.</secao_exercicio_item>
+<secao_exercicio_numerador>9	</secao_exercicio_numerador>Um ciclista desloca-se sobre uma balsa com velocidade 10 km/h em relação a ela. Já a balsa desce o rio com velocidade 15 km/h em relação às águas, que, por sua vez, se movimentam com velocidade 5 km/h em relação às margens. Os trajetos são retilíneos e as três velocidades citadas possuem mesma direção e mesmo sentido. <secao_exercicio>Determine para dado instante as seguintes velocidades:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>da balsa em relação às margens;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>do ciclista em relação às margens;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>de um ponto da roda no instante em que está em contato com a balsa em relação às margens;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>de um ponto no instante em que ele está na posição mais alta da roda em relação às margens.</secao_exercicio_item>
+<secao_exercicio_numerador>10	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Um cilindro de madeira de 4,0 cm de diâmetro rola sem deslizar entre duas tábuas horizontais móveis, A e B, como representa a figura. Em determinado instante, a tábua A se movimenta para a direita com velocidade de 40 cm/s e o centro do cilindro se move para a esquerda com velocidade de intensidade 10 cm/s. Qual é nesse instante a velocidade da tábua B em módulo e sentido?ID063-I060-2020-EM-FIS-1Â-L1-FA-U3-C6.png</boxe_09>
+<secao_03>Consolidando saberes<secao_exercicio_numerador>1	</secao_exercicio_numerador>ID065-I062-2020-EM-FIS-1-L1-FA-U3-C6.pngConsidere que a velocidade da correnteza é a mesma em todos os pontos do rio. Nesse caso, para alcançar a segunda boia, o menino deve nadar na direção indicada pela linha: <secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>K</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>L</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>M</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>N</secao_exercicio_item>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Num vagão ferroviário que se move com velocidade v0=3 m/s em relação aos trilhos, estão dois meninos A e B que correm um em direção ao outro, cada um com velocidade v=3 m/s em relação ao vagão. As velocidades dos meninos A e B em relação aos trilhos serão respectivamente de:<imagem>ID066-I063-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>6 m/s e 0 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3 m/s e 3 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>0 m/s e 9 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>9 m/s e 0 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>0 m/s e 6 m/s</secao_exercicio_item>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>Um homem rema um barco com velocidade de 5,00 km/h na ausência de correnteza. Quanto tempo ele gasta para remar 3,00 km rio abaixo e voltar ao ponto de partida em um dia em que a velocidade da correnteza é de 1,00 km/h? Suponha que a potência de suas remadas seja a mesma nos dois casos e que o trajeto seja retilíneo.<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>1,25 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>1,20 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>1,15 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>1,10 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>1,00 h</secao_exercicio_item>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<caracter_negrito>FEI-SP </caracter_negrito>Um barco se move com velocidade constante de 10 m/s em relação à água, num local onde a correnteza tem velocidade constante de 2 m/s, a favor do barco. Num determinado momento, um dos ocupantes desse barco deixa cair uma garrafa e só dá pela sua falta 5 minutos mais tarde. Imediatamente, joga âncora e resolve esperar que a própria correnteza lhe traga a garrafa. No instante em que o barco para, pode-se afirmar que a distância da garrafa ao barco e o tempo gasto pela correnteza para trazê-la são, respectivamente:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>3 000 m, 25 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3 000 m, 10 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>3 000 m, 20 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>2 400 m, 20 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>2 400 m, 12 minutos</secao_exercicio_item>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Um trem se desloca em plano horizontal em trilhos retilíneos com velocidade constante <imagem>EqnFC6122.png</imagem> de módulo 3,0 m/s em relação ao solo. Uma pessoa está caminhando sobre o teto do vagão com velocidade relativa ao vagão constante e de módulo 4,0 m/s.<imagem>ID068-I065-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio>
+<imagem>nome_do_link</imagem>
+</secao_exercicio>
+<secao_exercicio>Na figura, temos uma vista do teto do vagão, que tem velocidade <imagem>EqnFC6123.png</imagem> na direção e no sentido do eixo (Ox).</secao_exercicio>
+<secao_exercicio>Calcule o módulo da velocidade da pessoa, em relação ao solo, nos seguintes casos:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>a pessoa se movimenta na direção e no sentido do eixo (Ox);</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>a pessoa se movimenta na direção e no sentido do eixo (Oy).</secao_exercicio_item>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>
+<caracter_negrito>Mackenzie</caracter_negrito> Olimpíadas de Inverno de Pyeongchang. <secao_exercicio>No mês de fevereiro do vigente ano, do dia 7 ao dia 25, na cidade de Pyeongchang na Coreia do Sul, o mundo acompanhou a disputa de 2.952 atletas, disputando 102 provas de 15 disciplinas esportivas na 23a edição dos Jogos Olímpicos de Inverno.</secao_exercicio>
+<secao_exercicio>Praticamente todas as provas ocorreram sob temperaturas negativas, dentre elas, a belíssima patinação artística no gelo, que envolve um par de atletas.</secao_exercicio>
+<secao_exercicio>A foto acima mostra o italiano Ondrej Hotarek que, em meio à coreografia da prova, crava a ponta de um de seus patins em um ponto e gira a colega Valentina Marchei, cuja ponta de um dos patins desenha no gelo uma circunferência de raio 2,0 metros. Supondo-se que a velocidade angular de Valentina seja constante e valha 6,2 rad/s e considerando-se &pi;
+&cong; 3,1, pode-se afirmar corretamente que o módulo da velocidade vetorial média da ponta dos patins de Valentina, ao percorrer de um ponto a outro diametralmente oposto da circunferência, vale, em m/s,</secao_exercicio>
+<imagem>ID070-I067-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>2,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>5,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>6,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>8,0</secao_exercicio_item>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>
+<caracter_negrito>Vunesp</caracter_negrito> Um homem, em pé sobre uma plataforma que se move horizontalmente para a direita com velocidade constante v=4,0 m/s, observa que, ao inclinar de 45o um tubo cilíndrico oco, permite que uma gota de chuva, que cai verticalmente com velocidade c constante em relação ao solo, atravesse o tubo sem tocar em suas paredes.<secao_exercicio>Determine a velocidade c da gota da chuva, em m/s.</secao_exercicio>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>
+<caracter_negrito>Vunesp (Adapt.)</caracter_negrito> Gotas de chuva que caem com velocidade v=20 m/s são vistas através da minha vidraça formando um ângulo de 30° com a vertical, vindo da esquerda para a direita. Quatro automóveis estão passando pela minha rua com as velocidades de módulos e sentidos indicados. Qual dos motoristas vê, através do vidro lateral, a chuva caindo na vertical?<imagem>ID071-I068-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>1 </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>2</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>3 </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>4</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>Nenhum deles vê a chuva na vertical.</secao_exercicio_item>
+<secao_exercicio_numerador>9	</secao_exercicio_numerador>
+<caracter_negrito>FEI-SP</caracter_negrito> Um avião voa com velocidade v=300 km/h constante de norte para o sul. Em dado momento ele entra em uma região onde o vento sopra com velocidade v=150<imagem>EqnFC6133.png</imagem>km/h de leste para oeste. Qual deverá ser o ângulo de correção de rota com a direção norte-sul que o avião deverá fazer para chegar a uma cidade situada a 200 km ao sul do ponto de partida?<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>15o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>30o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>45o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>60o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>75o</secao_exercicio_item>
+<secao_exercicio_numerador>10	</secao_exercicio_numerador>
+<caracter_negrito>FMP 2021</caracter_negrito> O lançamento de martelo é uma modalidade olímpica de atletismo na qual o atleta gira uma esfera de metal presa por um cabo e a solta, visando a que a esfera atinja a maior distância possível após o lançamento, conforme mostra a Figura abaixo. <secao_exercicio>
+<imagem>em_2022_v1_fis_fa_u3_cap6_q10_fmp.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Suponha que, no momento do lançamento, a esfera realizava um movimento circular de raio 1,20 m, girando a uma velocidade angular de 25,0 rad/s. A velocidade da esfera no momento do lançamento, em m/s, é de, aproximadamente,</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>30,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>26,2</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>36,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>25,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>20,8</secao_exercicio_item>
+<secao_exercicio_numerador>11	</secao_exercicio_numerador>
+<caracter_negrito>UEM-PR</caracter_negrito> Em um plano, uma partícula P1 parte do ponto (1, 0) no instante t0 = 0 s e se desloca no sentido anti-horário sobre o gráfico da circunferência Γ de equação x2 + y2 = 1 até retornar ao ponto de partida. No mesmo instante t0 = 0 s, uma outra partícula, P2, parte do ponto (-1, 1) e se desloca sobre o gráfico da função  y = x2 até o ponto (1, 1).<secao_exercicio>Suponha que as distâncias sejam dadas em metros e que as velocidades escalares de ambas as partículas sejam iguais e constantes.</secao_exercicio>
+<secao_exercicio>Assinale o que for correto.</secao_exercicio>
+<exercicio_resolvido>
+<caracter_negrito>01</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	A partícula P2 percorre apenas pontos interiores à circunferência Γ. </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>02</caracter_negrito>
+<caracter_negrito>.	</caracter_negrito>Se a velocidade escalar das partículas for de 3 m/s, então o tempo que a partícula P1 leva para retornar ao ponto de partida é superior a 2 s. </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>04</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	Durante os deslocamentos das partículas, entre quaisquer dois instantes t1 e t2 a velocidade vetorial média de P1 é igual à velocidade vetorial média de P2. </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>08</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	A aceleração vetorial instantânea de P1 em qualquer instante <caracter_italico>t</caracter_italico> do deslocamento é igual à aceleração centrípeta em <caracter_italico>t</caracter_italico>. 
+</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>16</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	No movimento da partícula P2 não há aceleração centrípeta.</exercicio_resolvido>
+<texto_geral>
+<caracter_negrito>Soma:</caracter_negrito>
+</texto_geral>
+<secao_exercicio_numerador>12	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Em uma estrada, dois carros, A e B, entram simultaneamente em curvas paralelas, com raios RA e RB. Os velocímetros de ambos os carros indicam, ao longo de todo o trecho curvo, valores constantes VA e VB.<secao_exercicio>
+<imagem>ID077-I074-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Se os carros saem das curvas ao mesmo tempo, a relação entre VA e VB é </secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>VA=VB </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>VA/VB=RA/RB </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>VA/VB=(RA/RB)2 </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>VA/VB=RB/RA </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>VA/VB=(RB/RA)2</secao_exercicio_item>
+<secao_exercicio_numerador>13	</secao_exercicio_numerador>
+<caracter_negrito>Unicamp-SP (Adapt.)</caracter_negrito> O quadro (a), a seguir, refere-se à imagem de televisão de um carro parado, em que podemos distinguir claramente a marca do pneu (“PNU”). Quando o carro está em movimento, a imagem da marca aparece como um borrão em volta de toda a roda, como ilustrado em (b).<secao_exercicio>
+<imagem>em_2022_v1_fis_fa_u3_cap6_q13_unicamp_sp.png</imagem>
+</secao_exercicio>
+<secao_exercicio>A marca do pneu volta a ser nítida, mesmo com o carro em movimento, quando este atinge uma determinada velocidade. Essa ilusão de movimento na imagem gravada é devido à frequência de gravação de 30 quadros por segundo (30 Hz). Considerando que o diâmetro do pneu é igual a 0,6 m e &pi; = 3,0, responda:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Quantas voltas o pneu completa em um segundo, quando a marca filmada pela câmara aparece parada na imagem, mesmo estando o carro em movimento?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Qual a menor frequência angular &omega; do pneu em movimento, quando a marca aparece parada?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Qual a menor velocidade linear (em m/s) que o carro pode ter na figura (c) em relação ao solo? </secao_exercicio_item>
+<secao_exercicio_numerador>14	</secao_exercicio_numerador>Uma pequena pedra fica presa ao pneu de caminhão de 1 m de diâmetro.<secao_exercicio>A partir do instante em que a pedra está em contato com o solo, o pneu dá meia-volta sobre seu eixo. Nesse intervalo, determine:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>o deslocamento da pedra em relação ao eixo;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>o deslocamento do eixo em relação ao solo;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>o deslocamento da pedra em relação ao solo.</secao_exercicio_item>
+<secao_exercicio_numerador>15	</secao_exercicio_numerador>Um trator utiliza duas esteiras. Cada esteira tem 1 m reto na parte de cima, 1 m reto na parte que fica em contato com o solo e 1 m em cada parte curva, totalizando 4 m. <imagem>ID083-I080-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio>O trator está em movimento retilíneo e uniforme com velocidade de intensidade 18 km/h.</secao_exercicio>
+<secao_exercicio>Pedem-se:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>as intensidades das velocidades dos pontos A, B, D e E;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>o intervalo de tempo em que cada ponto da esteira permanece em contato com o solo.</secao_exercicio_item>
+<secao_exercicio_numerador>16	</secao_exercicio_numerador>
+<caracter_negrito>Uece </caracter_negrito>Considere uma pedra em queda livre e uma criança em um carrossel que gira em velocidade angular constante. Sobre o movimento da pedra e da criança, é correto afirmar que:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>aceleração da pedra varia e a criança gira em aceleração nula.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>a pedra cai em aceleração nula, e a criança gira em aceleração constante.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>ambas sofrem aceleração de módulos constantes.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>a aceleração de ambas é zero.</secao_exercicio_item>
+<secao_exercicio_numerador>17	</secao_exercicio_numerador>
+<caracter_negrito>Enem digital</caracter_negrito> No Autódromo de Interlagos, um carro de Fórmula 1 realiza a curva S do Senna numa trajetória curvilínea. Enquanto percorre esse trecho, o velocímetro do carro indica velocidade constante.<secao_exercicio>Quais são a direção e o sentido da aceleração do carro?</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Radial, apontada para fora da curva.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Radial, apontada para dentro da curva.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Aceleração nula, portanto, sem direção nem sentido.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Tangencial, apontada no sentido da velocidade do carro.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>Tangencial, apontada no sentido contrário à velocidade do carro.</secao_exercicio_item>
+<secao_exercicio_numerador></secao_exercicio_numerador>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<caracter_negrito>FEI-SP </caracter_negrito>Um barco se move com velocidade constante de 10 m/s em relação à água, num local onde a correnteza tem velocidade constante de 2 m/s, a favor do barco. Num determinado momento, um dos ocupantes desse barco deixa cair uma garrafa e só dá pela sua falta 5 minutos mais tarde. Imediatamente, joga âncora e resolve esperar que a própria correnteza lhe traga a garrafa. No instante em que o barco para, pode-se afirmar que a distância da garrafa ao barco e o tempo gasto pela correnteza para trazê-la são, respectivamente:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>3 000 m, 25 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3 000 m, 10 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>3 000 m, 20 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>2 400 m, 20 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>2 400 m, 12 minutos</secao_exercicio_item>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Um trem se desloca em plano horizontal em trilhos retilíneos com velocidade constante  de módulo 3,0 m/s em relação ao solo. Uma pessoa está caminhando sobre o teto do vagão com velocidade relativa ao vagão constante e de módulo 4,0 m/s.<secao_exercicio></secao_exercicio>
+<secao_exercicio>Na figura, temos uma vista do teto do vagão, que tem velocidade  na direção e no sentido do eixo (Ox).</secao_exercicio>
+<secao_exercicio>Calcule o módulo da velocidade da pessoa, em relação ao solo, nos seguintes casos:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>a pessoa se movimenta na direção e no sentido do eixo (Ox);</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>a pessoa se movimenta na direção e no sentido do eixo (Oy).</secao_exercicio_item>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>
+<caracter_negrito>Mackenzie</caracter_negrito> Olimpíadas de Inverno de Pyeongchang. </secao_03>
+<secao_07_titulo1>Superação<secao_02_texto_citado>Uma criança cola uma bola de massa epóxi entre o pneu e a roda metálica do carro do pai. Ao entrar em uma estrada, quando o velocímetro digital do carro indica 108 km/h, a bola se desprende e é arremessada. A bola se desprendeu exatamente no momento registrado na figura a seguir, em que o ponto A é ponto de contato do pneu com a estrada; o ponto C, o centro da roda; o ponto B, o ponto externo da roda pertencente ao raio, sobre o qual foi colada a bola de epóxi.</secao_02_texto_citado>
+<secao_exercicio>Nessa situação, determine a velocidade, em m/s e km/h, com que a bola se desprendeu. Indique módulo, direção e sentido.</secao_exercicio>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio>ID089-I085-2020-EM-FIS-1-L1-FA-U3-C6.png</secao_exercicio>
+</secao_07_titulo1>
+<secao_05>No Enem é assimAs questões selecionadas nesta seção são prioritariamente do Enem, mas questões de vestibulares diversos que apresentam características semelhantes aos itens do referido exame também foram usadas como recurso para estudo.<secao_exercicio_numerador></secao_exercicio_numerador>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<caracter_negrito>Enem </caracter_negrito>Em apresentações musicais realizadas em espaços onde o público fica longe do palco, é necessária a instalação de alto-falantes adicionais a grandes distâncias, além daqueles localizados no palco. Como a velocidade com que o som se propaga no ar(vsom = 3,4 X 102 m/s) é muito menor do que a velocida-de com que o sinal elétrico se propaga nos cabos(vsinal = 2,6 X 108 m/s), é necessário atrasar o sinal elétrico de modo que este chegue pelo cabo ao alto-falante no mesmo instante em que o som vindo do palco chega pelo ar. Para tentar contornar esse problema, um técnico de som pensou em simplesmente instalar um cabo elétrico com comprimento suficiente para o sinal elétrico chegar ao mesmo tempo que o som, em um alto-falante que está a uma distância de 680 metros do palco. A solução é inviável, pois seria necessário um cabo elétrico de comprimento mais próximo de<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>1,1 X 103 km.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>8,9 X 104 km.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>1,3 X 105 km.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>5,2 X 105 km.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>6,0 X 1013 km.</secao_exercicio_item>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>FGV Comandada com velocidade constante de 0,4 m/s, a procissão iniciada no ponto indicado da Praça Santa Madalena segue com o Santo sobre o andor por toda a extensão da Av. Vanderli Diagramatelli.<secao_exercicio>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q2_enem_fgv.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Para garantir a segurança dos devotos, a companhia de trânsito somente liberará o trânsito de uma via adjacente, assim que a última pessoa que segue pela procissão atravesse completamente a via em questão.</secao_exercicio>
+<secao_exercicio>Dados: A Av. Vanderli Diagramatelli se estende por mais de oito quarteirões e, devido à distribuição uniforme dos devotos sobre ela, o comprimento total da procissão é sempre 240 m.</secao_exercicio>
+<secao_exercicio>Todos os quarteirões são quadrados e têm áreas de 10 000 m2. </secao_exercicio>
+<secao_exercicio>A largura de todas as ruas que atravessam a Av. Vanderli Diagramatelli é de 10 m.</secao_exercicio>
+<secao_exercicio>Do momento em que a procissão teve seu início até o instante em que será liberado o trânsito pela Av. Geralda Boapessoa, decorrerá um intervalo de tempo, em minutos, igual a: </secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>6.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>8.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>10.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>12.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>15.</secao_exercicio_item>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>
+<caracter_negrito>UFSC (Adapt.)</caracter_negrito> Um ratinho afasta-se de sua toca em busca de alimento, percorrendo uma trajetória retilínea. No instante t = 11 s, um gato pula sobre o caminho do ratinho e ambos disparam a correr: o ratinho retornando sobre a mesma trajetória em busca da segurança da toca e o gato atrás do ratinho. O gráfico da figura representa as posições do ratinho e do gato, em função do tempo, considerando que no instante t = 0, o ratinho partiu da posição d = 0, isto é, da sua toca.<secao_exercicio>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q3_enem_ufsc.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Assinale a(s) proposição(ões) <caracter_negrito>CORRETA(S)</caracter_negrito> sobre o movimento do ratinho e do gato: </secao_exercicio>
+<exercicio_resolvido>
+<caracter_negrito>01</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	O ratinho chega 1,0 segundo antes do gato que, portanto, não consegue alcançá-lo.</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>02</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	O ratinho deslocou-se com velocidade constante entre os instantes t = 5,0 s e t = 7,0 s.   </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>04</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	O movimento do ratinho foi sempre retilíneo e uniforme, tanto na ida como na volta.   </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>08</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	O gato encontrava-se a 5,0 metros do ratinho quando começou a persegui-lo.   </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>16</caracter_negrito>
+<caracter_negrito>.	</caracter_negrito>O ratinho parou duas vezes no seu trajeto de ida e de volta até a toca.   </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>32</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	O gato percorre uma distância maior que a do ratinho, em menor tempo, por isso alcança-o antes que ele possa chegar à toca.</exercicio_resolvido>
+<texto_geral>
+<caracter_negrito>Soma:</caracter_negrito>
+</texto_geral>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<caracter_negrito>Cefet-MG 2014 </caracter_negrito>A situação em que o módulo da aceleração média será maior está descrita em: <secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>“Na Terra, uma pedra arremessada para cima encontra-se no ponto mais alto de sua trajetória.”   </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>“Um corredor velocista realiza a prova dos 100 m rasos alcançando a partir do repouso a velocidade de 11 m/s em 5 s.”   </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>“Um automóvel em movimento tem sua velocidade de 16 m/s reduzida a zero em 4 s diante de um sinal vermelho.”   </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>“Um avião, ao pousar, toca a pista de aterrissagem com uma velocidade inicial de 70 m/s, levando 14 s para alcançar o repouso.”   </secao_exercicio_item>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Unesp Um corpo parte do repouso em movimento uniformemente acelerado. Sua posição em função do tempo é registrada em uma fita a cada segundo, a partir do primeiro ponto à esquerda, que corresponde ao instante do início do movimento. A fita que melhor representa esse movimento é:<imagem>em_2022_v1_fis_fa_u2_cap5_q5_enem_unesp.png</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</secao_exercicio_item>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>Enem 2017 Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s2. Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s2. O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.<secao_exercicio>Que distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>2,90 m</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>14,0 m</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>14,5 m</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>15,0 m</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>17,4 m</secao_exercicio_item>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>Enem 2020 <imagem>em_2022_v1_fis_fa_u2_cap5_q7_enem_enem_2020.png</imagem>
+<secao_exercicio>Os semáforos estão separados por uma distância de 500 m. Segundos os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s-2 até atingir a velocidade de 72 km h-1 e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.</secao_exercicio>
+<secao_exercicio>Considerando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>20 s, 45 s e 70 s.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>25 s, 50 s e 75 s.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>28 s, 42 s e 53 s.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>30 s, 55 s e 80 s.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>35 s, 60 s e 85 s.</secao_exercicio_item>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>UFSM-RS Um carro se desloca com velocidade constante num referencial fixo no solo. O motorista percebe que o sinal está vermelho e faz o carro parar. O tempo de reação do motorista é de frações de segundo. Tempo de reação é o tempo decorrido entre o instante em que o motorista vê o sinal vermelho e o instante em que ele aplica os freios. Está associado ao tempo que o cérebro leva para processar as informações e ao tempo que levam os impulsos nervosos para percorrer as células nervosas que conectam o cérebro aos membros do corpo. Considere que o carro adquire uma aceleração negativa constante até parar. O gráfico que pode representar o módulo da velocidade do carro (v) em função do tempo (t), desde o instante em que o motorista percebe que o sinal está vermelho até o instante em que o carro atinge o repouso, é <secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q8_ufsm_rs_a.png</imagem>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q8_ufsm_rs_b.png</imagem>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q8_ufsm_rs_c.png</imagem>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q8_ufsm_rs_d.png</imagem>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+<imagem>em_2022_v1_fis_fa_u2_cap5_q8_ufsm_rs_e.png</imagem>
+</secao_exercicio_item>
+</secao_05>
+<texto_geral></texto_geral>
+<texto_geral>Observe que, em relação ao solo, o ponto A deve ter a mesma velocidade que o solo, pois não há, por hipótese, o escorregamento. Ora, a velocidade do solo, em relação ao próprio solo, é nula. Assim, a composição de velocidades no ponto A deve ser tal que a velocidade desse ponto resulte nula em relação à rodovia; portanto, <imagem>EqnFC6105.png</imagem>. Isso justifica formalmente o fato de a velocidade de arrastamento ser, em módulo, igual à velocidade de um ponto da periferia da roda em relação ao eixo.</texto_geral>
+<texto_geral>Movimentos em uma única direção</texto_geral>
+<texto_geral>Se todos os deslocamentos acontecem em uma única direção, podemos utilizar as projeções (módulos) dos vetores – grandezas escalares –, adotando o critério já visto de eleger uma orientação. Os vetores cujas componentes possuem o mesmo sentido que a orientação escolhida têm projeção positiva e, em caso contrário, têm projeção negativa. Reduzimos, assim, uma questão vetorial a uma questão simplesmente algébrica, conforme os exemplos a seguir.</texto_geral>
+<titulo1>	Movimento de rotação</titulo1>
+<texto_geral>O movimento circular se constitui em uma maneira de restringir o movimento a dada região. Ele está presente em vários aparelhos de uso cotidiano. Por exemplo, no motor elétrico de uma furadeira. Como o motor está em movimento se, olhando para a furadeira, a vemos sempre na mesma posição? Podemos pensar também nos casos dos liquidificadores, dos motores dos carros, das rodas, dos ponteiros do relógio, das pás de um ventilador etc. </texto_geral>
+<texto_geral>Nesse sentido, o movimento dos planetas ao redor do Sol também se aproxima bastante de um movimento circular.</texto_geral>
+<texto_geral>A base para o estudo dos movimentos circulares em geral é o <caracter_negrito>movimento circular uniforme (MCU)</caracter_negrito>, tanto pela simplicidade das equações como pela clareza dos conceitos iniciais.</texto_geral>
+<texto_geral>Quando um corpo se desloca sobre uma circunferência previamente conhecida, podemos determinar sua posição conhecendo apenas o <caracter_negrito>ângulo central</caracter_negrito> relativo a um arco com origem arbitrária e extremidade na posição considerada. A escolha desse procedimento nos leva a descrever todas as propriedades inerentes a esse movimento por meio de grandezas angulares.</texto_geral>
+<titulo2>Cinemática angular<imagem>ID026-I023-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</titulo2>
+<texto_geral>A medida de um ângulo (&phi;) em radianos é definida como a razão entre a medida algébrica do arco orientado (s) abrangido por esse ângulo e o comprimento do raio (r) da circunferência em que esse ângulo é central, conforme ilustrado na figura. </texto_geral>
+<texto_geral>Algebricamente, escrevemos: </texto_geral>
+<imagem>Eqn088.png</imagem>
+<texto_geral>I<imagem>ID027-I024-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>ndependentemente da circunferência que escolhemos para aplicar a definição anterior, essa razão resulta sempre em um mesmo número, visto que é uma proporção constante de figuras semelhantes, conforme o esquema.</texto_geral>
+<texto_geral>
+<imagem>Eqn074.png</imagem>
+</texto_geral>
+<texto_geral>Com relação à unidade radiano, cujo símbolo no Sistema Internacional de Unidades (SI) é <caracter_negrito>rad</caracter_negrito>, vamos observar que:</texto_geral>
+<texto_geral>
+<imagem>Eqn075.png</imagem>
+</texto_geral>
+<texto_geral>Embora adimensional, essa unidade é sempre citada após o valor da medida, com a intenção de deixar claro que nos referimos à medida de um ângulo, e não a um número adimensional qualquer. Uma das vantagens práticas de medir um ângulo em radianos é que podemos fazê-lo sem o uso de transferidor, munidos apenas de uma fita métrica flexível. Outro ponto vantajoso é que, sendo adimensional, essa medida não é afetada por eventuais conversões de sistemas de unidades.</texto_geral>
+<texto_geral>O ângulo central de medida <caracter_negrito>1 rad</caracter_negrito> é aquele que compreende um arco de comprimento igual ao raio da circunferência considerada.</texto_geral>
+<texto_geral>O perímetro de uma circunferência corresponde à medida do arco relativo a uma circunferência completa (uma volta); logo, s=2&pi;r. A medida em radianos desse arco é: </texto_geral>
+<texto_geral>
+<imagem>Eqn076.png</imagem>
+</texto_geral>
+<texto_geral>O ângulo raso, que corresponde a meia-volta, vale, portanto, &pi; rad.</texto_geral>
+<texto_geral>A mudança de unidades, de uma medida feita em radianos para a unidade <caracter_negrito>grau</caracter_negrito>, por exemplo, se faz por uma regra de três simples. Lembrando que o ângulo raso compreende 180o, temos:</texto_geral>
+<imagem>EqnFC6077.png</imagem>
+<titulo3>Fase (<caracter_negrito>j</caracter_negrito>)
+</titulo3>
+<texto_geral>É a medida angular algébrica do ângulo que define a posição, considerando-se uma origem arbitrária. Em particular, a fase referente ao instante em que se começa a análise do movimento é chamada de fase inicial (&phi;<sub><small>0</small></sub>). Geralmente, essa medida é feita em radianos.</texto_geral>
+<titulo3>Deslocamento angular (&Delta;
+<caracter_negrito>j</caracter_negrito>)
+</titulo3>
+<texto_geral>É a variação sofrida pela fase em dado intervalo de tempo.</texto_geral>
+<texto_geral>Algebricamente, temos <simbolos>Dj 5 j</simbolos>
+-
+&phi;<sub><small>0</small></sub>, que também é, em geral, medida em radianos.</texto_geral>
+<texto_geral>Essa variação, assim como acontece com o deslocamento escalar, é uma grandeza algébrica. Ou seja, pode ser positiva ou negativa, dependendo de concordar ou não com a orientação adotada.</texto_geral>
+<titulo3>Velocidade angular média (&omega;<sub><small>m</small></sub>)</titulo3>
+<texto_geral>Quando um corpo sofre um deslocamento angular (&Delta;&phi;) em dado intervalo de tempo (&Delta;t), sua velocidade angular média é, por definição,</texto_geral>
+<imagem>Eqn079.png</imagem>
+<texto_geral>cuja unidade no SI é <imagem>Eqn080.png</imagem> (radianos por segundo).</texto_geral>
+<texto_geral>Tal como o deslocamento angular, a velocidade angular também é positiva ou negativa, dependendo de concordar ou não com a orientação da trajetória.</texto_geral>
+<Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="3" aid:tcols="2">
+<Cell aid:table="cell" aid:crows="1" aid:ccols="2" aid:ccolwidth="255.11811023622053">
+<Tabela_gravata1>Sentido do movimento em relação à orientaçãoda trajetória</Tabela_gravata1>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="105.12647226024873">a favor da orientação</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="149.9916379759718">
+&omega;
+<simbolos>&gt;</simbolos> 0</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="105.12647226024873">contra a orientação</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="149.9916379759718">
+&omega;
+<simbolos>&lt;</simbolos> 0</Cell>
+</Table>
+<titulo3>Velocidade angular instantânea (&omega;)
+</titulo3>
+<texto_geral>Para a definição dos valores instantâneos de uma grandeza, procedemos da mesma forma que no caso da cinemática escalar. Assim:</texto_geral>
+<texto_geral>
+<imagem>Eqn081.png</imagem>
+</texto_geral>
+<titulo2>Movimento circular uniforme (MCU)</titulo2>
+<texto_geral>Um movimento circular é dito uniforme quando sua velocidade angular é uma constante não nula.</texto_geral>
+<texto_geral>Nessa circunstância, é indiferente falarmos em valor médio ou valor instantâneo da velocidade angular, pois ambos coincidem. </texto_geral>
+<texto_geral>A figura ilustra um ponto material que se deslocou da posição P0, correspondente à fase inicial (&phi;<sub><small>0</small></sub>), para a posição P, correspondente à fase (&phi;), em MCU.</texto_geral>
+<texto_geral>A partir da definição de velocidade angular, escrevemos:</texto_geral>
+<imagem>Eqn082.png</imagem>
+<texto_geral>Considerando o instante inicial (t0=0), obtemos:</texto_geral>
+<Glossario>
+<texto_geral>
+<simbolos>j 5 j</simbolos>0 +
+&omega;t(função horária do MCU)</texto_geral>
+</Glossario>
+<texto_geral>Considerando também os aspectos vetoriais no MCU, temos:</texto_geral>
+<texto_bullets>•	o vetor velocidade tem módulo constante, mas muda continuamente de direção;</texto_bullets>
+<texto_bullets>•	a aceleração tangencial é nula, mas existe aceleração centrípeta, de módulo constante, com direção continuamente variável.</texto_bullets>
+<titulo2>Parâmetros de um fenômeno periódico</titulo2>
+<texto_geral>Fenômeno periódico é aquele em que as situações se repetem a cada determinado intervalo de tempo.</texto_geral>
+<texto_geral>O MCU é periódico. Existe um intervalo de tempo constante entre duas posições que se repetem consecutivamente. O intervalo de tempo decorrido entre duas situações consecutivas que se repetem é o período (T),medido, no SI, em segundos.</texto_geral>
+<texto_geral>A quantidade de situações que se repetem por unidade de tempo é a frequência (f). No MCU, o período corresponde ao tempo de uma volta completa, e a frequência corresponde à quantidade de voltas completas por unidade de tempo. Chamando de n a quantidade de voltas em um intervalo de tempo &Delta;t, podemos escrever:</texto_geral>
+<imagem>Eqn083.png</imagem>
+<imagem>Eqn084.png</imagem>
+<texto_geral>A unidade no SI para a frequência é o hertz, definido como <imagem>Eqn085.png</imagem>.São comuns também as unidades ciclos por segundo (cps) e rotações por minuto (rpm).</texto_geral>
+<texto_geral>Considerando uma volta completa, em MCU, teremos<imagem>Eqn086.png</imagem>; portanto:</texto_geral>
+<imagem>Eqn087.png</imagem>
+<texto_geral>Observe que as expressões em destaque somente são válidas quando o ângulo é medido em radianos. Se os ângulos forem medidos em graus, a quantidade 2&pi; rad deve ser substituída por 360o.</texto_geral>
+<titulo3>Relação entre as grandezas angulares e lineares no MCU</titulo3>
+<texto_geral>Dado o espaço de um ponto material que executa movimento circular, podemos obter a fase desse ponto material, lembrando que <imagem>Eqn088.png</imagem>.A grandeza angular é obtida pela razão entre a grandeza linear e o raio da circunferência descrita. Para o deslocamento angular, escrevemos <imagem>Eqn089.png</imagem>.
+</texto_geral>
+<texto_geral>Com relação à velocidade angular, também vamos observar que <imagem>Eqn090.png</imagem>portanto:</texto_geral>
+<imagem>EqnFC6091.png</imagem>
+<titulo3>Aceleração centrípeta</titulo3>
+<texto_geral>O módulo da aceleração centrípeta é <imagem>EqnFC6093.png</imagem>.
+</texto_geral>
+<texto_geral>Como <imagem>EqnFC6094.png</imagem>, podemos escrever <imagem>Eqn095.png</imagem>.
+</texto_geral>
+<titulo1>	Rolamento</titulo1>
+<texto_geral>Denominamos rolamento a situação em que um corpo se desloca sobre uma superfície, sem que haja escorregamento entre as superfícies em contato. </texto_geral>
+<texto_geral>A figura a seguir ilustra o rolamento de um pentágono irregular. Em cada trecho do rolamento, um de seus vértices é o centro de rotação.</texto_geral>
+<imagem>ID032-I029-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<titulo2>Composição de rotação e translação</titulo2>
+<texto_geral>A figura seguinte ilustra alguns polígonos regulares rolando, sem escorregar, sobre uma superfície plana.</texto_geral>
+<imagem>ID033-I030-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<texto_geral>Instante por instante, o vértice que está em contato com o solo é o centro da rotação de cada polígono. Como esse vértice não escorrega, a cada instante ele tem velocidade nula em relação ao chão.</texto_geral>
+<texto_geral>Se colocarmos um polígono como uma roda em um veículo, à medida que formos aumentando o número de vértices dele, vão diminuindo os solavancos durante o movimento. Quanto mais vértices, mais o polígono fica próximo de um círculo.</texto_geral>
+<texto_geral>Vamos agora analisar o rolamento de um círculo. Quando uma bicicleta desce uma ladeira, sem escorregar, suas rodas estão rolando ladeira abaixo. Todos os pontos de cada uma das rodas dessa bicicleta giram em torno de seus respectivos eixos. Contudo, enquanto os vários pontos da roda giram em torno de seu eixo, esse eixo se desloca em relação ao chão. </texto_geral>
+<texto_geral>Para um observador fixo no solo, vamos identificar cada uma das velocidades integrantes da equação do movimento relativo.</texto_geral>
+<texto_bullets>•	 (velocidade relativa): é a velocidade dos pontos da roda em relação ao eixo.</texto_bullets>
+<texto_bullets>•	 (velocidade de arrastamento): é a velocidade do eixo da roda em relação ao solo.</texto_bullets>
+<texto_bullets>•	 (velocidade total): é a velocidade dos pontos da roda em relação ao solo.</texto_bullets>
+<texto_geral>Esses vetores variam de acordo com o ponto da roda que estejamos considerando.</texto_geral>
+<texto_geral>Em relação ao eixo, os pontos da roda estão em rotação, e nesse referencial cada ponto da periferia da roda tem velocidade de módulo <caracter_italico>v</caracter_italico>. O eixo, por sua vez, tem translação em relação ao solo, e sua velocidade de translação (em relação ao solo) também tem módulo <caracter_italico>v</caracter_italico>. Em outras palavras, se um automóvel se desloca a 80 km/h em relação à estrada, os eixos das rodas estão se deslocando a 80 km/h em relação ao solo, e cada ponto periférico da roda se desloca com velocidade de 80 km/h em sua rotação em relação ao eixo. As figuras seguintes ilustram a disposição e a composição dos vetores para os pontos A, B, C, D e O da roda.</texto_geral>
+<texto_geral>Observe que, em relação ao solo, o ponto A deve ter a mesma velocidade que o solo, pois não há, por hipótese, o escorregamento. Ora, a velocidade do solo, em relação ao próprio solo, é nula. Assim, a composição de velocidades no ponto A deve ser tal que a velocidade desse ponto resulte nula em relação à rodovia; portanto, <imagem>EqnFC6105.png</imagem>. Isso justifica formalmente o fato de a velocidade de arrastamento ser, em módulo, igual à velocidade de um ponto da periferia da roda em relação ao eixo.</texto_geral>
+<titulo3>Centro instantâneo de rotação (CIR)</titulo3>
+<texto_geral>Todos os pontos de um corpo rígido têm a mesma velocidade angular em relação ao eixo de rotação. Vamos lembrar também que as intensidades das velocidades lineares dependem da distância do ponto em relação ao eixo de rotação, pois <imagem>EqnFC6110.png</imagem>, expressão em que <caracter_italico>r</caracter_italico> é a distância a que o ponto está desse eixo. Nos esquemas a seguir, o eixo de rotação é visto de cima, representado simplesmente por um ponto.</texto_geral>
+<texto_geral>A figura ilustra um sólido qualquer girando em torno do ponto O para determinado observador. O centro de rotação é o ponto que está fixo em relação ao observador, que, portanto, tem velocidade nula.</texto_geral>
+<imagem>ID042-I039-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<texto_geral>
+<imagem>ID043-I040-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>Em algumas situações, o centro instantâneo de rotação pode estar fora do corpo. Nesse caso, ele é o ponto que se comporta como se o corpo estivesse rigidamente ligado a ele e em torno dele girando. Como exemplo, a figura seguinte ilustra um balde, que, por um processo mecânico qualquer, gira em torno do ponto O.</texto_geral>
+<titulo4>Propriedades do centro instantâneo de rotação (CIR)<imagem>ID044-I041-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</titulo4>
+<texto_geral>Vejamos algumas propriedades úteis do centro instantâneo de rotação.</texto_geral>
+<texto_bullets>•	Qualquer ponto do corpo rígido em rotação tem seu vetor velocidade perpendicular à linha que une esse ponto ao CIR.</texto_bullets>
+<texto_bullets>•	A distância entre dois pontos quaisquer desse sólido é sempre a mesma, pois o corpo é rígido. Assim, o vetor velocidade de um ponto do sólido não possui componente de aproximação nem de afastamento em relação a outro ponto do mesmo sólido. Como o CIR tem velocidade nula, a velocidade de qualquer ponto em relação a ele é a própria velocidade total, e esta é perpendicular à linha que une o ponto do CIR.</texto_bullets>
+<texto_bullets>•	A intensidade da velocidade de qualquer ponto do sólido pode ser obtida por v = &omega;R, em que R é a distância do ponto considerado ao CIR.</texto_bullets>
+<texto_bullets>•	A posição do CIR depende do referencial considerado. </texto_bullets>Como exemplo, vamos retomar o já visto caso de rolamento de um cilindro: em relação ao carro, o CIR é o próprio eixo da roda; em relação ao solo, o CIR é o ponto da roda que está em contato com o solo.<imagem>ID045-I042-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>Em relação ao carro, o CIR da roda é o próprio eixo.<imagem>ID046-I043-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>Em relação à pista, o CIR da roda é o ponto de contato com o solo.<texto_geral>Podemos obter as velocidades vetoriais dos pontos A, B, C e D da roda que está rolando usando as propriedades do CIR com a relação v = &omega;R, tomando o cuidado de observar que R representa a distância do ponto do qual se quer obter a velocidade em relação ao CIR.</texto_geral>
+<texto_geral>De acordo com a figura, observamos as seguintes relações para um referencial fixo no solo:</texto_geral>
+<texto_geral>
+<imagem>Eqn111.png</imagem>
+</texto_geral>
+<texto_geral></texto_geral>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>Um homem, em seu barco a remo, consegue trafegar em um lago à velocidade máxima de 6 m/s. Caso ele fosse com seu barco para um rio cujas águas possuem velocidade de 4 m/s, qual seria a maior velocidade possível para esse homem:<exercicio_itens>
+<caracter_negrito>a)	</caracter_negrito>descendo o rio?</exercicio_itens>
+<exercicio_itens>
+<caracter_negrito>b)	</caracter_negrito>subindo o rio?</exercicio_itens>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Dois carros, A e B, movem-se no mesmo sentido, em uma estrada reta, com velocidades constantes vA=100 km/h e vB=80 km/h, respectivamente.<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Qual é, em módulo, a velocidade do carro B em relação a um observador no carro A?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Em um dado instante, o carro B está 600 m à frente do carro A. Quanto tempo, em horas, decorre até que A alcance B? </secao_exercicio_item>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>Um barco sobe um rio a 3 km/h e desce a 7 km/h, ambas as velocidades em relação às margens, com o motor funcionando com a mesma potência. Qual é a velocidade das águas desse rio em relação às margens?<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>Uma balsa retangular, medindo 5 m de largura e 20 m de comprimento, desce um trecho retilíneo de um rio com velocidade 20 km/h em relação às margens. Um homem, partindo do ponto A, corre à beira da balsa a 5 km/h em sentido anti-horário e dá uma volta completa. Faça uso da malha quadriculada para facilitar o desenho da trajetória no item B.<secao_exercicio>
+<imagem>ID052-I049-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio>
+<imagem>ID051-I048-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Qual é a trajetória do homem, considerando a balsa como referencial?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Qual é a trajetória do homem, considerando as margens do rio como referencial?</secao_exercicio_item>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Um carro movimenta-se em uma estrada retilínea com velocidade 40 km/h em relação ao solo no momento em que cai uma chuva vertical. Por causa da resistência do ar, no instante em que está nas proximidades da superfície, a água possui velocidade constante de 40 km/h em relação ao solo. Determine:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>a velocidade da chuva em relação ao carro;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>o ângulo formado entre a velocidade da chuva em relação ao carro e ao plano horizontal.</secao_exercicio_item>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>
+<caracter_negrito>UEMG 2015</caracter_negrito> O tempo é um rio que corre. O tempo não é um relógio. Ele é muito mais do que isso. O tempo passa, quer se tenha um relógio ou não. <secao_exercicio>Uma pessoa quer atravessar um rio num local onde a distância entre as margens é de 50 m. Para isso, ela orienta o seu barco perpendicularmente às margens. </secao_exercicio>
+<secao_exercicio>Considere que a velocidade do barco em relação às águas seja de 2,0 m/s e que a correnteza tenha uma velocidade de 4,0 m/s. </secao_exercicio>
+<secao_exercicio>Sobre a travessia desse barco, assinale a afirmação correta: </secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Se a correnteza não existisse, o barco levaria 25 s para atravessar o rio. Com a correnteza, o barco levaria mais do que 25 s na travessia. </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Como a velocidade do barco é perpendicular às margens, a correnteza não afeta o tempo de travessia. </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>O tempo de travessia, em nenhuma situação, seria afetado pela correnteza. </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Com a correnteza, o tempo de travessia do barco seria menor que 25 s, pois a correnteza aumenta vetorialmente a velocidade do barco. </secao_exercicio_item>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>
+<caracter_negrito>Acafe-SC</caracter_negrito> Um carrinho de brinquedo descreve um círculo, no sentido anti-horário, com velocidade de módulo constante.<imagem>em_2022_v1_fis_fa_u3_cap6_acafe_2022.png</imagem>
+<secao_exercicio>A figura que representa corretamente os vetores velocidade e aceleração é a:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Figura (c)</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Figura (b)</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Figura (a)</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Figura (d)</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>
+<caracter_negrito>Famerp-SP</caracter_negrito> Em julho de 2020, Estados Unidos, China e Emirados Árabes lançaram missões espaciais não tripuladas a Marte. <secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Para chegar ao planeta, as naves devem percorrer uma distância aproximada de 4,80 X 108 km em cerca de 200 dias terrestres. Quantas horas demorará a viagem das naves da Terra até Marte? Qual é a velocidade média, em km/h, desenvolvida pelas naves nessa viagem?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>O período de translação de Marte em torno do Sol é de 1,9 anos terrestres. Considerando as órbitas no mesmo plano e aproximadamente circulares, e que os planetas se movem no mesmo sentido com velocidades angulares constantes, calcule o menor intervalo de tempo, em meses terrestres, entre dois instantes de máxima aproximação entre Marte e Terra.</secao_exercicio_item>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>9	</secao_exercicio_numerador>Um ciclista desloca-se sobre uma balsa com velocidade 10 km/h em relação a ela. Já a balsa desce o rio com velocidade 15 km/h em relação às águas, que, por sua vez, se movimentam com velocidade 5 km/h em relação às margens. Os trajetos são retilíneos e as três velocidades citadas possuem mesma direção e mesmo sentido. <secao_exercicio>Determine para dado instante as seguintes velocidades:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>da balsa em relação às margens;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>do ciclista em relação às margens;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>de um ponto da roda no instante em que está em contato com a balsa em relação às margens;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>de um ponto no instante em que ele está na posição mais alta da roda em relação às margens.</secao_exercicio_item>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>10	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Um cilindro de madeira de 4,0 cm de diâmetro rola sem deslizar entre duas tábuas horizontais móveis, A e B, como representa a figura. Em determinado instante, a tábua A se movimenta para a direita com velocidade de 40 cm/s e o centro do cilindro se move para a esquerda com velocidade de intensidade 10 cm/s. Qual é nesse instante a velocidade da tábua B em módulo e sentido?<secao_exercicio>
+<imagem>ID063-I060-2020-EM-FIS-1┬Â-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<exercicios_linhas></exercicios_linhas>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<imagem>ID065-I062-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+<secao_exercicio>Considere que a velocidade da correnteza é a mesma em todos os pontos do rio. Nesse caso, para alcançar a segunda boia, o menino deve nadar na direção indicada pela linha: </secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>K</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>L</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>M</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>N</secao_exercicio_item>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Num vagão ferroviário que se move com velocidade v0=3 m/s em relação aos trilhos, estão dois meninos A e B que correm um em direção ao outro, cada um com velocidade v=3 m/s em relação ao vagão. As velocidades dos meninos A e B em relação aos trilhos serão respectivamente de:<secao_exercicio>
+<imagem>ID066-I063-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>6 m/s e 0 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3 m/s e 3 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>0 m/s e 9 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>9 m/s e 0 m/s</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>0 m/s e 6 m/s</secao_exercicio_item>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>Um homem rema um barco com velocidade de 5,00 km/h na ausência de correnteza. Quanto tempo ele gasta para remar 3,00 km rio abaixo e voltar ao ponto de partida em um dia em que a velocidade da correnteza é de 1,00 km/h? Suponha que a potência de suas remadas seja a mesma nos dois casos e que o trajeto seja retilíneo.<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>1,25 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>1,20 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>1,15 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>1,10 h</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>1,00 h</secao_exercicio_item>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<caracter_negrito>FEI-SP </caracter_negrito>Um barco se move com velocidade constante de 10 m/s em relação à água, num local onde a correnteza tem velocidade constante de 2 m/s, a favor do barco. Num determinado momento, um dos ocupantes desse barco deixa cair uma garrafa e só dá pela sua falta 5 minutos mais tarde. Imediatamente, joga âncora e resolve esperar que a própria correnteza lhe traga a garrafa. No instante em que o barco para, pode-se afirmar que a distância da garrafa ao barco e o tempo gasto pela correnteza para trazê-la são, respectivamente:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>3 000 m, 25 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3 000 m, 10 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>3 000 m, 20 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>2 400 m, 20 minutos</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>2 400 m, 12 minutos</secao_exercicio_item>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Um trem se desloca em plano horizontal em trilhos retilíneos com velocidade constante  de módulo 3,0 m/s em relação ao solo. Uma pessoa está caminhando sobre o teto do vagão com velocidade relativa ao vagão constante e de módulo 4,0 m/s.<secao_exercicio>
+<imagem>ID068-I065-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Na figura, temos uma vista do teto do vagão, que tem velocidade  na direção e no sentido do eixo (Ox).</secao_exercicio>
+<secao_exercicio>Calcule o módulo da velocidade da pessoa, em relação ao solo, nos seguintes casos:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>a pessoa se movimenta na direção e no sentido do eixo (Ox);</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>a pessoa se movimenta na direção e no sentido do eixo (Oy).</secao_exercicio_item>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>
+<caracter_negrito>Mackenzie</caracter_negrito> Olimpíadas de Inverno de Pyeongchang. <imagem>lumen_2022_1v_l1_fis_fa_u3_cap6_q006.png</imagem>
+<secao_exercicio>No mês de fevereiro do vigente ano, do dia 7 ao dia 25, na cidade de Pyeongchang na Coreia do Sul, o mundo acompanhou a disputa de 2.952 atletas, disputando 102 provas de 15 disciplinas esportivas na 23a edição dos Jogos Olímpicos de Inverno.</secao_exercicio>
+<secao_exercicio>Praticamente todas as provas ocorreram sob temperaturas negativas, dentre elas, a belíssima patinação artística no gelo, que envolve um par de atletas.</secao_exercicio>
+<secao_exercicio>A foto acima mostra o italiano Ondrej Hotarek que, em meio à coreografia da prova, crava a ponta de um de seus patins em um ponto e gira a colega Valentina Marchei, cuja ponta de um dos patins desenha no gelo uma circunferência de raio 2,0 metros. Supondo-se que a velocidade angular de Valentina seja constante e valha 6,2 rad/s e considerando-se &pi;
+&cong; 3,1, pode-se afirmar corretamente que o módulo da velocidade vetorial média da ponta dos patins de Valentina, ao percorrer de um ponto a outro diametralmente oposto da circunferência, vale, em m/s,<imagem>ID070-I067-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>2,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>3,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>5,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>6,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>8,0</secao_exercicio_item>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>
+<caracter_negrito>Vunesp</caracter_negrito> Um homem, em pé sobre uma plataforma que se move horizontalmente para a direita com velocidade constante v=4,0 m/s, observa que, ao inclinar de 45o um tubo cilíndrico oco, permite que uma gota de chuva, que cai verticalmente com velocidade c constante em relação ao solo, atravesse o tubo sem tocar em suas paredes.<secao_exercicio>Determine a velocidade c da gota da chuva, em m/s.</secao_exercicio>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>
+<caracter_negrito>Vunesp (Adapt.)</caracter_negrito> Gotas de chuva que caem com velocidade v=20 m/s são vistas através da minha vidraça formando um ângulo de 30° com a vertical, vindo da esquerda para a direita. Quatro automóveis estão passando pela minha rua com as velocidades de módulos e sentidos indicados. Qual dos motoristas vê, através do vidro lateral, a chuva caindo na vertical?<secao_exercicio>
+<imagem>ID071-I068-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>1 </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>2</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>3 </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>4</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>Nenhum deles vê a chuva na vertical.</secao_exercicio_item>
+<secao_exercicio_numerador>9	</secao_exercicio_numerador>
+<caracter_negrito>FEI-SP</caracter_negrito> Um avião voa com velocidade v=300 km/h constante de norte para o sul. Em dado momento ele entra em uma região onde o vento sopra com velocidade v=150<imagem>EqnFC6133.png</imagem>km/h de leste para oeste. Qual deverá ser o ângulo de correção de rota com a direção norte-sul que o avião deverá fazer para chegar a uma cidade situada a 200 km ao sul do ponto de partida?<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>15o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>30o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>45o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>60o</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>75o</secao_exercicio_item>
+<secao_exercicio_numerador>10	</secao_exercicio_numerador>
+<caracter_negrito>FMP 2021</caracter_negrito> O lançamento de martelo é uma modalidade olímpica de atletismo na qual o atleta gira uma esfera de metal presa por um cabo e a solta, visando a que a esfera atinja a maior distância possível após o lançamento, conforme mostra a Figura abaixo. <secao_exercicio>
+<imagem>em_2022_v1_fis_fa_u3_cap6_q10_fmp.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Suponha que, no momento do lançamento, a esfera realizava um movimento circular de raio 1,20 m, girando a uma velocidade angular de 25,0 rad/s. A velocidade da esfera no momento do lançamento, em m/s, é de, aproximadamente,</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>30,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>26,2</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>36,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>25,0</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>20,8</secao_exercicio_item>
+<secao_exercicio_numerador>11	</secao_exercicio_numerador>
+<caracter_negrito>UEM-PR</caracter_negrito> Em um plano, uma partícula P1 parte do ponto (1, 0) no instante t0 = 0 s e se desloca no sentido anti-horário sobre o gráfico da circunferência Γ de equação x2 + y2 = 1 até retornar ao ponto de partida. No mesmo instante t0 = 0 s, uma outra partícula, P2, parte do ponto (-1, 1) e se desloca sobre o gráfico da função  y = x2 até o ponto (1, 1).<secao_exercicio>Suponha que as distâncias sejam dadas em metros e que as velocidades escalares de ambas as partículas sejam iguais e constantes.</secao_exercicio>
+<secao_exercicio>Assinale o que for correto.</secao_exercicio>
+<exercicio_resolvido>
+<caracter_negrito>01</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	A partícula P2 percorre apenas pontos interiores à circunferência Γ. </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>02</caracter_negrito>
+<caracter_negrito>.	</caracter_negrito>Se a velocidade escalar das partículas for de 3 m/s, então o tempo que a partícula P1 leva para retornar ao ponto de partida é superior a 2 s. </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>04</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	Durante os deslocamentos das partículas, entre quaisquer dois instantes t1 e t2 a velocidade vetorial média de P1 é igual à velocidade vetorial média de P2. </exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>08</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	A aceleração vetorial instantânea de P1 em qualquer instante <caracter_italico>t</caracter_italico> do deslocamento é igual à aceleração centrípeta em <caracter_italico>t</caracter_italico>. 
+</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>16</caracter_negrito>
+<caracter_negrito>.</caracter_negrito>	No movimento da partícula P2 não há aceleração centrípeta.</exercicio_resolvido>
+<texto_geral>
+<caracter_negrito>Soma:</caracter_negrito>
+</texto_geral>
+<secao_exercicio_numerador>12	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Em uma estrada, dois carros, A e B, entram simultaneamente em curvas paralelas, com raios RA e RB. Os velocímetros de ambos os carros indicam, ao longo de todo o trecho curvo, valores constantes VA e VB.<secao_exercicio>
+<imagem>ID077-I074-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio>Se os carros saem das curvas ao mesmo tempo, a relação entre VA e VB é </secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>VA=VB </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>VA/VB=RA/RB </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>VA/VB=(RA/RB)2 </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>VA/VB=RB/RA </secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>VA/VB=(RB/RA)2</secao_exercicio_item>
+<secao_exercicio_numerador>13	</secao_exercicio_numerador>
+<caracter_negrito>Unicamp-SP (Adapt.)</caracter_negrito> O quadro (a), a seguir, refere-se à imagem de televisão de um carro parado, em que podemos distinguir claramente a marca do pneu (“PNU”). Quando o carro está em movimento, a imagem da marca aparece como um borrão em volta de toda a roda, como ilustrado em (b).<secao_exercicio>
+<imagem>em_2022_v1_fis_fa_u3_cap6_q13_unicamp_sp.png</imagem>
+</secao_exercicio>
+<secao_exercicio>A marca do pneu volta a ser nítida, mesmo com o carro em movimento, quando este atinge uma determinada velocidade. Essa ilusão de movimento na imagem gravada é devido à frequência de gravação de 30 quadros por segundo (30 Hz). Considerando que o diâmetro do pneu é igual a 0,6 m e &pi; = 3,0, responda:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Quantas voltas o pneu completa em um segundo, quando a marca filmada pela câmara aparece parada na imagem, mesmo estando o carro em movimento?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Qual a menor frequência angular &omega; do pneu em movimento, quando a marca aparece parada?</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Qual a menor velocidade linear (em m/s) que o carro pode ter na figura (c) em relação ao solo? </secao_exercicio_item>
+<secao_exercicio_numerador>14	</secao_exercicio_numerador>Uma pequena pedra fica presa ao pneu de caminhão de 1 m de diâmetro.<secao_exercicio>A partir do instante em que a pedra está em contato com o solo, o pneu dá meia-volta sobre seu eixo. Nesse intervalo, determine:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>o deslocamento da pedra em relação ao eixo;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>o deslocamento do eixo em relação ao solo;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>o deslocamento da pedra em relação ao solo.</secao_exercicio_item>
+<secao_exercicio_numerador>15	</secao_exercicio_numerador>Um trator utiliza duas esteiras. Cada esteira tem 1 m reto na parte de cima, 1 m reto na parte que fica em contato com o solo e 1 m em cada parte curva, totalizando 4 m. <secao_exercicio>
+<imagem>ID083-I080-2020-EM-FIS-1-L1-FA-U3-C6.png</imagem>
+</secao_exercicio>
+<secao_exercicio>O trator está em movimento retilíneo e uniforme com velocidade de intensidade 18 km/h.</secao_exercicio>
+<secao_exercicio>Pedem-se:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>as intensidades das velocidades dos pontos A, B, D e E;</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>o intervalo de tempo em que cada ponto da esteira permanece em contato com o solo.</secao_exercicio_item>
+<secao_exercicio_numerador>16	</secao_exercicio_numerador>
+<caracter_negrito>Uece </caracter_negrito>Considere uma pedra em queda livre e uma criança em um carrossel que gira em velocidade angular constante. Sobre o movimento da pedra e da criança, é correto afirmar que:<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>aceleração da pedra varia e a criança gira em aceleração nula.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>a pedra cai em aceleração nula, e a criança gira em aceleração constante.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>ambas sofrem aceleração de módulos constantes.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>a aceleração de ambas é zero.</secao_exercicio_item>
+<secao_exercicio_numerador>17	</secao_exercicio_numerador>
+<caracter_negrito>Enem digital</caracter_negrito> No Autódromo de Interlagos, um carro de Fórmula 1 realiza a curva S do Senna numa trajetória curvilínea. Enquanto percorre esse trecho, o velocímetro do carro indica velocidade constante.<secao_exercicio>Quais são a direção e o sentido da aceleração do carro?</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Radial, apontada para fora da curva.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Radial, apontada para dentro da curva.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Aceleração nula, portanto, sem direção nem sentido.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Tangencial, apontada no sentido da velocidade do carro.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>Tangencial, apontada no sentido contrário à velocidade do carro.</secao_exercicio_item>
+</Root>
+</Marca1>
