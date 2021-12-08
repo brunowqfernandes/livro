@@ -1374,3 +1374,11 @@ label img {
 .boxe-mais .double-columned-content {
   align-items: initial;
 }
+
+.cota{
+  padding: 15px;
+  background-color: var(--color-lpo-d3);
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+}
