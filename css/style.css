@@ -442,7 +442,7 @@ thead tr td {
 }
 
 .header-questao-resolvida {
-  top: -4%;
+  top: -35px;
   left: 0;
   position: absolute;
   max-width: 40%;
@@ -1029,4 +1029,12 @@ label img {
 .img-inline-lg {
   margin-bottom: -2.3rem;
   display: inline-block;
+}
+
+.cota{
+  padding: 10px;
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+  background-color: var(--color-mat-d3);
 }
