@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marca1>
+    <Root>Triângulos retângulos
+    <img src="./assets/img/ID001-F001-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <legenda> No edifício de fachada chanfrada, foi retirado um prisma vertical, cuja base é um triângulo retângulo.</legenda>
+        <credito>franckreporter/iStockphoto.com</credito>
+        <p class='general-text'>Ângulos retos são tão frequentes em nosso dia a dia que, muitas vezes, nem atentamos a eles. Olhe ao seu redor: a capa do livro, os cantos da sala, os edifícios nas ruas, as quinas das mesas e a lousa são alguns exemplos de superfícies que apresentam ângulos de 90° facilmente identificáveis.</p>
+        <p class='general-text'>Neste capítulo, trataremos do triângulo retângulo, o mais simples polígono que apresenta um ângulo de 90°. Muito além do famoso teorema de Pitágoras, aprenderemos outras relações que não envolvem apenas as medidas dos catetos e da hipotenusa de um triângulo retângulo, mas também outros elementos, como as projeções dos catetos e a altura relativa à hipotenusa. Para isso, utilizaremos a semelhança de triângulos, vista anteriormente. </p>
+        <texto_bullets>•	Você conhece alguma demonstração do teorema de Pitágoras?</texto_bullets>
+        <texto_bullets>•	E outras relações em triângulos retângulos além dessa?</texto_bullets> Neste capítulo será abordada a habilidade <texto_habilidades_arte>EM13MAT308</texto_habilidades_arte>.        <titulo1>	Projeção </titulo1>
+        <p class='general-text'>Antes de explorar as relações métricas em um triângulo retângulo, é necessário conhecer o conceito de projeção ortogonal de um segmento sobre uma reta, que, de modo geral, é o pé da perpendicular, traçado do ponto à reta. Por exemplo, na figura a seguir, o ponto P&apos; é a projeção do ponto P sobre a reta <i>r</i>.
+        </p>
+        
+        <img src="./assets/img/ID002-I001-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <p class='general-text'>Já a de um segmento sobre uma reta é a projeção de todos os pontos constituintes dele. Na situação a seguir, o segmento 
+        <img src="./assets/img/MAT_FB_U2_C5_116.png">
+         é a projeção do 
+        <img src="./assets/img/MAT_FB_U2_C5_2.png">
+         sobre a reta <i>s.</i>
+        </p>
+        
+        <img src="./assets/img/ID003-I002-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <p class='general-text'>Outros tipos de projeção também são possíveis. Por exemplo, você pode pensar em sua sombra como a projeção do seu corpo no chão, já que os raios de luz solar são praticamente paralelos entre si, devido à grande distância entre o Sol e a Terra.</p>
+        
+        <img src="./assets/img/ID004-I003-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <legenda>A sombra de uma pessoa é uma projeção de seu corpo sobre o solo.</legenda>
+        <credito>Zenza Flarini/Shutterstock.com</credito>
+        <p class='general-text'>De posse desse novo conceito, seguiremos os nossos estudos sobre triângulos retângulos.</p>
+        <titulo1>	Elementos de um triângulo retângulo </titulo1>
+        <p class='general-text'>Seja dado um triângulo ABC, retângulo no vértice A. Nesse triângulo, traçamos o segmento de reta 
+        <img src="./assets/img/MAT_FB_U2_C5_3.png">
+         perpendicular à hipotenusa 
+        <img src="./assets/img/MAT_FB_U2_C5_4.png">
+         de modo que o ponto H pertença ao lado 
+        <img src="./assets/img/MAT_FB_U2_C5_5.png">
+         do triângulo. A figura a seguir ilustra a situação.</p>
+        
+        <img src="./assets/img/ID006-I004-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <p class='general-text'>Pela figura, podemos destacar os seguintes elementos:</p>
+        <texto_bullets>•	BC<simbolos> = </simbolos>a<simbolos> = </simbolos>medida da hipotenusa 
+        <img src="./assets/img/MAT_FB_U2_C5_6.png">
+         do triângulo ABC;</texto_bullets>
+        <texto_bullets>•	AC<simbolos> = </simbolos>b<simbolos> = </simbolos>medida do cateto 
+        <img src="./assets/img/MAT_FB_U2_C5_7.png">
+         do triângulo ABC;</texto_bullets>
+        <texto_bullets>•	AB<simbolos> = </simbolos>c<simbolos> = </simbolos>medida do cateto 
+        <img src="./assets/img/MAT_FB_U2_C5_8.png">
+         do triângulo ABC;</texto_bullets>
+        <texto_bullets>•	BH<simbolos> = </simbolos>m<simbolos> = </simbolos>medida da projeção do cateto 
+        <img src="./assets/img/MAT_FB_U2_C5_9.png">
+         sobre a hipotenusa;</texto_bullets>
+        <texto_bullets>•	CH<simbolos> = </simbolos>n<simbolos> = </simbolos>medida da projeção do cateto 
+        <img src="./assets/img/MAT_FB_U2_C5_10.png">
+         sobre a hipotenusa;</texto_bullets>
+        <texto_bullets>•	AH<simbolos> = </simbolos>h<simbolos> = </simbolos>medida da altura 
+        <img src="./assets/img/MAT_FB_U2_C5_11.png">
+         relativa à hipotenusa.</texto_bullets>
+        
+
+        <secao_01>Questão resolvida<exercicio_enunciado>1	</exercicio_enunciado>
+        
+        <img src="./assets/img/ID015-I010-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <item_lista>
+            <b>a)	</b>a menor distância entre o barco e a ilha durante toda a viagem.</item_lista>
+        <item_lista>
+            <b>b)	</b>a distância que o barco deve percorrer a partir do ponto B até chegar ao ponto mais próximo da ilha.
+        </item_lista>
+        
+        <h3 class="titulo3">Resolução:</h3>
+        <item_lista>
+            <b>a)	</b>Seja D o ponto do segmento 
+            <img src="./assets/img/MAT_FB_U2_C5_23.png">
+             mais próximo do vértice A, o ângulo 
+            <img src="./assets/img/MAT_FB_U2_C5_24.png">
+             medirá 90°. Desse modo:</item_lista>
+        
+        <img src="./assets/img/ID016-I011-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <exercicio_resolvido>Note que 
+        <img src="./assets/img/MAT_FB_U2_C5_25.png">
+         é a altura relativa à hipotenusa. Assim, pelas relações métricas no triângulo retângulo:</exercicio_resolvido>
+        <exercicio_resolvido>20 ⋅ AD <simbolos>=</simbolos> 16 ⋅ 12 <simbolos>~</simbolos> 20 ⋅ AD <simbolos>=</simbolos> 192 <simbolos>~</simbolos> AD <simbolos>=</simbolos> 9,6 km</exercicio_resolvido>
+        <exercicio_resolvido>Portanto, a menor distância entre o barco e a ilha durante toda a viagem é de 9,6 km.</exercicio_resolvido>
+        <item_lista>
+            <b>b)	</b>Observe que
+            
+            <img src="./assets/img/MAT_FB_U2_C5_26.png">
+            , distância percorrida do ponto B ao ponto mais próximo da ilha, é a projeção do cateto
+            <img src="./assets/img/MAT_FB_U2_C5_27.png">
+             sobre a hipotenusa. Assim:</item_lista>
+        <exercicio_resolvido>20 ⋅ BD <simbolos>=</simbolos> 16² <simbolos>~</simbolos> 20 ⋅ BD <simbolos>=</simbolos> 256 <simbolos>~</simbolos> BD <simbolos>=</simbolos> 12,8 km</exercicio_resolvido>
+        <exercicio_resolvido>De modo que a distância que o barco deve percorrer a partir do ponto B para chegar ao ponto mais próximo da ilha é de 12,8 km.</exercicio_resolvido>
+        <exercicio_enunciado>2	As projeções dos catetos de um triângulo retângulo sobre a sua hipotenusa diferem em 5 cm, enquanto a altura relativa à hipotenusa mede 
+        <img src="./assets/img/MAT_FB_U2_C5_28.png">
+         Determine a medida da hipotenusa desse triângulo.</exercicio_enunciado>
+        <h3 class="titulo3">Resolução:</h3>
+        <exercicio_resolvido>Seja
+            <i>x </i>a medida da menor projeção de um cateto sobre a hipotenusa desse triângulo, como ilustra a figura a seguir:
+        </exercicio_resolvido>
+        
+        <img src="./assets/img/ID017-I012-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+        <exercicio_resolvido>Utilizando a relação métrica que relaciona o quadrado da altura relativa à hipotenusa com as medidas das projeções dos catetos, temos:</exercicio_resolvido>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_29.png">
+        
+        <exercicio_resolvido>Da equação, temos que x<simbolos> = –</simbolos>12, o que não convém, ou x<simbolos> = </simbolos>7.</exercicio_resolvido>
+        <exercicio_resolvido>Assim, a medida da hipotenusa 
+        <img src="./assets/img/MAT_FB_U2_C5_30.png">
+         é de AB<simbolos> = </simbolos>x<simbolos> + </simbolos>5<simbolos> + </simbolos>x<simbolos> = </simbolos>2x<simbolos> + </simbolos>5<simbolos> = </simbolos>2 ⋅ 7<simbolos> + </simbolos>5<simbolos> = </simbolos>19 cm.</exercicio_resolvido>
+    </secao_01>
+    <titulo1>
+        <b>Teorema de Pitágoras </b>
+    </titulo1>
+    <p class='general-text'>Anteriormente, estudamos o teorema de Pitágoras, a relação métrica mais importante em um triângulo retângulo. No entanto, a prova desse teorema será abordada neste capítulo. </p>
+    <p class='general-text'>Considere um triângulo retângulo ABC, de hipotenusa  
+    <img src="./assets/img/MAT_FB_U2_C5_34.png">
+     e projeções dos catetos sobre a hipotenusa medindo <i>m </i>e<i> n</i>, conforme representado a seguir.</p>
+    
+    <img src="./assets/img/ID018-I013-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+    <p class='general-text'>Das relações demonstradas anteriormente, temos que:</p>b²<simbolos> = </simbolos>anc²<simbolos> = </simbolos>am<p class='general-text'>Adicionando essas duas equações: b²<simbolos> + </simbolos>c²<simbolos> = </simbolos>am<simbolos> + </simbolos>an.</p>
+<p class='general-text'>Note que podemos colocar o termo <i>a </i>em evidência, no lado direito da equação: b²<simbolos> + </simbolos>c²<simbolos> = </simbolos>a(m<simbolos> + </simbolos>n).</p>
+<boxe_17>Fique ligado!Dados <i>a </i>e<i> b, </i>números reais positivos, definimos sua média geométrica x como a solução da equação
+    
+    <img src="./assets/img/MAT_FB_U2_C5_31.png">
+    , ou, desenvolvendo a equação, a média geométrica de <i>a </i>e<i> b </i>é calculada como 
+    <img src="./assets/img/MAT_FB_U2_C5_32.png">
+    Note que as relações métricas no triângulo retângulo apresentam esse tipo de relação. Por exemplo, a partir da relação entre a altura relativa à hipotenusa e as projeções dos catetos sobre a hipotenusa, temos:
+    <img src="./assets/img/MAT_FB_U2_C5_33.png">
+    Assim, podemos dizer que a altura relativa à hipotenusade um triângulo retânguloé a<b> média geométrica</b> das projeções dos catetos sobre a hipotenusa.</boxe_17>
+<p class='general-text'>Como m<simbolos> + </simbolos>n<simbolos> = </simbolos>a, concluímos que b²<simbolos> + </simbolos>c²<simbolos> = </simbolos>a ⋅ a.</p>
+<p class='general-text'>Logo, temos o resultado desejado: a²<simbolos> = </simbolos>b²<simbolos> + </simbolos>c².</p>
+<p class='general-text'>Portanto, obtemos a última e mais importante relação em um triângulo retângulo:</p>A soma dos quadrados dos catetos é igual ao quadrado da hipotenusa.<p class='general-text'>Há inúmeras outras provas para o teorema de Pitágoras, e, no capítulo relacionado às áreas das figuras planas, veremos mais uma.</p>
+<secao_01>
+    <secao_01_titulo1>Questão resolvida</secao_01_titulo1>
+    <exercicio_enunciado>3	Uma lâmpada está presa ao teto por dois barbantes, perpendiculares entre si, como mostra a figura. Determine a distância da lâmpada ao teto, sabendo que os barbantes medem 9 cm e 12 cm.
+    </exercicio_enunciado>
+    
+    <img src="./assets/img/ID019-I014-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+    <h3 class="titulo3">Resolução:</h3>
+    <exercicio_resolvido>Sejam A e B os pontos em que os barbantes estão presos ao teto, C o ponto em que a lâmpada está presa ao barbante e CD a distância entre a lâmpada e o teto.</exercicio_resolvido>
+    
+    <img src="./assets/img/ID020-I015-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+    <exercicio_enunciado>4	Dada a situação representada na figura a seguir, determine os valores das medidas indicadas por <i>x</i>, <i>y</i> e <i>z</i>.
+    </exercicio_enunciado>
+    
+    <img src="./assets/img/ID021-I016-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+    <h3 class="titulo3">Resolução:</h3>
+    <exercicio_resolvido>Utilizando o teorema de Pitágoras no ΔAHC e por meio da relação métrica que envolve as projeções dos catetos e a altura relativa à hipotenusa, temos:</exercicio_resolvido>
+    
+    <img src="./assets/img/MAT_FB_U2_C5_35.png">
+    
+    <exercicio_resolvido>Por fim, aplicando Pitágoras no ΔAHB:</exercicio_resolvido>
+    
+    <img src="./assets/img/MAT_FB_U2_C5_36.png">
+    
+</secao_01>
+<secao_02>Aplicando conhecimentos<secao_exercicio_numerador>1	</secao_exercicio_numerador>Considerando a figura a seguir, determine qual das seguintes proporções é falsa:
+<img src="./assets/img/ID022-I017-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+    <item_lista>
+        <b>a)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_37.png">
+        
+    </item_lista>
+    <item_lista>
+        <b>b)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_38.png">
+        
+    </item_lista>
+    <item_lista>
+        <b>c)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_39.png">
+        
+    </item_lista>
+    <item_lista>
+        <b>d)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_40.png">
+        
+    </item_lista>
+    <secao_exercicio_numerador>2	</secao_exercicio_numerador>Uma criança, cujo nível dos olhos está a 1 metro do chão, consegue visualizar completamente uma árvore sob um ângulo de visão de exatos 90°. Determine a altura da árvore sabendo que a criança está a 2 metros de distância dela. Utilize a aproximação
+    <img src="./assets/img/MAT_FB_U2_C5_41.png">
+    .    <secao_exercicio_numerador>3	</secao_exercicio_numerador>
+    <b>IFPE 2014</b> Uma formiguinha encontra-se no ponto A de um cubo com 10 cm de aresta, conforme a figura a seguir. Ela tem a capacidade de se deslocar em qualquer região da superfície externa do cubo e deseja chegar ao ponto B. Para isso ela deverá percorrer a diagonal da face superior desse cubo, atingir o ponto C e, por fim, caminhar sobre a aresta até chegar a B.	
+    <img src="./assets/img/ID024-Q001-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+    <item_lista>
+        <b>a)	</b>20</item_lista>
+    <item_lista>
+        <b>b)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_42.png">
+        
+    </item_lista>
+    <item_lista>
+        <b>c)	</b>30</item_lista>
+    <item_lista>
+        <b>d)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_43.png">
+        
+    </item_lista>
+    <item_lista>
+        <b>e)	</b>
+        
+        <img src="./assets/img/MAT_FB_U2_C5_44.png">
+        
+    </item_lista>
+    <secao_exercicio_numerador>4	</secao_exercicio_numerador>Os catetos de um triângulo retângulo medem 7 cm e 24 cm. Com base nessas informações, determine a medida:<item_lista>
+    <b>a)	</b>da hipotenusa desse triângulo.</item_lista>
+<item_lista>
+    <b>b)	</b>da projeção do maior cateto sobre a hipotenusa.</item_lista>
+<item_lista>
+    <b>c)	</b>da projeção do menor cateto sobre a hipotenusa.</item_lista>
+<item_lista>
+    <b>d)	</b>da altura relativa à hipotenusa.</item_lista>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>Dada a figura a seguir, determine a medida <i>x </i>indicada.
+<img src="./assets/img/ID026-I020-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>Determine pelo menos seis relações métricas para os elementos indicados na figura a seguir.
+<img src="./assets/img/ID027-I021-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>A altura relativa à hipotenusa de um triângulo retângulo mede 12 cm, e uma das projeções dos catetos sobre a hipotenusa, 16 cm. Assim, determine a medida dos catetos desse triângulo.<secao_exercicio_numerador>4	</secao_exercicio_numerador>A figura a seguir ilustra a piscina de um clube.
+<img src="./assets/img/ID029-I023-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>A partir das informações apresentadas, determine:</exercicio_enunciado>
+<b>a)	</b>o comprimento total da piscina.<b>b)	</b>a profundidade máxima da piscina.<secao_exercicio_numerador>5	</secao_exercicio_numerador>Duas crianças, afastadas 50 metros uma da outra, observam a mesma pipa pairando no ar. Sabe-se que a distância da primeira criança em relação à pipa é de 30 metros e, da segunda, 40 metros. Considerando desprezível a altura das crianças, determine a altura a que a pipa está do solo no momento dessa observação.
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>Um enfeite natalino é suspenso no ponto C por um barbante, preso pelos pontos A e B ao teto de uma casa, conforme a ilustração.
+<img src="./assets/img/ID031-I025-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<p class='general-text'>Sabendo que a distância do enfeite ao teto é de 12 cm e que a distância entre A e B é de 25 cm, determine o comprimento total do barbante.</p>
+</secao_02>
+<secao_03>
+<secao_03_titulo1>Consolidando saberes</secao_03_titulo1>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<b>IFSP</b> Com uma trena e um esquadro em mãos, uma pessoa, em A, pode determinar a distância em que se encontra da base de uma árvore do outro lado do rio. Para tanto, fixa e estica um barbante de 39 m, de A até um ponto C qualquer, de modo que a linha visada AP seja perpendicular à linha AC, onde marca um ponto B a 3 m de C. Em seguida, a partir de C, ela caminha perpendicularmente à linha AC, afastando-se do rio e, quando vê B alinhado com a árvore, marca o ponto D. Constata, então, que a linha CD tem 4 m. Assim, a distância d indicada na figura, em metros, é igual a:
+<img src="./assets/img/ID034-Q002-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<item_lista>
+    <b>a)	</b>24,25.</item_lista>
+<item_lista>
+    <b>b)	</b>27,00.</item_lista>
+<item_lista>
+    <b>c)	</b>29,25.</item_lista>
+<item_lista>
+    <b>d)	</b>48,00.</item_lista>
+<item_lista>
+    <b>e)	</b>52,75.</item_lista>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<b>UEL-PR 2019</b> Convenciona-se que o tamanho dos televisores, de tela plana e retangular, é medido pelo comprimento da diagonal da tela, expresso em polegadas. Define-se a proporção dessa tela como sendo o quociente do lado menor pelo lado maior, também em polegadas. Essas informações estão dispostas na figura a seguir.
+<img src="./assets/img/ID035-Q003-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>Suponha que Eurico e Hermengarda tenham televisores como dado na figura e de proporção 
+<img src="./assets/img/MAT_FB_U2_C5_47.png">
+. Sabendo que o tamanho do televisor de Hermengarda é 5 polegadas maior que o de Eurico, assinale a alternativa que apresenta, corretamente, quantas polegadas o lado maior da tela do televisor de Hermengarda excede o lado correspondente do televisor de Eurico.</exercicio_enunciado>
+<item_lista>
+    <b>a)	</b>2</item_lista>
+<item_lista>
+    <b>b)	</b>3</item_lista>
+<item_lista>
+    <b>c)	</b>4</item_lista>
+<item_lista>
+    <b>d)	</b>5</item_lista>
+<item_lista>
+    <b>e)	</b>6</item_lista>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>
+<b>EEAR-SP 2019</b> Se ABC é um triângulo retângulo em A, o valor de n é
+<img src="./assets/img/ID037-Q004-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<item_lista>
+    <b>a)	</b>
+    
+    <img src="./assets/img/MAT_FB_U2_C5_48.png">
+    
+</item_lista>
+<item_lista>
+    <b>b)	</b>
+    
+    <img src="./assets/img/MAT_FB_U2_C5_49.png">
+    
+</item_lista>
+<item_lista>
+    <b>c)	</b>22</item_lista>
+<item_lista>
+    <b>d)	</b>16</item_lista>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>Determine as medidas das incógnitas indicadas em cada uma das situações a seguir.<item_lista>
+<b>a)	
+<img src="./assets/img/ID038-I027-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+</b>
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/ID039-I028-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/ID040-I029-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+</item_lista>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Determine as medidas de todas as incógnitas representadas na figura.
+<img src="./assets/img/ID041-I030-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>Calcule a medida da altura <i>x </i>relativa à hipotenusa do triângulo retângulo indicado.
+<img src="./assets/img/ID042-I031-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>Determine as medidas das incógnitas representadas a seguir.
+<img src="./assets/img/ID043-I032-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>
+<b>Uerj 2018</b> Segundo historiadores da matemática, a análise de padrões como os ilustrados a seguir possibilitou a descoberta das triplas pitagóricas.
+<img src="./assets/img/ID044-Q005-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>Observe que os números inteiros 3², 4² e 5², representados respectivamente pelas 2a, 3a e 4a figuras, satisfazem ao Teorema de Pitágoras. Dessa forma (3, 4, 5) é uma tripla pitagórica.</exercicio_enunciado>
+<exercicio_enunciado>Os quadrados representados pelas 4a, 11a e na figuras determinam outra tripla pitagórica, sendo o valor de n igual a:</exercicio_enunciado>
+<item_lista>
+<b>a)	</b>10</item_lista>
+<item_lista>
+<b>b)	</b>2</item_lista>
+<item_lista>
+<b>c)	</b>14</item_lista>
+<item_lista>
+<b>d)	</b>16</item_lista>
+<secao_exercicio_numerador>9	</secao_exercicio_numerador>Calcule o valor das variáveis <i>m, n </i>e<i> h </i>indicadas.
+<img src="./assets/img/ID045-I033-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>10	</secao_exercicio_numerador>
+<b>IFCE 2016</b> Um triângulo retângulo tem catetos medindo 1 e 2. Se um quadrado for construído tendo como lado a hipotenusa desse triângulo, a diagonal do quadrado medirá<exercicio_enunciado></exercicio_enunciado>
+<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_50.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_51.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_52.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_53.png">
+
+</item_lista>
+<item_lista>
+<b>e)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_54.png">
+
+</item_lista>
+<secao_exercicio_numerador>11	</secao_exercicio_numerador>
+<b>Cefet-MG 2015</b> Na figura, os triângulos ABC e BDE são triângulos retângulos, onde 
+<img src="./assets/img/MAT_FB_U2_C5_55.png">
+
+
+<img src="./assets/img/ID047-Q006-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>Desenhando o triângulo ACD, a medida do segmento CD é igual a</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_56.png">
+.
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_57.png">
+.
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_58.png">
+.
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_59.png">
+.
+</item_lista>
+<secao_exercicio_numerador>12	</secao_exercicio_numerador>
+<b>Uern 2015</b> Matheus marcou, em uma folha quadriculada de 1 × 1 cm, três pontos e ligou-os formando o seguinte triângulo:
+<img src="./assets/img/ID049-Q007-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>É correto afirmar que o produto dos lados do triângulo é</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_60.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_61.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_62.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_63.png">
+
+</item_lista>
+<secao_exercicio_numerador>13	</secao_exercicio_numerador>
+<b>Unicamp</b> Em um aparelho experimental, um feixe <i>laser</i> emitido no ponto P reflete internamente três vezes e chega ao ponto Q, percorrendo o trajeto PFGHQ. Na figura a seguir, considere que o compri-mento do segmento PB é de 6 cm, o do lado AB é de 3 cm, o polígono ABPQ é um retângulo e os ângulos de incidência e reflexão são congruentes, como se indica em cada ponto da reflexão interna. Qual é a distância total percorrida pelo feixe luminoso no trajeto PFGHQ?
+<img src="./assets/img/ID051-Q008-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<item_lista>
+<b>a)	</b>12 cm.</item_lista>
+<item_lista>
+<b>b)	</b>15 cm.</item_lista>
+<item_lista>
+<b>c)	</b>16 cm.</item_lista>
+<item_lista>
+<b>d)	</b>18 cm.</item_lista>
+<secao_exercicio_numerador>14	</secao_exercicio_numerador>
+<b>UEPB</b> No retângulo ABCD de lados 
+<img src="./assets/img/MAT_FB_U2_C5_64.png">
+ o segmento 
+<img src="./assets/img/MAT_FB_U2_C5_65.png">
+ é perpendicular à diagonal 
+<img src="./assets/img/MAT_FB_U2_C5_66.png">
+.
+<img src="./assets/img/ID053-Q009-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>O segmento 
+<img src="./assets/img/MAT_FB_U2_C5_67.png">
+ mede em cm:</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_68.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_69.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_70.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_71.png">
+
+</item_lista>
+<item_lista>
+<b>e)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_72.png">
+
+</item_lista>
+<secao_exercicio_numerador></secao_exercicio_numerador>
+<secao_exercicio_numerador>15	</secao_exercicio_numerador>
+<b>IFSC 2015</b> Para acessar o topo de uma plataforma de saltos a 400 cm de altura, um atleta deve subir uma escadaria que possui 8 degraus no primeiro lance e 6 degraus no segundo lance de escada, conforme mostra a figura a seguir.
+<img src="./assets/img/ID054-Q010-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>Sabendo que cada degrau possui 30 cm de profundidade, é CORRETOafirmar que o comprimento, em cm, da haste metálica AB utilizada para dar sustentação à plataforma é:</exercicio_enunciado>
+<item_lista>
+<b>a)	</b>300</item_lista>
+<item_lista>
+<b>b)	</b>400</item_lista>
+<item_lista>
+<b>c)	</b>500</item_lista>
+<item_lista>
+<b>d)	</b>200</item_lista>
+<item_lista>
+<b>e)	</b>100</item_lista>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<b>UFPA</b> Uma passarela construída em uma BR no Pará tem um vão livre de comprimento 4L. A sustentação da passarela é feita a partir de 3 cabos de aço presos em uma coluna à esquerda a uma altura D da passarela. Esta coluna por sua vez é presa por um cabo de aço preso a um ponto na mesma altura da passarela, e a uma distância L da passarela, conforme representa a figura a seguir. 
+<img src="./assets/img/ID056-Q011-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<exercicio_enunciado>Supondo L<simbolos> = </simbolos>9 m e D<simbolos> = </simbolos>12 m, o comprimento total dos quatro cabos de aço utilizados é, em metros:</exercicio_enunciado>
+<item_lista>
+<b>a)	</b>57</item_lista>
+<item_lista>
+<b>b)	</b>111</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_73.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_74.png">
+
+</item_lista>
+<item_lista>
+<b>e)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_75.png">
+
+</item_lista>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<b>CMRJ 2017</b> A figura a seguir mostra uma rampa de acesso que foi construída adjacente a uma escada existente em uma das entradas de um prédio em uma escola. A rampa foi construída dentro das normas que regulam a inclinação de rampas para pessoas com necessidades especiais (cadeirantes e pessoas com mobilidade limitada).
+<img src="./assets/img/ID058-Q012-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<credito>Modificada: http://ew7.com.br/projeto-arquitetonico-com-autocad/images/stories/rampas7.png</credito>
+<exercicio_enunciado>Para que a rampa fique dentro das normas, são necessários mais alguns ajustes, como, por exemplo, a sinalização com piso tátil para deficientes visuais, em toda a sua extensão até a frente da porta. O custo do piso tátil instalado, de 1,20 m de largura, é 150 reais por metro.</exercicio_enunciado>
+<exercicio_enunciado>Para sinalizar a rampa, a escola gastará aproximadamente</exercicio_enunciado>
+<item_lista>
+<b>a)	</b>1 780 reais.</item_lista>
+<item_lista>
+<b>b)	</b>1 785 reais.</item_lista>
+<item_lista>
+<b>c)	</b>1 790 reais.</item_lista>
+<item_lista>
+<b>d)	</b>1 795 reais.</item_lista>
+<item_lista>
+<b>e)	</b>1 805 reais.</item_lista>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<b>IFCE</b> A altura, baixada sobre a hipotenusa de um triângulo retângulo, mede 12 cm, e as projeções dos catetos sobre a hipotenusa diferem de 7 cm. Os lados do triângulo são, em centímetros, iguais a<item_lista>
+<b>a)	</b>10, 15 e 20.</item_lista>
+<item_lista>
+<b>b)	</b>12, 17 e 22.</item_lista>
+<item_lista>
+<b>c)	</b>15, 20 e 25.</item_lista>
+<item_lista>
+<b>d)	</b>16, 21 e 26.</item_lista>
+<item_lista>
+<b>e)	</b>18, 23 e 28.</item_lista>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>Em um triângulo retângulo, as projeções dos catetos sobre a hipotenusa medem 18 cm e 6 cm. Determine a altura relativa à hipotenusa.<secao_exercicio_numerador>3	</secao_exercicio_numerador>A altura relativa à hipotenusa de um triângulo retângulo mede 
+<img src="./assets/img/MAT_FB_U2_C5_76.png">
+ cm, e a diferença entre a maior projeção de um cateto sobre a hipotenusa e a menor é de 3 cm. Determine a medida da hipotenusa desse triângulo.<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<b>Fuvest</b> Na figura, os ângulos assinalados são retos. Temos necessariamente:
+<img src="./assets/img/ID064-Q013-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_77.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_78.png">
+
+</item_lista>
+<item_lista>
+<b>a)	</b>xy<simbolos> = </simbolos>pm</item_lista>
+<item_lista>
+<b>b)	</b>x2<simbolos> + </simbolos>y2<simbolos> = </simbolos>p2<simbolos> + </simbolos>m2</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_79.png">
+
+</item_lista>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<b>ITA</b> Seja <i>ABC</i> um triângulo retângulo cujos catetos 
+<img src="./assets/img/MAT_FB_U2_C5_80.png">
+ medem 8 <i>cm</i> e 6 <i>cm</i>, respectivamente. Se <i>D</i> é um ponto sobre 
+<img src="./assets/img/MAT_FB_U2_C5_81.png">
+e o triângulo <i>ADC</i> é isósceles, a medida do segmento 
+<img src="./assets/img/MAT_FB_U2_C5_82.png">
+, em <i>cm</i>, é igual a<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_83.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_84.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_85.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_86.png">
+
+</item_lista>
+<item_lista>
+<b>e)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_87.png">
+
+</item_lista>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<b>FGV</b> No triângulo retângulo ABC, retângulo em C, tem-se que 
+<img src="./assets/img/MAT_FB_U2_C5_88.png">
+. Sendo P um ponto de 
+<img src="./assets/img/MAT_FB_U2_C5_89.png">
+ tal que 
+<img src="./assets/img/MAT_FB_U2_C5_90.png">
+ perpendicular a 
+<img src="./assets/img/MAT_FB_U2_C5_91.png">
+, a maior medida possível de 
+<img src="./assets/img/MAT_FB_U2_C5_92.png">
+ é igual a<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_93.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_94.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_95.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_96.png">
+
+</item_lista>
+<item_lista>
+<b>e)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_97.png">
+
+</item_lista>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>
+<b>UFMG</b> Nesta figura, os ângulos 
+<img src="./assets/img/MAT_FB_U2_C5_98.png">
+ são retos e os segmentos AD, CD e BC medem, respectivamente, <i>x</i>,<i>y</i> e <i>z</i>:
+ <img src="./assets/img/ID068-Q014-2020-EM-MAT-1-L1-FB-U2-C5.png">
+ Nessa situação, a altura do triângulo ADE em relação ao lado AE é dada por<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_99.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_100.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_101.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_102.png">
+
+</item_lista>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<b>Unifei-MG</b> Calcule a distância entre os pontos A e E da figura a seguir, onde BD<simbolos> = </simbolos>10 cm, AB<simbolos> = </simbolos>2 cm e DE<simbolos> = </simbolos>8 cm.
+
+<img src="./assets/img/ID070-Q015-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>
+<b>UFMG</b> Nesta figura, o quadrado ABCD está inscrito no triângulo <i>AMN</i>, cujos lados <i>AM</i> e <i>NA</i> medem, respectivamente, <i>m</i> e <i>n</i>:
+<img src="./assets/img/ID072-Q016-2020-EM-MAT-1-L1-FB-U2-C5.png">
+Então, o lado do quadrado mede:<item_lista>
+<b>a)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_103.png">
+
+</item_lista>
+<item_lista>
+<b>b)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_104.png">
+
+</item_lista>
+<item_lista>
+<b>c)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_105.png">
+
+</item_lista>
+<item_lista>
+<b>d)	</b>
+
+<img src="./assets/img/MAT_FB_U2_C5_106.png">
+
+</item_lista>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>A figura indica um triângulo equilátero ABC, em que 
+<img src="./assets/img/MAT_FB_U2_C5_107.png">
+ são perpendiculares a 
+<img src="./assets/img/MAT_FB_U2_C5_108.png">
+, respectivamente. Se AB<simbolos> = </simbolos>40 cm, determine a medida de 
+<img src="./assets/img/MAT_FB_U2_C5_109.png">
+.
+</secao_03>
+<secao_08>
+<secao_08_titulo1>Seção olímpica</secao_08_titulo1>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>Em um retângulo ABCD, marcam-se os pontos E e F em 
+<img src="./assets/img/MAT_FB_U2_C5_113.png">
+ respectivamente, de maneira que 
+<img src="./assets/img/MAT_FB_U2_C5_114.png">
+ e DF<simbolos> = </simbolos>AB. Do mesmo modo, traça-se 
+<img src="./assets/img/MAT_FB_U2_C5_115.png">
+ perpendicular a 
+<img src="./assets/img/MAT_FB_U2_C5_116.png">
+, G pertencendo ao segmento 
+<img src="./assets/img/MAT_FB_U2_C5_117.png">
+, de modo que EG ⋅ DF<simbolos> = </simbolos>18. Determine a medida BF.<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<b>OBMEP</b> O topo de uma escada de 25 m de comprimento está encostado na parede vertical de um edifício. O pé da escada está a 7 m de distância da base do edifício, como na figura. Se o topo da escada escorregar 4 m para baixo ao longo da parede, qual será o deslocamento do pé da escada?
+<img src="./assets/img/ID084-Q017-2020-EM-MAT-1-L1-FB-U2-C5.png">
+
+<item_lista>
+<b>a)	</b>4 m</item_lista>
+<item_lista>
+<b>b)	</b>8 m</item_lista>
+<item_lista>
+<b>c)	</b>9 m</item_lista>
+<item_lista>
+<b>d)	</b>13 m</item_lista>
+<item_lista>
+<b>e)	</b>15 m</item_lista>
+</secao_08>
+</Root>
+</Marca1>
