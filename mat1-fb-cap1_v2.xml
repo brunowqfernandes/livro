@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Marca1>
+    <texto_geral>
+        <titulo_cap_texto>Conceitos fundamentais: retas e ângulos</titulo_cap_texto>
+        <imagem>
+            <imagem>
+                <imagem>
+                    <imagem>
+                        <imagem>
+                            <imagem>
+                                <imagem>&lt;ID001-F001-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+                            </imagem>
+                        </imagem>
+                    </imagem>
+                </imagem>
+            </imagem>
+        </imagem>
+        <legenda>O céu estrelado e a forma das constelações são importantes exemplos de modelos geométricos.</legenda>
+        <credito>Martina Badini/Shutterstock.com</credito>
+        <texto_geral>Assim como um imponente castelo precisa de uma base sólida para se manter erguido, a Geometria Plana depende de princípios fundamentais, sobre os quais está construída toda a sua fundamentação teórica, para se estabelecer. Teoremas sofisticados são provados através de teoremas simples, que, por sua vez, são provados por outros ainda mais simples em uma regressão que vai até as ideias matemáticas que não podem ser provadas por meio de cálculos ou de raciocínios lógicos: os axiomas.Euclides de Alexandria, matemático grego conhecido como o “pai da Geometria”, escreveu aquele que foi, muito provavelmente, o livro de Matemática mais importante da história: Os elementos. Nessa obra, Euclides introduziu o método axiomático, em que um conjunto de proposições são admitidas como verdadeiras sem a necessidade de provar isto por meio de conceitos anteriores. Esses axiomas continham relações importantes de entes primitivos da Geometria: o ponto, a reta e o plano.Neste capítulo, aprofundaremos as bases teóricas da Geometria Plana a fim de começarmos, pouco a pouco, a construir nosso grande castelo de conhecimento acerca dessa ciência.</texto_geral>
+        <texto_bullets>•	Quais são os exemplos cotidianos que transmitem as ideias de pontos, retas e planos?</texto_bullets>
+        <texto_bullets>•	Que elementos geométricos simples podem ser definidos através desses entes primitivos?</texto_bullets> Neste capítulo serão abordadas as habilidades EM13CHS103 e EM13CHS106.<titulo1>	Os entes primitivos </titulo1>
+        <texto_geral>
+            <titulo1></titulo1>Assim como toda matéria é composta da combinação de átomos, as figuras geométricas são formadas por três elementos básicos, os quais chamamos de entes primitivos: pontos, retas e planos. Esses elementos não podem ser definidos por meio de outras figuras, embora possamos explicá-los com ideias intuitivas.É importante destacarmos que esses três entes primitivos são abstrações humanas, sem existência real. Por exemplo, o ponto é uma entidade sem quaisquer dimensões físicas, enquanto a reta não apresenta largura. Apesar disso, os entes primitivos são úteis na representação de uma infinidade de modelos reais. As situações a seguir ilustram alguns deles.<titulo2>
+            <tabela_titulo2>Ponto</tabela_titulo2>
+        </titulo2>As estrelas que brilham no céu em uma noite escura são exemplos de pontos; no geral, para representá-los, são utilizadas as letras maiúsculas do nosso alfabeto. Vejamos, na figura, a identificação de três estrelas como sendo os pontos A, B e C.</texto_geral>
+    <imagem>
+        <imagem>
+            <imagem>&lt;ID002-I001-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+        </imagem>
+    </imagem>
+    <legenda>Representação de estrelas como pontos.</legenda>
+    <credito>Matsumoto/Shutterstock.com</credito>
+    <texto_geral>Reta</texto_geral>
+    <texto_geral>As retas não possuem espessura e são formadas por uma infinidade de pontos alinhados. Todas as retas se estendem de modo infinito, fato que é representado graficamente por pequenas setas nas extremidades das linhas. Preferencialmente, as retas são simbolizadas por letras minúsculas do nosso alfabeto ou a partir de dois de seus pontos.<imagem>
+        <imagem>
+            <imagem>&lt;ID004-I002-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+        </imagem>
+    </imagem>
+</texto_geral>
+<legenda>Reta <caracter_italico>r</caracter_italico> ou <imagem>
+    <imagem>
+        <imagem>
+            <imagem>
+                <imagem>&lt;MAT_L1_FB_U1_C2_2.png&gt;</imagem>
+            </imagem>
+        </imagem>
+    </imagem>
+</imagem>.
+</legenda>
+<credito>PlanilAstro/Shutterstock.com</credito>
+<texto_geral>No exemplo a seguir, podemos observar a reta r <imagem>
+<imagem>
+    <imagem>
+        <imagem>
+            <imagem>&lt;MAT_L1_FB_U1_C2_1.png&gt;</imagem>
+        </imagem>
+    </imagem>
+</imagem>
+</imagem> e notar que dois pontos distintos sempre determinam uma única reta que passa por eles.<titulo2>Plano</titulo2>
+<tabela_titulo2></tabela_titulo2>O plano é uma figura bidimensional, e podemos pensar nele como sendo a superfície de uma parede ou do tampo de uma mesa, mas que se estende infinitamente. Geralmente, é nomeado por meio de uma letra minúscula do alfabeto grego. A seguir, está representado o plano a.</texto_geral>
+<imagem>
+<imagem>
+<imagem>&lt;ID006-I003-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>Plano a.<texto_geral></texto_geral>
+<texto_geral>Três pontos distintos e não alinhados são capazes de determinar um plano. Assim, o plano da figura apresentada pode ser chamado também de plano ABC.<titulo2>Definições importantes</titulo2>A partir da noção intuitiva de ponto, reta e plano, algumas outras ideias são definidas. Atenção às seguintes definições.<titulo2>Pontos colineares</titulo2>Conjunto de pontos em que é possível traçar uma única reta que passe simultaneamente por todos eles.<imagem>
+<imagem>&lt;ID007-I004-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>Conjunto de pontos colineares.    Conjunto de pontos não colineares.<titulo2>Pontos coplanares</titulo2>São pontos que estão contidos em um mesmo plano determinado<imagem>
+<imagem>&lt;ID008-I005-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>.
+</texto_geral>
+<legenda>Os pontos A, B, C e D são coplanares.<imagem>
+<imagem>&lt;ID009-I006-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</legenda>
+<legenda>Os pontos E, F, G e H não são coplanares.<imagem>
+<imagem>&lt;ID012-I009-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</legenda>
+<legenda>A interseção de um plano e uma reta concorrente é um ponto<imagem>
+<imagem>&lt;ID013-I010-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>.
+</legenda>
+<legenda>Caso a reta esteja contida em um plano, a interseção dos dois é a própria reta.</legenda>
+<titulo1>Interseção de figuras</titulo1>
+<texto_geral></texto_geral>
+<texto_geral>Dizemos que duas figuras planas se intersectam quando elas possuem um ou mais pontos em comum; a interseção dessas figuras é o conjunto de todos esses pontos comuns. Vejamos alguns exemplos:<imagem>
+<imagem>&lt;ID010-I007-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</texto_geral>
+<texto_geral></texto_geral>
+<legenda>A interseção de duas retas concorrentes é um ponto<imagem>
+<imagem>&lt;ID011-I008-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>.
+</legenda>
+<legenda>A interseção de dois planos secantes é uma reta.</legenda>
+<titulo1>Entes definidos</titulo1>
+<titulo2></titulo2>
+<texto_geral>Na Geometria, entes definidos são as figuras que podem ser definidas por meio dos entes primitivos e suas combinações. As figuras mais básicas são compostas apenas dos entes primitivos de ponto e reta. Por se tratar de figuras importantes, com as quais você deve se familiarizar, analisaremos separadamente cada uma delas.</texto_geral>
+<titulo2>
+<texto_geral></texto_geral>Semirreta</titulo2>
+<texto_geral>
+<texto_geral>Um ponto qualquer em uma reta a divide em dois conjuntos distintos de pontos conhecidos como semirretas. Por exemplo, na situação a seguir o ponto P divide a reta r em duas semirretas opostas.<imagem>
+<imagem>&lt;ID015-I012-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</texto_geral>Uma semirreta possui uma orientação definida. Observe os dois casos<imagem>
+<imagem>&lt;ID016-I013-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>:Semirreta <imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_3.png&gt;</imagem>
+</imagem>.                              Semirreta <imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_4.png&gt;</imagem>
+</imagem>.Para esta situação, temos:</texto_geral>
+<titulo2>Segmento de reta</titulo2>
+<texto_geral>Dados dois pontos A e B pertencentes a uma mesma reta r, define-se o segmento de reta <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_6.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem> como o conjunto de pontos de r que pertencem ao intervalo de extremos A e B.<imagem>
+<imagem>&lt;ID017-I014-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+<imagem href="file:////Julia/Poliedro/Matema%cc%81tica/Volume%201/em_2022_v1_mat_fb_u1_cap1_102a123_p4%20Folder/Links/ID017-I014-2020-EM-MAT-1-L1-FB-U1-C2.ai"></imagem>
+</texto_geral>
+<texto_geral>Note que, diferentemente de uma reta, um segmento de reta possui um início e um fim e, portanto, um comprimento limitado.A reta que contém um segmento de reta é chamada de reta suporte. Por exemplo, na figura anterior, a reta suporte do segmento <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_8.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem> é a reta r.Agora, trataremos de uma classificação usual para segmentos de reta.Os segmentos consecutivos são aqueles que possuem uma extremidade em comum, como é o caso dos segmentos <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_9.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>, demonstrados a seguir.<imagem>&lt;ID018-I015-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>Já os segmentos colineares são aqueles que estão em uma mesma reta. Quaisquer dois segmentos tomados na seguinte imagem são colineares, por exemplo, <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_10.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>.<imagem>
+<imagem>&lt;ID019-I016-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>Por fim, os segmentos adjacentes são aqueles que, ao mesmo tempo, são consecutivos e colineares, como os segmentos <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_11.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem> representados a seguir.<imagem>&lt;ID020-I017-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</texto_geral>
+<titulo2>Medida de um segmento</titulo2>
+<titulo2></titulo2>
+<texto_geral>Os segmentos de reta podem ser medidos por uma grandeza chamada comprimento. Este comprimento equivale à distância numérica entre os dois pontos extremos do segmento, e a unidade em que a medida é realizada pode ser arbitrária (u.c., mm, cm, m etc.). Usualmente, denotamos a medida de um segmento <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem> como <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_13.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem> ou simplesmente AB. </texto_geral>
+<texto_geral></texto_geral>
+<texto_geral>Por exemplo, para os segmentos <imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_15.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem> colineares representados a seguir, tem-se que AB 5 3 cm e BC 5 4 cm.<imagem>&lt;ID021-I018-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>Comprimentos de segmentos, assim como número reais, podem ser somados e subtraídos. Neste caso, em que os segmentos são colineares, podemos calcular o comprimento do segmento <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_16.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem> como<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_17.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>.Ponto médio de segmentoDefine-se o ponto médio M de um segmento <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_18.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem> como o ponto que, pertencendo ao segmento, divide-o em duas partes iguais, de modo que AM 5 MB (a medida do segmento <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12a.png&gt;</imagem>
+</imagem>
+</imagem> é igual à medida do segmento <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12b.png&gt;</imagem>
+</imagem>
+</imagem>).<imagem>&lt;ID022-I019-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>Todo segmento possui necessariamente um único ponto médio. Se dois segmentos possuem o mesmo comprimento, são denominados congruentes. Nesse caso, temos <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12a.png&gt;</imagem>
+</imagem>
+</imagem> Ë<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12b.png&gt;</imagem>
+</imagem>
+</imagem> (o segmento <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12a.png&gt;</imagem>
+</imagem>
+</imagem> é congruente ao segmento <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_12b.png&gt;</imagem>
+</imagem>
+</imagem>).
+</texto_geral>
+<texto_geral></texto_geral>
+<secao_01>Questão resolvida<exercicio_enunciado>1	Se M é o ponto médio de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_19.png&gt;</imagem>
+</imagem>
+</imagem>, determine o valor da variável x.</exercicio_enunciado>
+<item_lista>a)	<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID023-I020-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+<imagem></imagem>b)	 <imagem></imagem>
+</item_lista>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID023-I020-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>Resolução:<item_lista>a) Como M é o ponto médio de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_18.png&gt;</imagem>
+</imagem>
+</imagem>, então AM 5 MB. Assim:</item_lista>
+<imagem></imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_20.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+<item_lista>b) Como AM 5 MB, então MB 5 (x 1 1) cm.</item_lista>
+<secao_01_texto>Note que NB 5 NA 1 AM 1 MB26 5 (2x 2 4) 1 (x 1 1) 1 (x 1 1) ~ 26 5 4x 2 2 ~ x 5 7 cm</secao_01_texto>
+</secao_01>
+<titulo1>Ângulo</titulo1>
+<titulo2></titulo2>
+<texto_geral>É uma figura formada por duas semirretas que possuem uma extremidade em comum, a qual é chamada de vértice do ângulo, enquanto as semirretas são os lados do ângulo. Um ângulo divide o plano em uma região interior e outra exterior ao próprio ângulo.<imagem>
+<imagem>&lt;ID026-I022-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>Um ângulo cujos lados são as semirretas <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_21.png&gt;</imagem>
+</imagem>
+</imagem> e <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_22.png&gt;</imagem>
+</imagem>
+</imagem> é definido como ângulo <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_23.png&gt;</imagem>
+</imagem>
+</imagem>.Passaremos agora a estudar vários aspectos da Geometria de ângulos.<titulo3>Medidas de ângulos</titulo3>Ângulos são usualmente medidos em graus (°), e, por meio de um simples transferidor escolar, é possível obter tais medidas com boa aproximação. Para encontrarmos, com o auxílio de um transferidor, a medida de um ângulo <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_24.png&gt;</imagem>
+</imagem>
+</imagem>, precisamos seguir alguns passos:<imagem>
+<imagem>&lt;ID028-I023-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</texto_geral>
+<item_lista>1.	Sobreponha o centro do instrumento no vértice do ângulo.2.	Alinhe um dos lados do ângulo de modo que este aponte para a medida 0 do transferidor.3.	Leia a medida de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_24.png&gt;</imagem>
+</imagem>
+</imagem>no ponto em que o outro lado do ângulo aponta a escala do transferidor.</item_lista>
+<imagem>
+<imagem>&lt;ID029-I024-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+<texto_geral>Podemos pensar em um transferidor como uma espécie de “régua” para ângulos. Note que o modelo do transferidor acima representa metade de uma circunferência, o que corresponde a um ângulo de 180°. Desse modo, um ângulo de 1° nada mais é que uma fração que corresponde a <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_25.png&gt;</imagem>
+</imagem>
+</imagem> de uma semicircunferência.</texto_geral>
+<boxe_02>
+<boxe_01_titulo1>MAIS</boxe_01_titulo1>
+<boxe_02>
+<titulo_vinheta_mais></titulo_vinheta_mais>
+<boxe_02_texto>O legado de Pitágoras.</boxe_02_texto>
+<boxe_02_texto>O documentário, disponível no YouTube em três partes, relaciona a elaboração dos conceitos elementares de Geometria com o desenvolvimento das civilizações da Antiguidade – notadamente babilônicos, egípcios e gregos. </boxe_02_texto>
+<boxe_02_texto>Parte 1 disponível em: <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;http://p.p4ed.com/HGCHU&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>.
+</boxe_02_texto>
+<boxe_02_texto>Parte 2 disponível em:</boxe_02_texto>
+<boxe_02_texto>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;http://p.p4ed.com/HGCHI&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>.
+</boxe_02_texto>
+<boxe_02_texto>Parte 3 disponível em:</boxe_02_texto>
+<boxe_02_texto>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;http://p.p4ed.com/HGCHO&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>.
+</boxe_02_texto>
+</boxe_02>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID027-F005-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>Reprodução</boxe_02>
+<credito></credito>
+<texto_geral>Assim como ocorre com os segmentos, as medidas de ângulos podem ser somadas ou subtraídas. Quando dois ângulos apresentam a mesma medida, dizemos que eles são congruentes.</texto_geral>
+<secao_01>Questão resolvida<exercicio_enunciado>2	A figura a seguir representa a medição de alguns ângulos com o auxílio de um transferidor. Determine os valores dos ângulos AÔF, BÔC, FÔH e CÔG.<imagem>
+<imagem>&lt;ID030-I025-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<titulo3>
+<caracter_negrito>Resolução:</caracter_negrito>
+</titulo3>
+<exercicio_resolvido>
+<exercicio_resolvido>Pelas medidas do transferidor, temos que:</exercicio_resolvido>
+<exercicio_resolvido>med(AÔF)=120°.</exercicio_resolvido>
+<exercicio_resolvido>med(BÔC)=med(AÔC) - med(AÔB)=90° - 20°=70°.</exercicio_resolvido>
+<exercicio_resolvido>med(FÔH)=med(AÔH) - med(AÔF)=180° - 120°=60°.</exercicio_resolvido>
+<exercicio_resolvido>med(CÔG)=med(AÔG) - med(AÔC)=160° - 90°=70°.</exercicio_resolvido>
+</exercicio_resolvido>
+</secao_01>
+<titulo3>Classificação dos ângulos</titulo3>
+<titulo2></titulo2>
+<texto_geral>Os ângulos são usualmente classificados de acordo com as suas medidas. Sendo assim, denominamos ângulos agudos aqueles que possuem medidas positivas e inferiores a 90°.<imagem>
+<imagem>&lt;ID031-I026-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+<imagem href="file:////Julia/Poliedro/Matema%cc%81tica/Volume%201/em_2022_v1_mat_fb_u1_cap1_102a123_p4%20Folder/Links/ID031-I026-2020-EM-MAT-1-L1-FB-U1-C2-A.ai"></imagem>
+<legenda>Ângulo a agudo, pois 0° &lt; a &lt; 90°.</legenda>Já os ângulos retos são aqueles que medem exatamente 90°. Neste caso, é comum ele ser indicado por meio de um pequeno quadrado no vértice do ângulo com um pontinho em seu centro, conforme a figura ao lado.<imagem>
+<imagem>&lt;ID032-I027-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+<imagem href="file:////Julia/Poliedro/Matema%cc%81tica/Volume%201/em_2022_v1_mat_fb_u1_cap1_102a123_p4%20Folder/Links/ID032-I027-2020-EM-MAT-1-L1-FB-U1-C2-A.ai"></imagem>
+<legenda>Ângulo reto.</legenda>Os ângulos obtusos são aqueles que apresentam medidas maiores que 90° e menores que 180°.<imagem>
+<imagem>&lt;ID033-I028-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>Ângulo b obtuso.Por fim, os ângulos rasos (ou de meia-volta) são construídos a partir de duas semirretas opostas de mesma origem, medindo exatamente 180°.</texto_geral>
+<imagem>
+<imagem>&lt;ID034-I029-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+<legenda>
+<legenda></legenda>Ângulo AÔB raso.</legenda>
+<secao_01>Questão resolvida<exercicio_enunciado>3	Sabendo que o ângulo AÔC é reto, determine o valor de <caracter_italico>x</caracter_italico>.
+</exercicio_enunciado>
+<imagem>
+<exercicio_enunciado></exercicio_enunciado>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID035-I030-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+<titulo3>Resolução:</titulo3>
+<exercicio_resolvido>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<exercicio_resolvido>Como AÔC é reto, temos:</exercicio_resolvido>
+<exercicio_resolvido>med(AÔC)=90°.</exercicio_resolvido>
+<exercicio_resolvido>Assim, med(AÔC)=med(AÔB)+med(BÔC)</exercicio_resolvido>2x - 10°+x+25°=90° <simbolos>~</simbolos> 3x=75° <simbolos>~</simbolos> x=25°.</exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_enunciado>4	Dado que <caracter_italico>t</caracter_italico> é uma reta, determine as medidas dos ângulos MÔN e NÔP.</exercicio_enunciado>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID036-I031-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+<titulo3>Resolução:</titulo3>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>O ângulo MÔP é raso, logo med(MÔP)=180°.<exercicio_resolvido>Como med(MÔN)+med(NÔP)=med(MÔP), podemos escrever:</exercicio_resolvido>4x - 8°+10x+6°=180° <simbolos>~</simbolos> 14x=182° <simbolos>~</simbolos> x=13°.</exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>Por fim, é possível calcular as medidas dos ângulos MÔN e NÔP.</exercicio_resolvido>
+<exercicio_resolvido>med(MÔN)=4x - 8°=4 · 13° - 8°=52° - 8°=44°.</exercicio_resolvido>
+<exercicio_resolvido>med(NÔP)=10x+6°=10 · 13°+6°=136°.</exercicio_resolvido>
+</secao_01>
+<titulo3>Ângulos complementares e suplementares</titulo3>
+<titulo2></titulo2>
+<texto_geral>Dois ângulos são chamados complementares quando a soma de suas medidas é 90°. Nessa situação, dizemos que um ângulo é o complementar do outro. Por exemplo, o ângulo complementar de 30° mede 60°, e o complementar de 80° mede 1<imagem>
+<imagem>&lt;ID037-I032-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>0°<imagem>
+<imagem>&lt;ID038-I033-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>.Os ângulos AÔB e BÔC são complementares e adjacentes. Os ângulos <imagem>
+<imagem>&lt;00.png&gt;</imagem>
+</imagem> são  complementares não adjacentes.De modo semelhante, dizemos que dois ângulos são suplementares quando as medidas somam 180°. Neste caso, um dos ângulos é o suplementar do outro. Desse modo, o suplementar de 30° mede 150°, enquanto o suplementar de 125° mede 55°.</texto_geral>
+<legenda>Os ângulos AÔB e BÔC são suplementares adjacentes. Os ângulos <item_lista>
+<imagem>&lt;MAT_L1_FB_U1_C2_25a.png&gt;</imagem>
+</item_lista> e <imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_25b.png&gt;</imagem>
+</imagem> são suplementares não adjacentes.</legenda>
+<secao_01>Questão resolvida<exercicio_enunciado>5	Determine o ângulo cuja medida supera a de seu complementar em 12°.</exercicio_enunciado>
+<caracter_negrito></caracter_negrito>
+<titulo3>Resolução:</titulo3>
+<exercicio_resolvido>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<exercicio_resolvido>Seja a o ângulo em questão, o complementar de medida &alpha; tem medida dada por 90° - a. </exercicio_resolvido>
+<exercicio_resolvido>Desse modo, como &alpha; excede seu complementar em 12°, temos:</exercicio_resolvido>
+<exercicio_resolvido>a - 12°=90° - a <simbolos>~</simbolos> 2a=102° <simbolos>~</simbolos> a=51°</exercicio_resolvido>Portanto, o ângulo que supera o seu complementar em 12° é o ângulo que mede 51°.</exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_enunciado>6	A medida do suplementar do ângulo que mede <caracter_italico>x</caracter_italico> excede o dobro da medida do complementar de <caracter_italico>x</caracter_italico> em 28°. Determine <caracter_italico>x</caracter_italico>.
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<caracter_negrito></caracter_negrito>
+<titulo3>Resolução:</titulo3>
+<exercicio_resolvido>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<exercicio_resolvido>Primeiramente, vamos organizar as informações.</exercicio_resolvido>
+<exercicio_resolvido>Medida do ângulo procurado: x</exercicio_resolvido>
+<exercicio_resolvido>Medida do suplementar desse ângulo: 180° - x</exercicio_resolvido>
+<exercicio_resolvido>Dobro da medida do complementar desse ângulo: 2 · (90° - x)=180° - 2x.</exercicio_resolvido>
+<exercicio_resolvido>Assim, pelas informações do enunciado:</exercicio_resolvido>
+<exercicio_resolvido>(180° - x) - 28°=180° - 2x</exercicio_resolvido>
+<exercicio_resolvido>x=28°</exercicio_resolvido>
+</exercicio_resolvido>
+</secao_01>
+<titulo3>Ângulos consecutivos e adjacentes</titulo3>
+<titulo3></titulo3>
+<titulo2></titulo2>
+<texto_geral>Dois ângulos são consecutivos quando possuem um lado em comum e são adjacentes quando são consecutivos e não possuem pontos internos em comu<imagem>
+<imagem>&lt;ID041-I036-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>m<imagem>
+<imagem>&lt;ID042-I037-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>.
+</texto_geral>
+<legenda>AÔB e BÔC são consecutivos (<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_26.png&gt;</imagem>
+</imagem>
+</imagem> é o lado comum) e adjacentes. AÔB e AÔC são consecutivos (<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_27.png&gt;</imagem>
+</imagem>
+</imagem> é o lado comum), mas não adjacentes.</legenda>
+<legenda></legenda>
+<legenda></legenda>
+<titulo3>Ângulos opostos pelo vértice</titulo3>
+<titulo3></titulo3>
+<titulo2></titulo2>
+<texto_geral>O cruzamento de duas retas concorrentes determina quatro ângulos. Observe a situação a seguir:<imagem>
+<imagem>&lt;ID043-I038-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>Note que os ângulos de medidas a, b, x e y possuem o vértice em comum. Além disso, esses ângulos se opõem dois a dois: dizemos que os ângulos de medidas a e b são opostos pelo vértice, assim como os ângulos de medidas x e y também o são.Um teorema importante e que será usado com frequência diz que os ângulos opostos pelo vértice possuem a mesma medida. Ou seja, para a figura apresentada, temos que a 5 b e x 5 y.A prova desse teorema é bastante simples. Note, por exemplo, a seguinte situação em que os ângulos que medem x e y são opostos pelo vértice.<imagem>
+<imagem>&lt;ID044-I039-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>Observe que os ângulos AÔB e CÔD são rasos. Assim:med(AÔB) 5 180° ~ x 1 a 5 180°	(I)med(CÔD) 5 180° ~ y 1 a 5 180°	(II)Igualando as equações (I) e (II):x 1 a 5 y 1 a ^ x 5 yPortanto, ângulos opostos pelo vértice possuem medidas iguais.</texto_geral>
+<secao_01>Questão resolvida<exercicio_enunciado>7	Determine os valores de <caracter_italico>x</caracter_italico> e <caracter_italico>y</caracter_italico>.
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<imagem></imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID045-I040-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+<caracter_negrito></caracter_negrito>
+<caracter_negrito></caracter_negrito>
+<titulo3>Resolução: </titulo3>
+<exercicio_resolvido>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<exercicio_resolvido>Note que os ângulos de medidas 3y e 4y - 9° são suplementares, uma vez que formam um ângulo raso. Assim:</exercicio_resolvido>
+<exercicio_resolvido>3y+4y - 9°=180° <simbolos>~</simbolos> 7y=189° <simbolos>~</simbolos> y=27°</exercicio_resolvido>
+<exercicio_resolvido>Como os ângulos de medidas 2x+17° e 4y - 9° são opostos pelo vértice, então eles são congruentes.</exercicio_resolvido>
+<exercicio_resolvido>2x+17°=4y - 9° <simbolos>~</simbolos> 2x+17°=4 · 27° - 9° <simbolos>~</simbolos> x=41°</exercicio_resolvido>
+<exercicio_resolvido>Portanto, x=41° e y=27°.</exercicio_resolvido>
+</exercicio_resolvido>
+</secao_01>
+<titulo2>Bissetriz</titulo2>
+<titulo2></titulo2>
+<texto_geral>Define-se como bissetriz de um ângulo a semirreta que divide o ângulo ao meio, ou seja, em duas partes de mesma medida.Na situação da figura, note que a semirreta <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_28.png&gt;</imagem>
+</imagem>
+</imagem> tem origem em O, ponto que é o vértice do ângulo AÔC. Além disso, os ângulos AÔB e BÔC são congruentes. Portanto, dizemos que <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_29.png&gt;</imagem>
+</imagem>
+</imagem> é a bissetriz do ângulo AOC.<imagem>
+<imagem>&lt;ID046-I041-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>Por questões de facilidade de representação, é comum que pares de ângulos congruentes sejam representados por pequenos traços iguais nas marcas curvas próximas aos seus vértices. Por exemplo, na figura ao lado, o ângulo NÔP é congruente ao ângulo PÔQ, enquanto MÔN é congruente a QÔR<imagem>
+<imagem>&lt;ID047-I042-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</texto_geral>
+<secao_01>Questão resolvida<exercicio_enunciado>8	Nas situações a seguir, a semirreta <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_30.png&gt;</imagem>
+</imagem>
+</imagem>é bissetriz do ângulo AÔC. Determine os valores das variáveis em cada um dos itens a seguir.</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<exercicio_itens>
+<caracter_negrito>a)	</caracter_negrito>
+<imagem></imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID048-I043-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+</exercicio_itens>
+<exercicio_itens>
+<caracter_negrito>b)	</caracter_negrito>
+<imagem></imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID049-I044-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+</exercicio_itens>
+<titulo3>Resolução:</titulo3>
+<item_lista>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<caracter_negrito>a)</caracter_negrito> Como <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_30a.png&gt;</imagem>
+</imagem>
+</imagem>é bissetriz do ângulo AÔC, então med(AÔB)=med(BÔC). Assim:</item_lista>
+<exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>3x=5x - 24° <simbolos>~</simbolos> x=12°</exercicio_resolvido>
+<exercicio_resolvido>
+<caracter_negrito>b)</caracter_negrito> Como AÔB e BÔC são congruentes:</exercicio_resolvido>
+<exercicio_resolvido>x+20°=y - 10° <simbolos>~</simbolos> x=y - 30°	(I)</exercicio_resolvido>
+<exercicio_resolvido>Note que o ângulo AÔD é raso. Assim:</exercicio_resolvido>y - 10°+x+20°+x+2y=180° <simbolos>~</simbolos> 3y+2x=170°	(II)</exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>
+<exercicio_resolvido>Substituindo (I) em (II):</exercicio_resolvido>
+<exercicio_resolvido>3y+2(y - 30°)=170° <simbolos>~</simbolos> 5y=230° <simbolos>~</simbolos> y=46°</exercicio_resolvido>
+<exercicio_resolvido>Por (I):</exercicio_resolvido>
+<exercicio_resolvido>x=y - 30°=46° - 30°=16°</exercicio_resolvido>Portanto, x=16° e y=46°.</exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_enunciado>9	Os ângulos adjacentes AÔB, BÔC e CÔD são tais que med(AÔB)=22° e med(CÔD)=30°. Determine a medida do ângulo formado pelas bissetrizes dos ângulos de AÔC e BÔD.<imagem>
+<imagem>&lt;ID050-I045-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<caracter_negrito></caracter_negrito>
+<titulo3>Resolução:</titulo3>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<exercicio_resolvido>Sejam <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_31.png&gt;</imagem>
+</imagem>
+</imagem> as bissetrizes dos ângulos AÔC e BÔD respectivamente. A figura a seguir traz a situação descrita.</exercicio_resolvido>
+<exercicio_resolvido>Como <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_31.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz de AÔC: 22°+a=x+b	(I)</exercicio_resolvido>
+<exercicio_resolvido>Como<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_31.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz de BÔD: b+30°=a+x	(II)</exercicio_resolvido>
+<exercicio_resolvido>Adicionando as equações (I) e (II):</exercicio_resolvido>
+<exercicio_resolvido>2x=52° <simbolos>~</simbolos> x=26°</exercicio_resolvido>
+</secao_01>
+<titulo1>Retas paralelas e retas concorrentes</titulo1>
+<titulo1></titulo1>
+<titulo2></titulo2>
+<texto_geral>Duas retas pertencentes ao mesmo plano são ditas paralelas quando não possuem nenhum ponto em comum ou quando são coincidente<imagem>&lt;ID051-I046-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>s.<legenda>Retas paralelas não coincidente<imagem>&lt;ID052-I047-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>s.</legenda>
+<legenda>Retas paralelas coincidentes.<imagem>&lt;ID053-F006-2020-EM-MAT-1-L1-FB-U1-C2.jpg&gt;</imagem>
+</legenda>
+<credito>Marccophoto/iStockphoto.com</credito>Geralmente, é usada a notação r || s para indicar que a reta r é paralela à reta s.Ao contrário das retas paralelas, as retas concorrentes são aquelas que possuem exatamente um ponto em comum. Na figura a seguir, as retas r e s são concorrentes e se intersectam no ponto P.<imagem>&lt;ID055-I048-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>Neste caso, r ∩ s 5 {P}.Um caso particular de retas concorrentes são as retas perpendiculares, as quais se cortam formando ângulos de 90°.<imagem>&lt;ID056-I049-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<legenda>Retas r e s perpendiculares entre si.</legenda>É comum que se use a notação r ⟂ s para indicar que estas retas são perpendiculares entre si.<titulo1>Retas paralelas cortadas por uma transversal</titulo1>Quando retas paralelas são analisadas isoladamente, pouco podemos afirmar sobre elas, conforme é possível verificar a seguir.<imagem>&lt;ID058-I050-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>Agora observe a mesma figura, com o acréscimo de mais uma reta, que intersecta o par de retas paralel<imagem>&lt;ID059-I051-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>as.<boxe_17>
+<boxe_17_titulo1>Fique ligado!</boxe_17_titulo1>
+<boxe_17_texto>
+<boxe_02_texto>Note que, de acordo com a definição, as retas cortadas pela transversal não precisam ser paralelas.</boxe_02_texto>
+</boxe_17_texto>
+</boxe_17>Dessa maneira, a situação se torna mais complexa, pois vários ângulos são formados com o acréscimo de uma reta transversal 2 nome dado justamente por cortar duas ou mais retas (ou segmentos de retas, ou semirretas) que estejam em um mesmo plano, intersectando cada uma delas em um ponto diferente. Observe a figura ao lado, em que as retas r e s são p<imagem>&lt;ID060-I052-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>ara<imagem>&lt;ID061-I053-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>lelas<legenda>Ângulos alternos internos são congruentes.</legenda>.Os pares de ângulos de medidas c e x, d e z são alternos internos;Os pares de ângulos de medidas a e y, b e w são alternos externos.Em relação às retas paralelas cortadas por uma transversal, é necessário sabermos que os ângulos alternos são congruentes. No exemplo a seguir, em que r e s são paralelas, temos que a 5 b, pois são ângulos alternos.Desse modo, analisando a seguinte situação, concluímos que pares de ângulos correspondentes possuem a mesma medida. Além disso, é importante lembrarmos que ângulos opostos pelo vértice também são congruentes.<imagem>&lt;ID062-I054-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</texto_geral>Essa propriedade também é utilizada para provar se duas retas são ou não paralelas: se duas retas cortadas por uma transversal tiverem ângulos correspondentes congruentes, elas são paralelas; se não tiverem, são concorrentes.<imagem>&lt;ID063-I055-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<legenda>Ângulos correspondentes congruentes: r//s.</legenda>
+<imagem>&lt;ID064-I056-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<legenda>Ângulos correspondentes distintos: r e s concorrentes.</legenda>
+<secao_01>Questão resolvida<exercicio_enunciado>10	Sabendo que as retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> são paralelas, determine o valor das variáveis indicadas em cada uma das situações a seguir.</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<item_lista>
+<exercicio_itens>
+<caracter_negrito>a)</caracter_negrito>
+<item_lista>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID065-I057-2020-EM-MAT-1º-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</item_lista>
+</exercicio_itens>
+<exercicio_itens>
+<caracter_negrito>b)</caracter_negrito>
+<item_lista>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID066-I058-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</item_lista>
+</exercicio_itens>
+<caracter_negrito>c)</caracter_negrito>
+</item_lista>
+<item_lista>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID067-I059-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</item_lista>
+<exercicio_itens></exercicio_itens>
+<titulo3>Resolução:</titulo3>
+<item_lista>
+<titulo3>
+<caracter_negrito></caracter_negrito>
+</titulo3>
+<caracter_negrito>a) </caracter_negrito>Note que os ângulos de medidas 2x+20° e x+30° são alternos internos, enquanto os ângulos de medidas 2x+20° e y+5° são opostos pelo vértice. Desse modo, os três ângulos são congruentes entre si.<imagem>&lt;ID065-I057-2020-EM-MAT-1-L1-FB-U1-C2-B.png&gt;</imagem>
+</item_lista>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>
+<exercicio_resolvido>Vamos obter o valor de <caracter_italico>x</caracter_italico>:
+</exercicio_resolvido>
+<exercicio_resolvido>2x+20°=x+30° <simbolos>~</simbolos> x=10°</exercicio_resolvido>
+<exercicio_resolvido>Por fim, vamos obter o valor de <caracter_italico>y</caracter_italico>:
+</exercicio_resolvido>y+5°=2x+20° <simbolos>~</simbolos> y=2 ∙ 10°+15° <simbolos>~</simbolos> y=35° </exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<item_lista>
+<caracter_negrito>b) </caracter_negrito>Neste caso, para que se apresente de forma mais explícita a propriedade das retas paralelas cortadas por uma transversal, traçaremos uma reta paralela às retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> e que passe pelo ponto B. Observe a nova situação.<imagem>&lt;ID068-I060-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</item_lista>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>
+<exercicio_resolvido>Os ângulos de medidas 42° e &alpha; são alternos internos, assim como os de medidas 26° e b. Portanto, <simbolos>a 5 </simbolos>42° e b=26°.</exercicio_resolvido>Por fim, z<simbolos> 5 a 1 </simbolos>b <simbolos>~</simbolos> z=42°+26°=68°.</exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<item_lista>
+<caracter_negrito>c) </caracter_negrito>Assim como no exemplo anterior, traçaremos uma reta paralela auxiliar de modo a construir ângulos alternos internos, conforme mostrado na figura.<imagem>&lt;ID069-I061-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</item_lista>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido></exercicio_resolvido>
+<exercicio_resolvido>
+<exercicio_resolvido>Desse modo, temos:</exercicio_resolvido>
+<exercicio_resolvido>2a+3a+10°=7a - 20° <simbolos>~</simbolos> 2a=30° <simbolos>~</simbolos> a=15°</exercicio_resolvido>
+</exercicio_resolvido>
+</secao_01>
+<boxe_09>
+<titulo_aplicando_conhecimento>Aplicando conhecimentos</titulo_aplicando_conhecimento>
+<exercicio_enunciado>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>Classifique, de acordo com a tabela a seguir, cada par de segmentos como adjacentes, consecutivos ou colineares. Lembre-se de que um mesmo par de segmentos pode ter mais de uma classificação.<imagem>&lt;ID070-I062-2020-EM-MAT-1-L1-FB-U1-C2-B.png&gt;</imagem>
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<Story>
+<Table xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" aid:table="table" aid:trows="6" aid:tcols="4">
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<TABELA_GRAVATA1>Segmentos</TABELA_GRAVATA1>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="62.36220472440946">
+<Tabela_gravata1>
+<Tabela_gravata1>Consecutivos</Tabela_gravata1>
+</Tabela_gravata1>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<Tabela_gravata1>Colineares</Tabela_gravata1>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<Tabela_gravata1>Adjacentes</Tabela_gravata1>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<imagem>&lt;MAT_L1_FB_U1_C2_34.png&gt;</imagem>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="62.36220472440946"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<imagem>&lt;MAT_L1_FB_U1_C2_35.png&gt;</imagem>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="62.36220472440946">
+<tabela_texto_geral>SIM</tabela_texto_geral>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<tabela_texto_geral>NÃO</tabela_texto_geral>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<tabela_texto_geral>NÃO</tabela_texto_geral>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<imagem>&lt;MAT_L1_FB_U1_C2_36.png&gt;</imagem>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="62.36220472440946"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<imagem>&lt;MAT_L1_FB_U1_C2_37.png&gt;</imagem>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="62.36220472440946"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096">
+<imagem>&lt;MAT_L1_FB_U1_C2_38.png&gt;</imagem>
+</Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="62.36220472440946"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+<Cell aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="51.023622047244096"></Cell>
+</Table>
+</Story>
+<exercicio_enunciado>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>Se M é o ponto médio de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_39.png&gt;</imagem>
+</imagem>
+</imagem>, determine a medida <caracter_italico>x</caracter_italico>.<imagem>&lt;ID071-I063-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>Observe, a seguir, a planta de um estacionamento em que as linhas demarcadoras das vagas representam segmentos de retas.<imagem>&lt;ID072-F009-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<credito>Youst/iStockphoto.com</credito>
+<exercicio_enunciado>Sobre os ângulos que esses segmentos de reta das figuras fazem entre si, é correto afirmar que:</exercicio_enunciado>
+<item_lista>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<item_lista>há ângulos agudos, retos e obtusos.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>há apenas ângulos retos.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>há apenas ângulos agudos.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<item_lista>há apenas ângulos obtusos.</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</item_lista>
+</item_lista>
+<item_lista>há ângulos agudos e obtusos, mas não retos.</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>No mapa a seguir, a rua das Margaridas forma um ângulo de 131° com rua das Rosas. Além disso, a rua das Rosas forma um ângulo de 62° com a rua das Flores.</exercicio_enunciado>Com essas informações, determine o ângulo que a rua das Margaridas forma com a rua das Flores.<imagem>&lt;ID073-I064-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>A rosa dos ventos aponta as direções noroeste (NO), nordeste (NE), sudeste (SE) e sudoeste (SO).</item_lista>
+<exercicio_enunciado>
+<exercicio_enunciado>Com base na imagem e em seus conhecimentos geográficos, identifique qual das opções a seguir representa duas direções que determinam o menor dos ângulos possíveis em uma rosa dos ventos.</exercicio_enunciado>
+<imagem>&lt;ID074-I065-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>Norte e nordeste.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>Sul e oeste.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>Sudeste e sudoeste.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>Norte e sudeste.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>Nordeste e sudoeste.</secao_exercicio_item>
+<exercicio_enunciado>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>Dada a imagem a seguir da lateral de um caixote, determine as medidas <caracter_italico>x</caracter_italico> e <caracter_italico>y</caracter_italico> dos ângulos indicados.</exercicio_enunciado>
+<secao_exercicio></secao_exercicio>
+<exercicio_enunciado>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>Dado que o ângulo AÔB é reto, calcule o valor da variável <caracter_italico>x</caracter_italico>.<imagem>&lt;ID077-I067-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>A medida de um ângulo é cinco vezes maior que a medida de seu complementar. Determine a medida de seu ângulo suplementar.</boxe_09>
+<secao_03>Consolidando saberes<secao_exercicio_numerador>1	</secao_exercicio_numerador>Julgue as afirmativas a seguir como verdadeiras (V) ou falsas (F).<secao_03_texto>( )	Uma reta é completamente definida por apenas um de seus pontos.( )	Três pontos não colineares determinam três retas distintas.( )	Três pontos distintos não alinhados determinam um plano.( )	Se duas retas são coplanares, então são paralelas.( )	A interseção de dois planos distintos pode ser um único ponto.</secao_03_texto>
+<exercicio_enunciado>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>Sobre a classificação de segmentos, julgue as afirmativas a seguir como verdadeiras (V) ou falsas (F).</exercicio_enunciado>
+<secao_03_texto>
+<caracter_negrito>( )	</caracter_negrito>Dois segmentos consecutivos sempre são colineares.( )	Dois segmentos colineares sempre são consecutivos.( )	Dois segmentos adjacentes sempre são consecutivos.<caracter_negrito>( )	</caracter_negrito>Dois segmentos adjacentes sempre são colineares.( )	Dois segmentos colineares sempre são adjacentes.</secao_03_texto>
+<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>Os pontos A, B e C estão dispostos nesta ordem em uma reta <caracter_italico>r</caracter_italico>. Se <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_43.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem> mede o quíntuplo de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_44.png&gt;</imagem>
+</imagem>
+</imagem>, determine a medida de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_45.png&gt;</imagem>
+</imagem>
+</imagem>.
+</exercicio_enunciado>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>Se M é o ponto médio de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_46.png&gt;</imagem>
+</imagem>
+</imagem>, determine a sua medida em cada uma das situações a seguir.</exercicio_enunciado>
+<exercicio_enunciado></exercicio_enunciado>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<imagem>&lt;ID077-I067-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<imagem>&lt;ID082-I071-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<exercicio_enunciado>
+<secao_exercicio_numerador>5	</secao_exercicio_numerador>Os segmentos <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_47.png&gt;</imagem>
+</imagem>
+</imagem> são adjacentes, e seus respectivos pontos médios são M e N. Se B está entre os pontos A e C e MN=17 cm, determine a medida de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_48.png&gt;</imagem>
+</imagem>
+</imagem>.
+</exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>6	</secao_exercicio_numerador>Os pontos A, B e C, representados a seguir, são colineares. Sabe-se que 2 · AC=3 · AB e que BC=12 cm. Determine a medida do segmento <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_49.png&gt;</imagem>
+</imagem>
+</imagem>.<imagem>&lt;ID084-I073-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>7	</secao_exercicio_numerador>Considere a figura a seguir.<imagem>&lt;ID085-I074-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_03_texto>É correto afirmar que é obtuso o ângulo</secao_03_texto>
+<item_lista>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)</caracter_negrito>
+<item_lista>	AÔB</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>BÔC</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)</caracter_negrito>
+<item_lista>	CÔD</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)</caracter_negrito>
+<item_lista>	BÔD</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)</caracter_negrito>
+</item_lista>
+<item_lista>	AÔC</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>8	</secao_exercicio_numerador>A partir da imagem, determine as medidas dos ângulos XÔY, XÔW e YÔW.<imagem>&lt;ID086-I075-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>9	</secao_exercicio_numerador>Se <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_50.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz do ângulo MÔN, determine a medida de MÔP.<imagem>&lt;ID087-I076-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>10	</secao_exercicio_numerador>Determine o valor das variáveis <caracter_italico>x</caracter_italico> e <caracter_italico>y</caracter_italico>.<imagem>&lt;ID088-I077-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>11	</secao_exercicio_numerador>A medida da diferença de dois ângulos suplementares é de 46°. Determine a medida do complementar do menor deles.<secao_exercicio_numerador>12	</secao_exercicio_numerador>Três quintos do suplementar de um ângulo &alpha; é igual a três meios do complementar de &alpha;. Determine a diferença entre o suplementar e o complementar de &alpha;.<secao_exercicio_numerador>13	</secao_exercicio_numerador>
+<caracter_negrito>IFCE </caracter_negrito>Sabendo-se que a soma de dois ângulos é 78° e um deles vale <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_51.png&gt;</imagem>
+</imagem>
+</imagem> do complemento do outro, os valores são:</exercicio_enunciado>
+</exercicio_enunciado>
+<item_lista>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)</caracter_negrito>
+<item_lista>	10° e 68°</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)</caracter_negrito>
+<item_lista>	15° e 63°</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)</caracter_negrito>
+<item_lista>	16° e 62°</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)</caracter_negrito>
+<item_lista>	18° e 60°</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)</caracter_negrito>
+</item_lista>
+<item_lista>	20° e 58°</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>14	</secao_exercicio_numerador>Determine os valores dos ângulos desconhecidos da figura a seguir.<imagem>&lt;ID089-I078-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>15	</secao_exercicio_numerador>Na figura, as retas <caracter_italico>r</caracter_italico>,<caracter_italico>s</caracter_italico> e <caracter_italico>t</caracter_italico> são paralelas, bem como duas das transversais que cortam essas retas. Determine o valor de <caracter_italico>x</caracter_italico>,<caracter_italico>y</caracter_italico>,<caracter_italico>w</caracter_italico> e <caracter_italico>z</caracter_italico>.
+</exercicio_enunciado>
+<imagem>&lt;ID090-I079-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+<secao_exercicio_numerador>16	</secao_exercicio_numerador>Na situação ilustrada a seguir, as retas <caracter_italico>r</caracter_italico>,<caracter_italico>s</caracter_italico>,<caracter_italico>t</caracter_italico> e <caracter_italico>m</caracter_italico> se cortam no ponto O.</exercicio_enunciado>
+<exercicio_enunciado>
+<imagem>&lt;ID091-I080-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_exercicio>Determine, em função de <caracter_italico>x</caracter_italico> e <caracter_italico>y</caracter_italico>, a medida dos ângulos:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>BÔC.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>FÔE.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>HÔC.</secao_exercicio_item>
+<secao_exercicio_numerador>17	</secao_exercicio_numerador>Os ângulos MÔP e NÔQ, representados na imagem, são retos<imagem>&lt;ID092-I081-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>.<secao_exercicio>Prove que:</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>med(MÔN)=med(PÔQ).</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>MÔQ e NÔP são suplementares.</secao_exercicio_item>
+<secao_exercicio_numerador>18	</secao_exercicio_numerador>Dado na figura que o ângulo MÔP mede 130° e as semirretas <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_52.png&gt;</imagem>
+</imagem>
+</imagem> são bissetrizes de MÔN e NÔP, respectivamente, determine a medida do ângulo AÔB.<imagem>&lt;ID093-I082-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+<secao_exercicio_numerador>19	</secao_exercicio_numerador>Dadas as situações a seguir, determine a medida das variáveis apresentadas.<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_53.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz de AÔB.<imagem>&lt;ID094-I083-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_54.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz de MÔN.<imagem>&lt;ID095-I084-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_55.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz de ZÔ<imagem>&lt;ID096-I085-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>Y.</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_56.png&gt;</imagem>
+</imagem>
+</imagem> é bissetriz de AÔB e de CÔD.<imagem>&lt;ID097-I086-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_numerador>20	</secao_exercicio_numerador>Seja &alpha; o ângulo suplementar de x+y+z. Determine a medida do ângulo suplementar &alpha; (x+y+z).<imagem>&lt;ID098-I087-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>21	</secao_exercicio_numerador>
+<caracter_negrito>FGV</caracter_negrito> Na figura, os pontos A e B estão no mesmo plano que contém as retas paralelas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico>.<imagem>&lt;ID099-I088-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio>Assinale o valor de &alpha;.
+</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>30°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>50°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>40°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>70°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>60°</secao_exercicio_item>
+<secao_exercicio_numerador>22	</secao_exercicio_numerador>
+<caracter_negrito>Fuvest-SP</caracter_negrito> Na figura, as retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> são paralelas, o ângulo 1 mede 45°, e o ângulo 2 mede 55°. A medida, em graus, do ângulo 3 é:<imagem>&lt;ID101-I090-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>50</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>55</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>60</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>80</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>100</secao_exercicio_item>
+<secao_exercicio_numerador>23	</secao_exercicio_numerador>
+<caracter_negrito>IFPE </caracter_negrito>Júlia começou a estudar Geometria na sua escola. Com dúvida em um exercício passado pelo professor de Matemática, ela pediu ajuda ao seu tio. O enunciado era: “As retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> são paralelas; as retas <caracter_italico>u</caracter_italico> e <caracter_italico>t</caracter_italico>, duas transversais. Encontre o valor do ângulo <caracter_italico>x</caracter_italico> na figura abaixo”. Portanto, o valor de <caracter_italico>x</caracter_italico> é:<imagem>&lt;ID103-I092-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>120°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>125°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>130°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>135°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>140°</secao_exercicio_item>
+<secao_exercicio_numerador>24	</secao_exercicio_numerador>
+<caracter_negrito>AFA-SP</caracter_negrito> Sejam <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> retas paralelas. A medida do ângulo &alpha;, na figura abaixo, é<imagem>&lt;ID105-I094-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>115°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>125°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>135°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>145°</secao_exercicio_item>
+<secao_exercicio_numerador>25	</secao_exercicio_numerador>
+<caracter_negrito>Mackenzie-SP</caracter_negrito> Na figura abaixo, <caracter_italico>a</caracter_italico> e <caracter_italico>b</caracter_italico> são retas paralelas.<imagem>&lt;ID107-I096-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio>A afirmação correta a respeito do número que expressa, em graus, a medida do ângulo &alpha; é
+</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>um número primo maior que 23.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>um número ímpar.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>um múltiplo de 4.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>um divisor de 60.</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>um múltiplo comum entre 5 e 7.</secao_exercicio_item>
+<secao_exercicio_numerador>26	</secao_exercicio_numerador>Na situação a seguir, as retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> são paralelas. Determine o valor de y - x.<imagem>&lt;ID108-I097-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>27	</secao_exercicio_numerador>Na figura a seguir, as semirretas são bissetrizes dos ângulos AÔB e BÔC respectivamente. Prove que o ângulo MÔN mede 90°.<imagem>&lt;ID109-I098-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>28	</secao_exercicio_numerador>Utilizando as propriedades de retas paralelas cortadas por uma transversal, determine o valor das incógnitas em cada um dos itens a seguir.<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_58.png&gt;</imagem>
+</imagem>
+</imagem>
+<imagem>&lt;ID110-I099-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>r || s e m || n<imagem>&lt;ID113-I102-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_numerador>29	</secao_exercicio_numerador>
+<caracter_negrito>UFMG</caracter_negrito> Observe esta figura:<imagem>&lt;ID115-I104-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio>Nessa figura, os pontos F, A e B estão em uma reta e as retas CB e ED são paralelas. Assim sendo, o ângulo <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_60_a.png&gt;</imagem>
+</imagem>
+</imagem> mede</secao_exercicio>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>39°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>44°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>47°</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>48°</secao_exercicio_item>
+<secao_exercicio_numerador>30	</secao_exercicio_numerador>Dadas as retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> paralelas, determine a medida do ângulo <caracter_italico>x</caracter_italico> na figura.<imagem>&lt;ID117-I106-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>31	</secao_exercicio_numerador>Na situação a seguir, em que as retas <caracter_italico>r</caracter_italico> e <caracter_italico>s</caracter_italico> são paralelas, sabe-se que a+b=44°. Dessa maneira, determine o valor de x+y.<imagem>&lt;ID119-I108-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+<secao_exercicio_numerador>32	</secao_exercicio_numerador>Os pontos A, B, C e D são distintos e colineares que se sucedem nesta mesma ordem em uma reta. Se M e N são os pontos médios de <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_61.png&gt;</imagem>
+</imagem>
+</imagem>, respectivamente, prove que <imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_62.png&gt;</imagem>
+</imagem>
+</imagem>.
+</secao_03>
+<secao_04>Superação<exercicio_enunciado>Na figura a seguir, todos os pontos são colineares. Sabe-se que M é ponto médio de <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_64.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem> e N é ponto médio de <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_65.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>. Se AC+DB=40 cm, determine a distância entre os pontos médios de <imagem>
+<imagem>
+<imagem>
+<imagem>&lt;MAT_L1_FB_U1_C2_66.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>.
+</exercicio_enunciado>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID123-I112-2020-EM-MAT-1º-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+<imagem></imagem>
+</secao_exercicio>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;ID123-I112-2020-EM-MAT-1º-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</secao_04>
+<secao_13>Seção olímpica<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio>
+<caracter_negrito>OBM</caracter_negrito> Três quadrados são colocados pelos seus vértices entre si e dois bastões verticais, como mostra a figura.</secao_exercicio>Qual a medida do ângulo <caracter_italico>x</caracter_italico>
+<imagem>&lt;ID125-I114-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>?
+</exercicio_enunciado>
+</exercicio_enunciado>
+<item_lista>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<item_lista>39°</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>41°</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>43°</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<item_lista>44°</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</item_lista>
+</item_lista>
+<item_lista>46°</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<secao_exercicio_item></secao_exercicio_item>
+</secao_13>
+<secao_05>No Enem é assim<exercicio_enunciado>
+<secao_exercicio_numerador>1	</secao_exercicio_numerador>
+<caracter_negrito>Enem 2018</caracter_negrito> A rosa dos ventos é uma figura que representa oito sentidos, que dividem o círculo em partes iguais.<imagem>&lt;ID128-I117-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_05_texto>Uma câmera de vigilância está fixada no teto de um <caracter_italico>shopping</caracter_italico> e sua lente pode ser direcionada remotamente, através de um controlador, para qualquer sentido. A lente da câmera está apontada inicialmente no sentido Oeste e o seu controlador efetua três mudanças consecutivas, a saber:</secao_05_texto>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio_bullet>•	1a mudança: 135° no sentido anti-horário;</secao_exercicio_bullet>
+<secao_exercicio_bullet>•	2a mudança: 60° no sentido horário;</secao_exercicio_bullet>
+<secao_exercicio_bullet>•	3a mudança: 45° no sentido anti-horário.</secao_exercicio_bullet>
+<secao_exercicio>Após a 3a mudança, ele é orientado a reposicionar a câmera, com a menor amplitude possível, no sentido Noroeste (NO) devido a um movimento suspeito de um cliente.</secao_exercicio>
+<secao_exercicio>Qual mudança de sentido o controlador deve efetuar para reposicionar a câmera?</secao_exercicio>
+<item_lista>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)</caracter_negrito>
+<item_lista>	75° no sentido horário.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)</caracter_negrito>
+<item_lista>	105° no sentido anti-horário.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>120° no sentido anti-horário.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<item_lista>135° no sentido anti-horário.</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</item_lista>
+<item_lista>165° no sentido horário.</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>2	</secao_exercicio_numerador>
+<caracter_negrito>Enem 2017</caracter_negrito> A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada <caracter_italico>O peixe</caracter_italico>, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos <caracter_italico>A</caracter_italico> e <caracter_italico>B</caracter_italico>.
+</exercicio_enunciado>Por um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizo<imagem>&lt;ID129-I118-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>nte<imagem>&lt;ID129-I118-2020-EM-MAT-1-L1-FB-U1-C2-B.png&gt;</imagem>.
+</exercicio_enunciado>
+<secao_exercicio></secao_exercicio>
+<secao_exercicio>Para recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°.</secao_exercicio>
+<secao_exercicio>A forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de </secao_exercicio>
+<item_lista>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<item_lista>90° no sentido horário.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>135° no sentido horário.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>180° no sentido anti-horário.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<item_lista>270° no sentido anti-horário.</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</item_lista>
+<item_lista>315° no sentido horário.</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<exercicio_enunciado>
+<exercicio_enunciado>
+<secao_exercicio_numerador>3	</secao_exercicio_numerador>
+<caracter_negrito>Enem 2016</caracter_negrito> Uma família resolveu comprar um imóvel num bairro cujas ruas estão representadas na figura. As ruas com nomes de letras são paralelas entre si e perpendiculares às ruas identificadas com números. Todos os quarteirões são quadrados, com as mesmas medidas, e todas as ruas têm a mesma largura, permitindo caminhar somente nas direções vertical e horizontal. Desconsidere a largura das ruas.<imagem>&lt;ID130-I119-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</exercicio_enunciado>
+<secao_exercicio>A família pretende que esse imóvel tenha a mesma distância de percurso até o local de trabalho da mãe, localizado na rua 6 com a rua E, o consultório do pai, na rua 2 com a rua E, e a escola das crianças, na rua 4 com a rua A.</secao_exercicio>Com base nesses dados, o imóvel que atende as pretensões da família deverá ser localizado no encontro das ruas </exercicio_enunciado>
+<item_lista>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)</caracter_negrito>
+<item_lista>	3 e C.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>4 e C.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>4 e D.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)</caracter_negrito>
+<item_lista>	4 e E.</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</item_lista>
+<item_lista>5 e C.</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<exercicio_enunciado>
+<secao_exercicio_numerador>4	</secao_exercicio_numerador>
+<caracter_negrito>Enem</caracter_negrito> Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília - DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4.<titulo4>Mapa do Brasil e algumas capitais</titulo4>
+</exercicio_enunciado>
+<imagem>
+<exercicio_enunciado></exercicio_enunciado>
+<imagem>
+<imagem>
+<imagem>
+<imagem>&lt;D131-I120-2020-EM-MAT-1º-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+</imagem>
+</imagem>
+</imagem>
+<imagem></imagem>
+<fonte>SIQUEIRA, S. Brasil Regiões. Disponível em: www.santiagosiqueira.pro.br. Acesso em: 28 jul. 2009 (adaptado).</fonte>
+<secao_05_texto>Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135 graus no sentido horário com a rota Brasília - Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em</secao_05_texto>
+<item_lista>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<item_lista>Belo Horizonte, e em seguida embarcou para Curitiba.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>Belo Horizonte, e em seguida embarcou para Salvador.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>Boa Vista, e em seguida embarcou para Porto Velho.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)</caracter_negrito>
+<item_lista>	Goiânia, e em seguida embarcou para o Rio de Janeiro.</item_lista>
+</secao_exercicio_item>
+<caracter_negrito>e)</caracter_negrito>
+</item_lista>
+<item_lista>	Goiânia, e em seguida embarcou para Manaus.</item_lista>
+</item_lista>
+<secao_exercicio_item></secao_exercicio_item>
+<secao_exercicio></secao_exercicio>
+<secao_05_texto> Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135 graus no sentido horário com a rota Brasília - Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em</secao_05_texto>
+<item_lista>
+<secao_exercicio></secao_exercicio>
+<item_lista>
+<secao_exercicio_item>
+<caracter_negrito>a)	</caracter_negrito>
+<item_lista>Belo Horizonte, e em seguida embarcou para Curitiba.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>b)	</caracter_negrito>
+<item_lista>Belo Horizonte, e em seguida embarcou para Salvador.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>c)	</caracter_negrito>
+<item_lista>Boa Vista, e em seguida embarcou para Porto Velho.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>d)	</caracter_negrito>
+<item_lista>Goiânia, e em seguida embarcou para o Rio de Janeiro.</item_lista>
+</secao_exercicio_item>
+<secao_exercicio_item>
+<caracter_negrito>e)	</caracter_negrito>
+</secao_exercicio_item>
+</item_lista>
+<item_lista>Goiânia, e em seguida embarcou para Manaus.</item_lista>
+</item_lista>
+</secao_05>
+</texto_geral>
+<imagem href="file:////Julia/Poliedro/Matema%cc%81tica/Volume%201/em_2022_v1_mat_fb_u1_cap1_102a123_p4%20Folder/Links/ID040-I035-2020-EM-MAT-1-L1-FB-U1-C2.ai"></imagem>
+<imagem href="file:////Julia/Poliedro/Matema%cc%81tica/Volume%201/em_2022_v1_mat_fb_u1_cap1_102a123_p4%20Folder/Links/ID039-I034-2020-EM-MAT-1-L1-FB-U1-C2-A.ai"></imagem>
+<imagem>
+<imagem>&lt;ID040-I035-2020-EM-MAT-1-L1-FB-U1-C2.png&gt;</imagem>
+</imagem>
+<imagem>
+<imagem>&lt;ID039-I034-2020-EM-MAT-1-L1-FB-U1-C2-A.png&gt;</imagem>
+</imagem>
+</Marca1>
