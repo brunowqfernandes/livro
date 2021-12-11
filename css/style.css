@@ -672,8 +672,7 @@ th {
 }
 
 tr.subtitle > th {
-  color: var(--color-lpo-d1) !important;
-  background: var(--color-lpo-d4) !important;
+  background: var(--color-lpo-d1) !important;
   text-transform: none !important;
 }
 
