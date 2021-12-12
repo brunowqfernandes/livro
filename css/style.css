@@ -683,6 +683,21 @@ td.subtitle {
   text-transform: none !important;
 }
 
+.wrap-collabsible th,
+.wrap-collabsible td {
+  border: 1px solid var(--color-lpo-a2);
+}
+
+.wrap-collabsible tr.subtitle > th {
+  background: var(--color-lpo-a2) !important;
+}
+
+.wrap-collabsible th.subtitle,
+.wrap-collabsible td.subtitle {
+  background: var(--color-lpo-a3) !important;
+  color: var(--color-lpo-a2) !important;
+}
+
 .tg-0lax {
   text-align: center;
   font-family: "proxima_novalight";
