@@ -676,8 +676,8 @@ tr.subtitle > th {
   text-transform: none !important;
 }
 
-th.subtitle,
-td.subtitle {
+tr th.subtitle,
+tr td.subtitle {
   color: var(--color-lpo-d1) !important;
   background: var(--color-lpo-d4) !important;
   text-transform: none !important;
