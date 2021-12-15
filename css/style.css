@@ -661,7 +661,6 @@ td {
 }
 
 tbody tr td:first-child {
-  font-weight: bold;
   text-align: center;
   font-family: "proxima_novaregular";
 }
