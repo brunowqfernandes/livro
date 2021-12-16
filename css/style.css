@@ -319,6 +319,11 @@ table {
   color: #2B2E34;
 }
 
+table td img{
+  max-width: 100%;
+}
+
+
 .tabela-gravata td:first-child{
   background: var(--color-fis-d3);
   text-align: center;
@@ -1142,4 +1147,8 @@ label img{
   width: fit-content;
   margin: 0 auto;
   background-color: var(--color-fis-d3);
+}
+
+.img-menor {
+  max-width: 180px;
 }
